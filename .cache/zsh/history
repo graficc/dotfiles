@@ -1,0 +1,10255 @@
+cd .cache/
+mkdir zsh
+touch .history
+vi ~/.config/zsh/.zshrc
+vim ~/.config/zsh/.zshrc
+mv .history history
+cd
+sudo pacman -Syu
+sudo pacman -S fcitx5 fcitx5-chinese-addons fcitx5-qt fcitx5-gtk
+vim .xprofile
+reboot
+clash
+fcitx5
+reboot
+clash
+la
+vim .config/fcitx5/conf/cloudpinyin.conf
+vim .config/fcitx5/conf/classicui.conf
+fcitx5
+vim .config/fcitx5/conf/classicui.conf
+vim .config/fcitx5/conf/pinyin.conf
+vim .config/fcitx5/conf/pinyin.conf
+fcitx5
+vim .config/fcitx5/conf/pinyin.conf
+clash
+reboot
+reboot
+clash
+reboot
+clash
+sudo pacman -S fcitx5-qt fcitx5-gtk
+cd /boot/grub/themes
+la
+clash
+cd Downloads/aur
+git clone https://github.com/vinceliuice/grub2-themes.git
+cd grub2-themes
+la
+sudo ./install.sh -t -b vimix
+sudo ./install.sh -t -b Vimix
+./install.sh --help
+sudo ./install.sh -b -t vimix
+vim /etc/default/grub
+reboot
+cd Downloads/aur/grub2-themes
+./install.sh --help
+sudo ./install.sh -b -t vimix -i whitesur
+reboot
+cd Downloads/aur/grub2-themes
+sudo ./install.sh -b -t vimix -i white
+sudo pacman -S telegram-desktop
+sudo pacman -S typora
+sudo pacman -S visual-studio-code-bin
+clash
+sudo pacman -S fcitx5-chinese-addons
+sudo pacman -S fcitx5-qt4-git
+vim .xprofile
+reboot
+yay -Syu
+yay -Sc
+df
+pidof clash
+la
+clear
+df
+nvidia-smi
+neofetch
+clear
+clash
+clash
+systemctl --user enable clash.service
+reboot
+la
+sudo pacman -S gcc gdb clang llvm
+yay -Sc
+df
+la
+clear
+sudo pacman -S android-tools
+adb --version
+la
+nvim
+sudo pacman -S nodejs yarn
+nvidia-smi
+sudo pacman -S neovim python
+sudo pacman -S python-neovim
+sudo pacman -S xsel
+nvim
+yarn global add neovim
+vi .gitconfig
+vi .yarnrc
+yarn global add neovim
+sudo pacman -S ruby gem
+sudo pacman -S ruby
+nvim
+clash
+gem install neovim
+nvim
+ls
+la
+nvim
+gem uninstall neovim
+gem uninstall neovim
+gem uninstall neovim
+gem uninstall neovim
+sudo pacman -Rns ruby
+gem uninstall neovim
+clear
+nvim
+cd .config/
+mkdir nvim
+cd nvim
+vi init.vim
+vi coc-settings.json
+vi coc-settings.json
+mkdir 01-general.vim
+rm -rf 01-general.vim
+vi 01-general.vim
+mkdir rc.d
+mv 01-general.vim rc.d
+la
+cd rc.d
+vi 01-general.vim
+source ../init.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 02-plugins.vim
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'\
+
+sudo pacman -S proxychains-ng
+proxychains
+proxy
+cd
+vi /etc/proxychains.conf
+sudo vi /etc/proxychains.conf
+sudo vim /etc/proxychains.conf
+cd -
+la
+proxychains sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \\
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+nvim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+nvim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+sudo pacman -Ss nerd
+sudo pacman -S ttf-nerd-fonts-symbols
+sudo pacman -S ttf-nerd-fonts-symbols-mono
+clear
+vi 03-plugins-settings.vim
+sudo pacman -Ss sarasa
+cd .config/nvim/rc.d
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi ~/.config/alacritty/alacritty.yml
+clear
+vi ~/.config/alacritty/alacritty.yml
+vi ~/.config/alacritty/alacritty.yml
+clear
+la
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+source ../init.vim
+la
+nvim
+clear
+shutdown now
+cd .config
+cd
+la
+rm -rf .viminfo
+mkdir Code
+la
+cd Code
+la
+sudo pacman -S ctags
+sudo pacman -S universal-ctags-git
+cd Code
+vi hello.cpp
+vi hello.cpp
+vi hello.cpp
+vi hello.cpp
+vi hello.cpp
+la
+clear
+nvim
+z rc.d
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi ~/.config/alacritty/alacritty.yml
+vi ~/.config/alacritty/alacritty.yml
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 01-general.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+clear
+yay -Syu
+df
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 02-plugins.vim
+sudo pacman -S clang
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 01-general.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+cd Code
+touch .clang-format
+clang-format --help
+clang-format --dump-config --style="{BasedOnStyle: llvm, IndentWidth: 4}"
+clang-format --dump-config --style="{BasedOnStyle: llvm, IndentWidth: 4}" > .clang-format
+vi hello.cpp
+clear
+cd Code
+vi hello.cpp
+vi /run/media/limbo/Gapcolt/dotfiles/dotfiles/.cache/zsh/history
+sudo pacman -Syu
+yay -Syu
+sudo pacman -S xfsdump
+yay -Sc
+cd Documents
+la
+chmod -x ËµÉ§ÊÉ∂Éπ
+la
+node -v
+yarn -v
+sudo pacman -Ss hexo
+cd Blog
+la
+yarn
+yarn install
+yarn install -g hexo-cli
+yarn global add hexo-cli
+hexo s
+hexo g
+hexo s
+hexo d
+df
+yay -Sc
+reboot
+df
+cd Downloads
+sudo xfsdump -l 0 -L root_all -M root_all -f ./root.dump /
+sudo xfsdump -l 0 -L home_all -M home_all -f ./home.dump /home
+mv root.dump /run/media/limbo/Gapcolt/
+ls
+l
+vi ~/.config/zsh/.zshrc
+source ~/.config/zsh/.zshrc
+reboot
+df
+vi .config/zsh/.zshrc
+tree
+df
+cd Documents
+chmod -x ËµÉ§ÊÉ∂Éπ
+la
+df
+df
+reboot
+df
+sudo xfsdump -l 0 -L home_all -M home_all -f ./home.dump /home
+mv home.dump /run/media/limbo/Gapcolt/
+reboot
+vi .config/zsh/.zshrc
+cd Documents
+la
+mkdir dotfiles
+cp ../.xprofile dotfiles
+cd dotfiles
+la
+cp ~/.yarnrc
+cp ~/.yarnrc .
+cp ~/.gitconfig .
+cp ~/.config/alacritty . -r
+cp ~/.config/clash . -r
+la
+mkdir .config
+mv alacritty .config
+mv clash .config
+cd .config
+cp ~/.config/fcitx5 . -r
+cp ~/.config/fontconfig -r
+cp ~/.config/fontconfig . -r
+mkdir zsh
+cd zsh
+cp ~/.config/zsh/.zshrc .
+cp ~/.config/zsh/plugins . -r
+la
+cd ..
+mkdir nvim
+cd nvim
+cp ~/.config/nvim/coc-settings.json .
+cp ~/.config/nvim/init.vim .
+cp ~/.config/nvim/rc.d . -r
+cd ..
+la
+cd clash
+la
+vi config.yaml
+vi config.yaml
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=2 -o config.yaml
+vi config.yaml
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=2 -O config.yaml
+vi config.yaml
+cd ..
+la
+cd ..
+la
+mkdir .local
+cd .local
+mkdir share
+cd share
+cp -r ~/.local/share/fonts .
+la
+cp -r ~/.local/share/icons .
+cd ../..
+mkdir .cache
+cd .cache
+cp ~/.cache/history .
+vi history
+cp ~/.cache/zsh .
+cp ~/.cache/zsh . -r
+cd Downloads
+cd a
+cd aur
+git clone https://aur.archlinux.org/papirus-folders-git.git
+cd papirus-folders-git
+la
+makepkg -si
+papirus-folders -l --theme Papirus-Dark
+papirus-folders -l --theme Papirus-Light
+papirus-folders -C teal --theme Papirus-Light
+cd Documents/dotfiles
+git init
+git remote add origin https://github.com/horel/dotfiles.git
+git add .
+git commit -m "2021-06-26"
+git add .
+git push origin main -u
+git push -u origin main
+la
+cd .local
+la
+cd share
+la
+cd icons
+la
+cd
+cd Documents/dotfiles
+la
+cd .local
+la
+cd share
+la
+cd icons
+la
+rm -rf Papirus*
+la
+cd
+cd Documents/dotfiles
+rm -rf .git
+git init
+git remote add origin https://github.com/horel/dotfiles.git
+git add .
+git commit -m "2021-06-26"
+git push origin main -u
+git push origin master -u
+cd
+la
+df
+clear
+gdisk --help
+gdisk /dev/nvme0n1
+gdisk /dev/nvme1n1
+gdisk /dev/nvme1n1p2
+lsblk
+gdisk /dev/sdb
+gdisk /dev/sda
+sudo gdisk /dev/sdb
+sudo gdisk /dev/sdb
+lsblk
+sudo gdisk /dev/sdb
+sudo gdisk /dev/sdb
+vim /etc/default/grub
+vim /etc/default/grub
+cd Documents/Blog
+hexo cl
+hexo g
+hexo d
+hexo s
+shutdown now
+yay -Syu
+la
+rm -rf .viminfo
+la
+reboot
+la
+sudo pacman -Qs chrome-
+sudo pacman -Qs visual
+pacman -Qs fcitx5
+sudo pacman -Ss xcursor-breeze
+sudo pacman -Ss breeze
+yay -Ss xcursor-breeze
+z aur
+cd ..
+git clone https://aur.archlinux.org/xcursor-breeze.git
+cd xcursor-breeze
+la
+makepkg -si
+cd
+cd Documents/dotfiles/.local/share
+la
+git rm icons/
+git rm icons/ -r
+la
+cd ../..
+git commit -m "2021-06-27"
+git push origin master
+vi .config/alacritty/alacritty.yml
+vi .config/zsh
+cd .config/zsh
+la
+cd plugins
+la
+cd
+cd .config/clash
+la
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=1 -O config.yaml
+sudo vim /etc/proxychains.conf
+vim /etc/proxychains.conf
+nvim
+sudo pacman -S python
+nvim
+nvim
+cd Documents/dotfiles/.config/clash
+la
+git rm config.yaml
+vi vG70Pu80AJPCL1BI\?clash=2
+git rm vG70Pu80AJPCL1BI\?clash=2
+cd
+z /home/limbo/Documents/dotfiles
+la
+git commit -m "2021-06-27"
+git push origin master
+pacman -S ttf
+pacman -Qs ttf
+pacman -Qs adobe
+pacman -Qs jetbrains
+gcc -v
+cd Documents/dotfiles/
+cd Documents
+cd Blog
+la
+hexo cl
+hexo g
+hexo s
+vi themes/shoka/_config.yml
+vi _config.shoka.yml
+la
+git checkout -b source_code
+git
+cd ..
+cp -r Blog back
+cd b
+cd Blog
+git init
+git remote add origin https://github.com/horel/horel.github.io.git
+git add .
+git commit -m "source_code"
+git push origin master:source
+git branch
+git checkout -b source
+git branch
+git add .
+git commit -m "source_code"
+git push origin master:source
+git branch
+z blog
+git branch
+cd Documents
+la
+rm -rf back
+la
+shutdown now
+z dot
+git add .
+git commit -m "2021-06-27"
+git push origin master
+z blog
+hexo g
+hexo d
+shutdown now
+yay -Syu
+df
+yay -Sc
+sudo xfsdump -l 0 -L home_all -M home_all -f ./home.dump /home
+la
+mv home.dump /run/media/limbo/Gapcolt
+cd Downloads
+df
+sudo xfsdump -l 0 -L root_all -M root_all -f ./root.dump /
+mv root.dump /run/media/limbo/Gapcolt/
+la
+df
+cd Code
+mkdir SDL
+la
+rm -rf hello.cpp
+cd SDL
+sudo pacman -S jdk-openjdk
+sudo pacman -S cmake
+sudo pacman -S make cmake
+g++
+g++ --help
+gcc --help
+sudo pacman -S SDL2
+sudo pacman -S sdl2
+vi 01_hello_SDL.cpp
+vi ~/.config/zsh/.zshrc
+cd Downloads/02_getting_an_image_on_the_screen
+vi 02_getting_an_image_on_the_screen.cpp
+z sdl
+vi 02_getting_an_image_on_the_screen.cpp
+z sdl
+la
+vi 01_hello_SDL.cpp
+cl++ 01_hello_SDL.cpp -W -lSDL
+cl++ 01_hello_SDL.cpp -W -lSDL2
+./a.out
+vi 01_hello_SDL.cpp
+./a.out
+cl++ 01_hello_SDL.cpp -W -lSDL2
+./a.out
+./a.out
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2 -W
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+cl++ --hwlp
+cl++ --help
+./a.out
+vi 02_getting_an_image_on_the_screen.cpp
+la
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.out
+./a.out
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.
+./a.out
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.
+./a.out
+ffmpeg -i a.bmp a.bmp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.out
+ffmpeg --help
+ffmpeg -i -s 1280x720 a.bmp a.bmp
+ffmpeg -s -i 1280x720 a.bmp a.bmp
+ffmpeg -s 1280x720 -i a.bmp a.bmp
+diaplay a.bmp
+sudo pacman -S display
+ffmpeg -s 1280x720 -i a.bmp b.bmp
+ffmpeg -s 1280x720 -i a.bmp b.bmp
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.
+./a.out
+./a.out
+./a.bmp
+ffmpeg -i a.bmp -s 1280x720 b.bmp
+diaplay
+sudo pacman -Ss display
+sudo pacman -S mpv
+sudo pacman -S imagemagick
+display hello_world.bmp
+vi 02_getting_an_image_on_the_screen.cpp
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+ffmpeg -i a.jpg -s 1280x720 a.bmp
+display hello_world.bmp
+./a.out
+ffmpeg -i a.jpg  a.bmp
+./a.out
+clear
+vi 02_getting_an_image_on_the_screen.cpp
+ffmpeg -i hello_world.jpg -s 1140x470 hello_world.bmp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.out
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+ffmpeg -i hello_world.jpg -s 2280x940 hello_world.bmp
+rm -rf hello_world.jpg
+./a.out
+ffmpeg -i hello_world.bmp -s 1710x705 hello_world.bmp
+ffmpeg -i hello_world.bmp -s 1710x705 hello_world.jpg
+ffmpeg -i hello_world.jpg -s 1710x705 hello_world.bmp
+vi 02_getting_an_image_on_the_screen.cpp
+cl++ 02_getting_an_image_on_the_screen.cpp -lSDL2
+./a.out
+rm -rf hello_world.jpg
+la
+clear
+./a.out
+vi 03_event_driven_programming.cpp
+cp 02_getting_an_image_on_the_screen.cpp 03_event_driven_programming.cpp
+vi 03_event_driven_programming.cpp
+la
+la
+cl++ 03_event_driven_programming.cpp -lSDL2
+./a.out
+./a.out
+cp 03_event_driven_programming.cpp 04_key_presses.cpp
+vi 04_key_presses.cpp
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+la
+la
+clear
+la
+clear
+sudo pacman -Syu
+sudo pacman -Syu
+yay -Syu
+clear
+la
+ls
+clear
+sudo pacman -Syu
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+sudo pacman -Syu
+vi .config/alacritty/alacritty.yml
+sudo pacman -Syu
+vi .config/alacritty/alacritty.yml
+clear
+la
+sudo pacman -Syu
+sudo pacman -Syu
+yay -Syu
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+clear
+vi .config/alacritty/alacritty.yml
+clear
+la
+clear
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+la
+nvim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+printf "\x1b[38;2;255;100;0mTRUECOLOR\x1b[0m\n"
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+z sdl
+vi 04_key_presses.cpp
+cd
+vi .config/alacritty/alacritty.yml
+clear
+nvim
+clear
+nvim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/02-plugins.vim
+clear
+z sdl
+vi 04_key_presses.cpp
+shutdown now
+yay -Syu
+clear
+la
+rm -rf .viminfo
+la
+reboot
+yay -Ss eclipse
+clear
+sudo pacman -S j
+clear
+sudo pacman -Ss eclipse
+clear
+sudo pacman -Ss eclipse
+java -v
+java -V
+java -help
+java -version
+clear
+cd Code
+mkdir Java
+cd Java
+vi hello.java
+mv hello.java HelloWorld.java
+clear
+archlinux-java status
+vi HelloWorld.java
+javac HelloWorld.java
+java HelloWorld
+la
+clear
+la
+clear
+la
+vi HelloWorld.java
+vi HelloWorld.class
+sudo pacman -S openjdk-doc
+clear
+la
+ja
+java HelloWorld
+clear
+la
+sudo pacman -S maven
+sudo pacman -S unzip webkit2gtk
+clear
+la
+clear
+vi Homework1.java
+javac Homework1.java
+vi Homework1.java
+vi Homework1.java
+javac Homework1.java
+vi Homework1.java
+javac Homework1.java
+vi Homework1.java
+javac Homework1.java
+vi Homework1.java
+javac Homework1.java
+vi Homework1.java
+javac Homework1.java
+java Homework1
+vi Homework1.java
+vi Homework1.java
+javac Homework1.java
+java Homework1
+vi Homework1.java
+java Homework1
+javac Homework1.java
+java Homework1
+java Homework1
+vi Homework1.java
+javac Homework1.java
+java Homework1
+java Homework2
+vi Homework2
+vi Homework1
+vi Homework1.java
+vi Homework2
+vi Homework1.java
+vi Homework2
+la
+mv Homework2 Homework2.java
+vi Homework2.java
+javac Homework2.java
+java Homework2
+vi Homework2.java
+javac Homework2.java
+java Homework2
+vi Homework2.java
+vi Homework2.java
+javac Homework2.java
+java Homework2
+vi Homework2.java
+vi Homework2.java
+javac Homework2.java
+java Homework2
+vi Homework2.java
+javac Homework2.java
+java Homework2
+vi Homework2.java
+clear
+la
+java Homework1
+java Homework2
+la
+vi Homework1.java
+vi Homework1.java
+java Homework1
+java Homework2
+sudo pacman -S eclipse-java
+clear
+yay -Syu
+sudo pacman -S idea
+cd Code/Java
+vi A.java
+javac A.java
+java A
+shutdown now
+la
+clear
+shutdown now
+cd Code/Java
+la
+rm -rf A.*
+la
+javac Homework1.java
+clear
+z java
+vi Test.java
+javac Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+vi Test.java
+rm -rf Test.*
+la
+clear
+sudo pacman -S intellij-idea-community-edition
+archlinux-java status
+clear
+yay -Syu
+uname -a
+z sdl
+la
+sudo pacman -Syu
+clear
+z sdl
+vi 04_key_presses.cpp
+vi 04_key_presses.cpp
+vi 04_key_presses.cpp
+cl++ 04_key_presses.cpp -lSDL2
+./a.out
+vi 04_key_presses.cpp
+cl++ 04_key_presses.cpp -lSDL2
+./a.out
+vi 04_key_presses.cpp
+cl++ 04_key_presses.cpp -lSDL2
+./a.out
+vi 04_key_presses.cpp
+cl++ 04_key_presses.cpp -lSDL2
+./a.out
+z
+z
+z sdl
+clear
+ls
+clear
+vi 04_key_presses.cpp
+vi 04_key_presses.cpp
+la
+vi 04_key_presses.cpp
+cl++ 04_key_presses.cpp -lSDL2
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cp 04_key_presses.cpp 05_optimized_surface_loading_and_soft_stretching.cpp
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+rm -rf 05_optimized_surface_loading_and_soft_stretching.cpp
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+reboot
+cd Downloads/05_optimized_surface_loading_and_soft_stretching
+la
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+z sdl
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+la
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+cl++ 05_optimized_surface_loading_and_soft_stretching.cpp -lSDL2
+./a.out
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+vi 05_optimized_surface_loading_and_soft_stretching.cpp
+la
+la
+yay -Syu
+clear
+z java
+vi Homework2.java
+vi Test.java
+vi Test.java
+vi Homework1.java
+vi Homework1.java
+vi Test.java
+vi Homework1.java
+vi Homework1.java
+sudo pacman -S intellij-idea-community-edition
+yay -Syu
+clear
+sudo pacman -S intellij-idea-community-edition
+sudo pacman -Rns intellij-idea-community-edition
+clear
+gedit OrderFoodSys.java
+vi fuck.java
+mv fuck.java OrderFoodSys.java
+la
+clear
+vi OrderFoodSys.java
+javac OrderFoodSys.java
+java OrderFoodSys
+clear
+vi test.java
+vi fuck.java
+xsel -b < fuck.java
+vi fuck.java
+vi fuck.java
+vi ~/.config/nvim/rc.d/03-plugins-settings.vim
+vi ~/.config/nvim/rc.d/02-plugins.vim
+vi ~/.config/nvim/rc.d/02-plugins.vim
+z java
+vi Homework1.
+vi Homework1.java
+vi fuck.java
+cd ~/Downloads/Telegram\ Desktop
+la
+javac Lib.java
+sudo pacman -S intellij-idea-community-edition
+sudo pacman -Rns intellij-idea-community-edition
+la
+rm -rf .java
+la
+rm -rf .android
+la
+shutdown now
+yay -Syu
+shutdown now
+shutdown now
+sudo pacman -S maven
+yay -Syu
+nvim
+cd Code/Java
+la
+mv ~/Downloads/Telegram\ Desktop/Lib.java .
+la
+vi Lib.java
+la
+javac Lib.java
+java Lib
+vi Lib.java
+javac Lib.java
+java Lib
+vi Lib.java
+javac Lib.java
+java Lib
+vi Lib.java
+javac Lib.java
+java Lib
+java Lib
+vi Lib.java
+la
+rm -rf Lib
+la
+clear
+la
+clear
+yay -Syu
+clear
+yay -Syu
+reboot
+yay -Syu
+yay -Sc
+clear
+sudo pacman -S intellij-idea-community-edition
+clear
+yay -Scc
+sudo pacman -S intellij-idea-community-edition
+clear
+sudo pacman -Syu
+java -version
+clear
+mvn --help
+mvn -v
+sudo pacman -Rns maven
+z java
+vi Demo.java
+javac Demo.java
+java Demo
+reboot
+yay -Syu
+z java
+vi Homework1.java
+z java
+cd Voter
+vi Vote.java
+cd ..
+mv Voter Vote
+cd Vote
+vi Vote.java
+vi Test.java
+la
+cd ..
+la
+z /home/limbo/Code/Java
+vi Lib.java
+z /home/limbo/Code/Java
+cd Vote
+vi Vote.java
+javac Vote.java
+java Vote
+la
+javac Test.java
+vi Test.java
+vi Test.java
+javac Vote.java
+javac Test.java
+z /home/limbo/Code/Java
+vi Lib.java
+vi Lib.java
+vi Lib.java
+z /home/limbo/Code/Java
+vi Vote/Test.java
+z java
+vi Lib.java
+sudo pacman -S astyle
+cd
+vi .astylerc
+source .astylerc
+la
+sudo pacman -Fy
+z java
+vi Lib.java
+clear
+java -v
+java -version
+clear
+java -version
+clear
+la
+sudo pacman -S bat
+bat Lib.java
+vi ~/.config/zsh/.zshrc
+cat Demo.java
+bat Demo.java
+vi ~/.config/zsh/.zshrc
+sudo pacman -Rns bat
+clear
+yay -Scc
+clear
+clear
+la
+mkdir Voter
+cd Voter
+vi Voter.java
+mv Voter.java Vote.java
+vi Vote.java
+vi Vote.java
+vi Vote.java
+la
+vi Test.java
+la
+clear
+cd
+la
+z java
+cd Vote
+la
+vi Vote.java
+la
+vi Vote.java
+vi Vote.java
+vi Test.java
+cd ..
+la
+rm -rf vote
+rm -rf Vote
+mkdir Vote
+cd Vote
+vi Vote.java
+vi Test.java
+javac Vote.java
+vi Vote.java
+vi Vote.java
+vi Test.java
+vi .java
+vi Vote.java
+javac Vote.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+vi Vote.java
+javac Vote.java
+java Vote
+vi Vote.java
+javac Vote.java
+java Vote
+vi Vote.java
+vi Vote.java
+mv Vote.java Test.java
+javac Test.java
+java Test
+clear
+la
+rm -rf Vote.class
+la
+cd ..
+mkdir Pet
+cd Pet
+la
+vi Test.java
+vi Test.java
+vi Test.java
+vi Test.java
+vi Test.java
+shutdown now
+z java
+cd Pet
+la
+vi Test.java
+javac Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+la
+clear
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+clear
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+vi Test.java
+mv Test.java Test_work2.java
+javac Test_work2.java
+java Test_work2
+cd ..
+cd Vote
+la
+mv Test.java Test_work1.java
+vi Test_work1.java
+javac Test_work1.java
+java Test_work1
+vi Test_work1.java
+javac Test_work1.java
+la
+rm -rf Test.class Vote.class
+la
+java Test_work1
+javac Test_work1.java
+la
+java Test_work1
+java Test_work1
+java Test_work1
+clear
+cd
+z /home/limbo/Code/Java
+la
+mkdir Product
+cd P
+cd Product
+la
+vi Product.java
+javac Product.java
+vi Product.java
+la
+vi Product.java Test.java
+mv Product.java Test.java
+vi Test.java
+javac Test.java
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+mv Test.java Test_work3.java
+vi Test_work3.java
+rm -rf Test.class
+javac Test.java
+javac Test_work3.java
+la
+java Test_work3
+z java
+cd Vote
+clear
+javac Test_work1.java
+java Test_work1
+cd ../Pet
+clear
+javac Test_work2.java
+java Test_work2
+cd ../Product
+clear
+javac Test_work3.java
+java Test_work3
+yay -Syu
+shutdown now
+yay -Syu
+z java
+vi A.java
+javac A.java
+java A
+shutdown now
+yay -Syu
+la
+sudo pacman -Ss uncrustify
+cd Documents
+cd Blog
+la
+hexo n ""
+hexo n "ÁÉ©ÉªÈÉÅøËø≠‰ª£Ê≥ÉµÊ±ÇÂπ≥ÊÉ∂πÊÉÄπ"
+hexo g
+hexo d
+hexo s
+hexo g
+hexo d
+hexo s
+git add .
+git commit -m "2021-06-30"
+git push origin master
+git branch
+git push origin master:source
+z blog
+la
+cd .deploy_git
+la
+cd ..
+vi db.json
+yay -Syu
+la
+clear
+la
+cd Code/
+cd Code/
+mkdir Algorithms_4th
+cd Algorithms_4th
+la
+reboot
+z /home/limbo/Code/Java
+la
+cp HelloWorld.java ../Algorithms_4th
+clear
+yay -Syu
+mv Downloads/algs4.jar Code/Java
+z java
+mv algs4.jar ../Algorithms_4th
+cd ../Algorithms_4th
+la
+javac -cp algs4.jar HelloWorld.java
+java HelloWorld
+la
+clea
+java HelloWorld -cp algs4.jar
+clear
+la
+clear
+rm -rf HelloWorld.*
+la
+clear
+la
+clear
+vi HelloWorld.java
+clear
+vi HelloWorld.java
+vi ~/.config/zsh/.zshrc
+vi ~/.xprofile
+source ~/.xprofile
+vi HelloWorld.java
+vi ~/.config/zsh/.zshrc
+vi HelloWorld.java
+reboot
+cd Code/Algorithms_4th
+vi HelloWorld.java
+sudo pacman -S maven
+mvn -v
+vi pom.xml
+vi HelloWorld.java
+la
+vi pom.xml
+vi hello.java
+vi HelloWorld.java
+vi ~/.xprofile
+sudo pacman -Rns maven
+clear
+la
+rm -rf pom.xml
+la
+z /home/limbo/Code/Algorithms_4th
+la
+z /home/limbo/Code/Algorithms_4th
+la
+vi src/HelloWorld.java
+vi ~/.xprofile
+source ~/.xprofile
+la
+la
+git clone https://github.com/kevin-wayne/algs4.git --single-branch
+la
+vi HelloWorld.java
+cd algs4
+la
+cd src/main/java/edu/princeton/cs/algs4
+la
+cd -
+la
+mv src ..
+la
+cd ..
+la
+mv lib/algs4.jar src
+rm -rf lib
+mv src lib
+la
+cd algs4
+cd ..
+vi HelloWorld.java
+vi ~/.xprofile
+la
+rm -rf algs4
+vi ~/.xprofile
+source ~/.xprofile
+vi HelloWorld.java
+vi HelloWorld.java
+la
+vi HelloWorld.java
+vi ~/.xprofile
+vi ~/.xprofile
+source ~/.xprofile
+vi HelloWorld.java
+vi HelloWorld.java
+cd Code/Algorithms_4th
+la
+vi HelloWorld.java
+vi HelloWorld.java
+vi ~/.xprofile
+source ~/.xprofile
+vi HelloWorld.java
+vi HelloWorld.java
+vi HelloWorld.java
+mv lib/Std* .
+mv lib/In.java .
+mv lib/Out.java .
+mv lib/Draw* .
+mv lib/Picture.java .
+mv lib/GrayscalePicture.java .
+mv lib/BinaryStd* .
+mv lib/BinaryIn.java .
+mv lib/BinaryOut.java .
+la
+vi HelloWorld.java
+vi HelloWorld.java
+vi HelloWorld.java
+vi HelloWorld.java
+vi HelloWorld.java
+vi HelloWorld.java
+la
+clear
+vi HelloWorld.java
+javac HelloWorld.java
+javac HelloWorld.java -cp lib/algs4.jar
+java HelloWorld
+clear
+vi ~/.xprofile
+source ~/.xprofile
+javac HelloWorld.java
+java HelloWorld
+clear
+cd
+vi ~/.xprofile
+source ~/.xprofile
+z /home/limbo/Code/Algorithms_4th
+la
+javac HelloWorld.java
+clear
+cd Documents/dotfiles/
+git add .
+git commit -m "2021-07-01"
+git push origin master
+cd ../Blog
+la
+cd
+shutdown now
+yay -Syu
+clear
+la
+rm -rf .gradle
+la
+reboot
+pacman -Si linux-firmware
+pacman -Si linux-headers
+vim /var/log/pacman.log
+clear
+nvidia-smi
+git --help
+z java
+vi Main.java
+javac Main.java
+rm -rf Main.java
+clear
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+la
+vi .viminfo
+rm -rf .viminfo
+la
+clear
+clear
+cd Code/Algorithms_4th
+la
+clear
+rm -rf HelloWorld.*
+la
+more algs4-data/16Kints.txt
+clear
+less algs4-data/16Kints.txt
+clear
+z /home/limbo/Code/Algorithms_4th
+la
+vi BinarySearch.java
+vi BinarySearch.java
+vi BinarySearch.java
+javac BinarySearch.java algs4-data/tinyW.txt < tinyT.txt
+javac BinarySearch.java algs4-data/tinyW.txt < algs4-data/tinyT.txt
+java BinarySearch.java algs4-data/tinyW.txt < algs4-data/tinyT.txt
+java edu.princeton.cs.algs4.
+la
+clear
+la
+javac BinarySearch.java
+javac BinarySearch.java -Xlint:deprecation
+la
+clear
+java BinarySearch algs4-data/tinyW.txt < algs4-data/tinyT.txt
+clear
+vi algs4-data/tinyW.txt
+clear
+vi algs4-data/tinyT.txt
+z java
+vi test.java
+vi test.java
+java test.java
+vi test.java
+java test.java
+java test.java
+vi test.java
+java test.java
+clear
+cd
+vi .xprofile
+vi .config/zsh/.zshrc
+source ~/.xprofile
+source ~/.xprofile
+clear
+source .config/zsh/.zshrc
+z /home/limbo/Code/Algorithms_4th
+la
+clear
+la
+javac+ BinarySearch.java
+java BinarySearch
+java BinarySearch algs4-data/tinyW.txt < algs4-data/tinyT.txt
+clear
+reboot
+z java
+la
+java HelloWorld
+z /home/limbo/Code/Algorithms_4th
+clear
+clear
+cd
+java Code.Java.HelloWorld
+java Code.Algorithms_4th.BinarySearch
+java Code.Java.A
+clear
+z java
+la
+rm -rf A.*
+clear
+la
+vi OrderFoodSys.java
+clear
+la
+rm -rf ./*
+clear
+la
+z /home/limbo/Code/Algorithms_4th
+la
+vi BinarySearch.java
+z
+cd
+cd .config
+la
+clear
+clear
+z /home/limbo/Code/Algorithms_4th
+vi BinarySearch.java
+clear
+cd
+reboot
+clear
+java BinarySearch algs4-data/tinyW.txt < algs4-data/tinyT.txt
+z /home/limbo/Code/Algorithms_4th
+la
+vi BinarySearch.java
+vi BinarySearch.java
+vi BinarySearch.java
+java BinarySearch ~/Documents/algs4-data/largeW.txt < ~/Documents/algs4-data/largeT.txt
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+javac+ BinarySearch.java
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+java BinarySearch
+java BinarySearch 2 3
+clear
+vi BinarySearch.java
+java BinarySearch
+javac+ BinarySearch.java
+java BinarySearch
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+vi HelloWorld.java
+vi HelloWorld.java
+javac HelloWorld.java
+java HelloWorld
+clear
+javac BinarySearch.java
+javac BinarySearch.java -cp lib/algs4.jar
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+sudo pacman -S jdk-openjdk
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+cd
+z /home/limbo/Code/Algorithms_4th
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+reboot
+clear
+z /home/limbo/Code/Algorithms_4th
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+nvim
+nvim
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+vi BinarySearch.java
+javac -classpath lib/algs4.jar BinarySearch.java
+java BinarySearch 2 3
+vi ~/.xprofile
+source ~/.xprofile
+java BinarySearch 2 3
+javac BinarySearch.java
+java BinarySearch 2 3
+java BinarySearch algs4-data/tinyW.txt < algs4-data/tinyT.txt
+clear
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+clear
+vi .xprofile
+source ~/.xprofile
+vi .config/zsh/.zshrc
+clear
+source .config/zsh/.zshrc
+z /home/limbo/Code/Algorithms_4th
+la
+javac+ BinarySearch.java
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+java+ BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt -cp lib/algs4.jar
+reboot
+vi .xprofile
+source .xprofile
+z /home/limbo/Code/Algorithms_4th
+java BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt -cp lib/algs4.jar
+java -cp lib/algs4.jar BinarySearch
+la
+javac+ BinarySearch.java
+java+ BinarySearch
+java -cp .:lib/algs4.jar BinarySearch
+javac -cp .:lib/algs4.jar BinarySearch.java
+java -cp .:lib/algs4.jar BinarySearch
+java -cp .:lib/algs4.jar BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+clear
+vi .config/zsh/.zshrc
+cd
+vi .config/zsh/.zshrc
+source .config/zsh/.zshrc
+clear
+vi .xprofile
+z /home/limbo/Code/Algorithms_4th
+la
+rm -rf HelloWorld.*
+clear
+z /home/limbo/Code/Algorithms_4th
+javac+ BinarySearch.java
+java+ BinarySearch
+java+ BinarySearch ~/Documents/algs4-data/tinyW.txt < ~/Documents/algs4-data/tinyT.txt
+clear
+clear
+cd
+z /home/limbo/Code/Algorithms_4th
+la
+yay -Syu
+z /home/limbo/Code/Algorithms_4th
+la
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+javac Test.java
+java Test
+la
+vi 1.1.3.java
+vi 1.1.3.java
+vi 1.1.3.java
+mv 1.1.3.java 1_1_3.java
+vi 1_1_3.java
+mv 1_1_3.java EX_1-1-3.java
+vi EX_1-1-3.java
+vi EX_1-1-3.java
+mv EX_1-1-3.java EX_1_1_3.java
+vi EX_1_1_3.java
+la
+rm -rf BinarySearch.class
+rm -rf Test.class
+la
+vi BinarySearch.java
+javac+ BinarySearch.java
+java+ BinarySearch ~/Documents/algs4-data/largeW.txt < ~/Documents/algs4-data/largeT.txt
+clear
+la
+rm -rf BinarySearch.class
+vi EX_1_1_3.java
+javac EX_1_1_3.java
+java EX_1_1_3
+java EX_1_1_3 0 0 0
+vi EX_1_1_3.java
+javac EX_1_1_3.java
+java EX_1_1_3 0 0 0
+java EX_1_1_3
+java EX_1_1_3 0 0 0
+vi EX_1_1_3.java
+javac EX_1_1_3.java
+java EX_1_1_3 0 0 0
+java EX_1_1_3 1 1 1
+vi EX_1_1_3.java
+javac EX_1_1_3.java
+java EX_1_1_3
+java EX_1_1_3 1 1 1
+java EX_1_1_3 1 2 3
+java EX_1_1_3 1 2 1
+clear
+la
+rm -rf *.class
+la
+vi Test.java
+vi EX_1_1_5.java
+vi EX_1_1_5.java
+cat EX_1_1_3.java
+vi EX_1_1_5.java
+javac EX_1_1_5.java
+java EX_1_1_5
+java EX_1_1_5 1
+java EX_1_1_5 0.3
+vi EX_1_1_5.java
+javac EX_1_1_5.java
+java EX_1_1_5 0.3
+java EX_1_1_5 1.2
+clear
+la
+vi EX_1_1_6.java
+javac EX_1_1_6.java
+javac+ EX_1_1_6.java
+vi EX_1_1_6.java
+javac+ EX_1_1_6.java
+java+ EX_1_1_6
+clear
+la
+vi EX_1_1_6.
+vi EX_1_1_6.java
+vi EX_1_1_6.java
+javac+ EX_1_1_6.java
+java+ EX_1_1_6
+clear
+rm -rf *.class
+la
+nvim -v
+clear
+la
+mkdir 1-Fundamentals
+mv BinarySearch.java 1-Fundamentals
+cd 1-Fundamentals
+la
+vi BinarySearch.java
+cd ..
+la
+mv EX* 1-Fundamentals
+la
+clear
+cp lib 1-Fundamentals
+cp lib 1-Fundamentals -r
+la
+vi 1-Fundamentals/BinarySearch.java
+clear
+la
+vi Test.java
+java+ Test.java
+vi Test.java
+java+ Test.java
+vi Test.java
+vi Test.java
+java+ Test.java
+la
+vi EX_1_1_9.java
+vi EX_1_1_9.java
+vi 1-Fundamentals/EX_1_1_6.java
+vi 1-Fundamentals/EX_1_1_5.java
+vi EX_1_1_9.java
+java+ EX_1_1_9.java
+java+ EX_1_1_9.java 12
+clear
+la
+javac+ EX_1_1_9.java
+java+ EX_1_1_9
+java+ EX_1_1_9 9
+vi EX_1_1_9.java
+java+ EX_1_1_9.java 12
+clear
+la
+rm -rf *.class
+la
+vi EX_1_1_11.java
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+clear
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+javac+ EX_1_1_11.java
+java+ EX_1_1_11
+vi EX_1_1_11.java
+clear
+la
+z /home/limbo/Code/Algorithms_4th
+vi EX_1_1_13.java
+javac EX_1_1_13.java
+java EX_1_1_13
+vi EX_1_1_13.java
+javac EX_1_1_13.java
+java EX_1_1_13
+vi EX_1_1_13.java
+javac EX_1_1_13.java
+java EX_1_1_13
+vi EX_1_1_13.java
+javac EX_1_1_13.java
+java EX_1_1_13
+vi EX_1_1_13.java
+clear
+la
+rm -rf *.class
+la
+cd 1-Fundamentals
+vi BinarySearch.java
+z /home/limbo/Code/Algorithms_4th
+la
+vi EX_1_1_13.java
+vi EX_1_1_13.java
+shutdown now
+z /home/limbo/Code/Algorithms_4th
+vi EX_1_1_14.java
+vi EX_1_1_14.java
+clear
+javac+ EX_1_1_14.java
+java+ EX_1_1_14
+java+ EX_1_1_14 6
+java+ EX_1_1_14 8
+vi EX_1_1_13.java
+vi EX_1_1_11.java
+vi EX_1_1_9.java
+vi EX_1_1_14.java
+clear
+javac+ EX_1_1_14.java
+java+ EX_1_1_14 9
+java+ EX_1_1_14 1 2
+clear
+java+ EX_1_1_14 -2
+clear
+vi EX_1_1_15.java
+vi EX_1_1_15.java
+vi EX_1_1_20.java
+vi EX_1_1_20.java
+java+ EX_1_1_20.java
+rm -rf *.class
+la
+clear
+la
+mkdir 2-Sorting
+la
+clear
+la
+cp -r lib 2-Sorting
+clear
+la
+clear
+la
+cp EX* 1-Fundamentals
+la
+rm -rf EX*
+la
+clear
+clear
+la
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+reboot
+clear
+yay -Syu
+z java
+la
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Test.java
+la
+mv Test.java Test_2.java
+vi Test_2.java
+javac Test_2.java
+java Test_2
+clear
+la
+rm -rf *.class
+javac Test_2.java
+la
+clear
+vi Test_1.java
+vi Test_1.java
+vi Test_1.java
+vi Test_1.java
+vi Test_1.java
+javac Test_1.java
+java Test_1
+vi Test_1.java
+java Test_1
+vi Test_1.java
+vi Test_1.java
+javac Test_1.java
+java Test_1
+vi
+javac Test_1.java
+java Test_1
+vi Test_1.java
+javac Test_1.java
+java Test_1
+vi Test_1.java
+javac Test_1.java
+java Test_1
+vi Test_1.java
+vi Test_1.java
+javac Test_1.java
+java Test_1
+clear
+vi Test_3.java
+vi Test_3.java
+yay -Syu
+clear
+z java
+vi Test_3.java
+vi Test_1.java
+vi Test_2.java
+reboot
+la
+z java
+vi Test_3.java
+reboot
+cd .config/nvim/
+la
+cd rc.d
+la
+nvim
+z java
+vi Test_1.java
+nvim
+nvim
+z java
+vi Test_1.java
+nvim
+z java
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+javac Test_3.java
+java Test_3
+clear
+la
+clear
+javac Test_1.java
+java Test_1
+clear
+javac Test_2.java
+java Test_2
+clear
+javac Test_3.java
+java Test_3
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/02-plugins.vim
+vi /usr/include/c++/11.1.0/algorithm
+vi /usr/include/c++/11.1.0/complex.h
+vi /usr/include/c++/11.1.0/vector
+nvim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+source .config/nvim/init.vim
+z java
+vi Test_1.java
+yay -Syu
+yay -Syu
+df
+reboot
+shutdown now
+shutdown now
+yay -Syu
+reboot
+htop
+sudo pacman -S htop
+htop
+clear
+yay -Syu
+z java
+la
+sudo pacman -S unrar
+z java
+la
+cd Model
+vi Bus.java
+vi Bus.java
+vi Bus.java
+vi Bus.java
+vi Car.java
+vi MotoVehicle.java
+cd ..
+vi Service/MotoOperation.java
+la
+cd ..
+mkdir bin
+mkdir src
+la
+mv Model/* src
+cd Model
+la
+cd ..
+rm -rf Model
+la
+mv Service/* src
+rm -rf Service
+la
+cd src
+la
+vi Bus.java
+la
+clear
+la
+mkdir Service
+mkdir Model
+mv *.java Model
+mv Model/RentMgrSys.java Service
+la
+vi Model/Bus.java
+vi Service/RentMgrSys.java
+clear
+vi Model/Car.java
+vi Model/MotoOperation.java
+vi Model/MotoVehicle.java
+mv Model/MotoOperation.java Service
+vi Service/MotoOperation.java
+vi Service/RentMgrSys.java
+cd Code/
+git clone https://github.com/Anhelor/Co-work
+la
+cd Co-work
+la
+vi src/Permission/Captain/Captain.java
+clear
+yay -Syu
+shutdown now
+yay -Syu
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/nvim/rc.d/03-plugins-settings.vim
+vi .config/alacritty/alacritty.yml
+clear
+la
+clear
+la
+vi .config/alacritty/alacritty.yml
+clear
+la
+la
+clear
+vi
+la
+clear
+z java
+la
+clear
+z
+cd
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+la
+vi .config/alacritty/alacritty.yml
+clear
+la
+clear
+yay -Syu
+la
+nvim
+ls
+vi .config/nvim/rc.d/01-general.vim
+la
+df
+tree
+clear
+z java
+vi Test_1.java
+vi Test_1.java
+la
+vi Main.java
+vi Main.java
+javac Main.java
+java Main
+la
+rm -rf *.class
+la
+clear
+vi Main.java
+vi Th.java
+vi Th.java
+javac Th.java
+vi Th.java
+javac Th.java
+java Th
+vi Th.java
+vi Th.java
+javac Th.java
+java Th
+vi Th.java
+javac Th.java
+java Th
+vi Th.java
+vi Th.java
+javac Th.java
+java Th
+vi Th.java
+javac Th.java
+java Th
+clear
+vi Th.java
+javac Th.java
+java Th
+clear
+vi Th.java
+cd ../Co-work
+git pull
+la
+tree
+cd src
+tree
+clear
+tree
+z /home/limbo/Code/Algorithms_4th
+la
+mkdir src
+la
+vi Test.java
+cp 1-Fundamentals/BinarySearch.java src
+cd src
+la
+vi BinarySearch.java
+vi BinarySearch.java
+cd ..
+tree
+rm -rf src
+la
+cd 1-Fundamentals
+la
+cd
+clear
+la
+mv .astylerc Code
+cd Code
+la
+cd Java
+la
+rm -rf *.class
+la
+vi Test_1.java
+clear
+la
+cd
+la
+shutdown now
+yay -Syu
+reboot
+z co
+cd ../Co-work
+git pull
+git log
+vi ~/.config/nvim/rc.d/01-general.vim
+z java
+la
+clear
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+vi ~/.cache/zsh/history
+clear
+htop
+cd Downloads
+cd 05_optimized_surface_loading_and_soft_stretching
+la
+cd ../22000.51_amd64_zh-cn_multi_e012464d_convert
+la
+./uup_download_linux.sh
+./uup_download_linux.sh
+sudo pacman -S aria2
+./uup_download_linux.sh
+cd
+clear
+la
+la
+clear
+z java
+la
+clear
+neofetch
+la
+clear
+reboot
+z java
+la
+mkdir hw_07
+cd hw_07
+la
+mv ~/Downloads/Telegram\ Desktop/7ÊÉºÉ®7ÊÉ∑•‰ΩÉº‰∏É∫.txt
+mv ~/Downloads/Telegram\ Desktop/7ÊÉºÉ®7ÊÉ∑•‰ΩÉº‰∏É∫.txt .
+mv ~/Downloads/Telegram\ Desktop/readme.txt .
+la
+display 7ÊÉºÉ®7ÊÉ∑•‰ΩÉº‰∏É∫.txt
+la
+vi Test_1.java
+clear
+vi Test_1.java
+javac Test_1.java
+la
+java Test_1
+la
+vi readme2.txt
+java Test_1
+vi Test_1.java
+javac Test_1.java
+java Test_1
+vi readme2.txt
+vi Test_1.java
+vi Test_1.java
+javac Test_1.java
+java Test_1
+la
+rm -rf readme2.txt
+java Test_1
+vi readme2.txt
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+cp readme.txt a.txt
+java Test
+vi Test.java
+javac Test.java
+java Test
+vi readme2.txt
+la
+vi Test.java
+javac Test.java
+java Test
+vi readme2.txt
+clear
+vi Test.java
+javac Test.java
+java Test
+vi readme2.txt
+clear
+la
+rm -rf Test_1*
+la
+rm -rf C*
+la
+rm -rf a.txt
+la
+vi Test_2.java
+vi Test_2.java
+vi Test_2.java
+mv Test_2.java ProducerConsumerTest.java
+clear
+javac ProducerConsumerTest.java
+java ProducerConsumerTest
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest
+vi ProducerConsumerTest.java
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest.java
+vi ProducerConsumerTest.java
+vi ProducerConsumerTest.java
+la
+clear
+la
+vi ProducerConsumerTest.java
+vi ProducerConsumerTest.java
+javac ProducerConsumerTest.java
+java ProducerConsumerTest.java
+java Test
+vi readme2.txt
+vi Test.java
+vi Test.java
+javac Test.java
+java Test
+vi readme2.txt
+vi Test.java
+vi readme2.txt
+vi ProducerConsumerTest.java
+clear
+java Test
+vi readme2.txt
+vi Test.java
+java ProducerConsumerTest
+z java
+cd hw_07
+vi Test.java
+clear
+sudo pacman -Rns aria2
+shutdown now
+la
+yay -Syu
+yay -Syu
+la
+clear
+nvim
+nvim
+nvim
+nvim
+clear
+shutdown now
+yay -Syu
+clear
+reboot
+sudo pacman -S mariadb
+mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+sudo mariadb-install-db --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+mysql
+mysql_secure_installation
+systemctl start mysqld
+sudo mysql
+systemctl stop mysqld
+sudo vim /etc/my.cnf.d/mysql-clients.cnf
+sudo vim /etc/mysql/my.cnf
+sudo vim /etc/mysql/my.cnf
+systemctl start mysqld
+sudo vim /etc/mysql/my.cnf
+sudo mkdir /etc/mysql
+sudo vim /etc/mysql/my.cnf
+mkdir -pv /var/lib/mysqltmp
+sudo mkdir -pv /var/lib/mysqltmp
+sudo chown mysql:mysql /var/lib/mysqltmp
+sudo tmpfs /var/lib/mysqltmp tmpfs rw,gid=mysql,uid=mysql,size=100M,mode=0750,noatime 0 0
+sudo pacman -S tmpfs
+sudo pacman -Ss tmpfs
+sudo tmpfs   /var/lib/mysqltmp   tmpfs   rw,gid=mysql,uid=mysql,size=100M,mode=0750,noatime   0 0
+id mysql
+sudo tmpfs   /var/lib/mysqltmp   tmpfs   rw,gid=mysql,uid=mysql,size=100M,mode=0750,noatime   0 0
+sudo vim /etc/fstab
+id mysql
+sudo vim /etc/fstab
+sudo vim /etc/mysql/my.cnf
+sudo vim /etc/mysql/my.cnf
+sudo vim /etc/mysql/my.cnf
+systemctl start mysqld
+su
+sudo mysql -p -u root
+vi .cache/zsh/history
+vi .cache/zsh/history
+z aur
+cd ..
+la
+git clone https://aur.archlinux.org/mariadb-jdbc.git
+cd mariadb-jdbc
+la
+vi PKGBUILD
+systemctl stop mysqld
+sudo pacman -S maven
+cd ..
+la
+rm -rf mariadb-jdbc
+cd
+la
+mvn -v
+la
+z java
+la
+mkdir maven-test
+cd maven-test
+mvn --help
+mvn clean package
+la
+clear
+mkdir src/main/java -p
+la
+tree
+mkdir src/main/resources -p
+la
+tree
+mkdir -p src/test/java
+mkdir -p target
+tree
+vi pom.xml
+mvn clean package
+la
+tree
+vi pom.xml
+mvn clean package
+tree
+rm -rf .project
+rm -rf .settings
+la
+tree
+vi pom.xml
+mvn clean package
+cd ..
+cd
+la
+rm -rf .m2
+la
+clear
+cd Code/Java/maven-test
+tree
+rm -rf .project
+la
+rm -rf .settings
+cd ..
+cd maven-test
+la
+tree
+vi src/main/java/hello.java
+vi src/main/java/hello.java
+vi src/main/java/hello.java
+tree
+vi pom.xml
+vi src/main/java/hello.java
+mvn clean package
+df
+tree
+mvn clean
+tree
+rm -rf .project .settings
+la
+tree
+	vi pom.xml
+cd Code/Java/maven-test
+vi pom.xml
+cd
+mv Code/.astylerc .
+cd Code/Java/maven-test
+vi pom.xml
+mv .astylerc Code/
+cd
+mv .astylerc Code/
+vi .astylerc
+la
+mv Code/.astylerc .
+vi .astylerc
+cd Code/Java/maven-test
+vi pom.xml
+mvn clean package
+java -jar target/hello_maven-1.0.jar
+clear
+la
+tree
+cd ..
+la
+la
+clear
+df
+shutdown now
+yay -Syu
+la
+ls
+clear
+la
+mv .astylerc Code/
+cd .m2
+la
+tree
+rm -rf .m2
+la
+cd
+rm -rf .m2
+la
+sudo pacman -S tidy
+cd Code/Java/maven-test
+la
+vi pom.xml
+tree
+mvn clean
+uname -a
+la
+tree
+cd
+la
+vi .config/nvim/rc.d/02-plugins.vim
+vi .config/nvim/rc.d/02-plugins.vim
+nvim
+clang-format --help
+vi .cache/zsh/history
+vi Code/.astylerc
+sudo pacman -S astyle
+echo "--style=java" > .astylerc
+la
+vi .astylerc
+rm -rf .astylerc
+la
+clear
+clear
+vi .cache/zsh/history
+vi .cache/zsh/history
+cd .config/zsh/plugins/
+la
+cd fast-syntax-highlighting
+git pull
+cd ../z.lua
+git pull
+cd ../zsh-autosuggestions
+git pull
+cd Documents/Blog
+hexo cl
+hexo g
+hexo d
+git add *
+git add .
+git status
+git commit -m "2021-07-08"
+git push origin master:source
+cd ../dotfiles
+la
+git add .
+git commit -m "2021-07-08"
+git push origin master
+cd ~/Downloads
+la
+git clone --single-branch --branch=source https://github.com/horel/horel.github.io.git
+la
+cd horel.github.io
+la
+yarn
+yarn
+yarn install
+yarn
+la
+hexo cl
+hexo g
+hexo s
+hexo d
+yarn
+la
+hexo cl
+la
+vi .gitignore
+vi package.json
+la
+yarn
+cd ..
+rm -rf horel.github.io
+git clone --single-branch --branch=source https://github.com/horel/horel.github.io.git
+cd horel.github.io
+la
+yarn
+cd ..
+rm -rf horel.github.io
+cd Documents/Blog
+la
+hexo cl
+la
+vi .deploy_git
+yarn
+la
+vi package.json
+la
+vi .yarnrc
+cd Downloads
+la
+git clone --single-branch --branch=source https://github.com/horel/horel.github.io.git
+cd horel.github.io
+proxychains yarn install
+cd ..
+rm -rf horel.github.io
+git clone --single-branch --branch=source https://github.com/horel/horel.github.io.git
+cd horel.github.io
+yarn
+yarn add deasync
+yarn
+cd Documents/Blog
+yarn
+cd Downloads
+rm -rf horel.github.io
+la
+la
+cd ~/Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-08"
+git push origin master:source
+cd ../dotfiles
+git add .
+git commit -m "2021-07-08"
+git push origin master
+sudo pacman -S wqy-microhei
+vi .m2/settings.xml
+rm -rf .m2/repository
+clear
+vi .m2/settings.xml
+cd Documents/dotfiles
+git add .
+git commit -m "2021-07-08"
+git push origin master
+cd ../Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-08"
+git push origin master
+git push origin master:source
+shutdown now
+yay -Syu
+cd Downloads/aur
+la
+cd matcha-gtk-theme
+la
+reboot
+z aur
+la
+git clone https://aur.archlinux.org/pgformatter.git
+la
+git clone https://aur.archlinux.org/pgformatter-git.git
+cd pgformatter-git
+makepkg -si
+cd Code/DB
+la
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+yay -Syu
+sudo mysql
+systemctl start mysqld
+sudo mysql
+cd Code
+la
+mkdir DB
+cd DB
+la
+clear
+la
+vi create.sql
+mv create.sql create_database.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+la
+sudo pacman -Ss pg-formatter
+yay -Ss pg-formatter
+yay -Ss pgformatter
+clear
+sudo pacman -Ss sqlfmt
+yay -Ss pgformatter
+z /home/limbo/Downloads/aur
+yay -Syu
+cd -
+la
+vi create_staff.sql
+vi create_staff.sql
+vi create_project.sql
+vi create_project.sql
+vi create_staff.sql
+vi create_project.sql
+la
+touch insert_staff.sql
+touch insert_project.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_project.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_trigger.sql
+vi create_trigger.sql
+mv create_trigger.sql create_trigger_EMPOLYEE.sql
+vi create_trigger_LEADER.sql
+cp create_trigger_EMPOLYEE.sql create_trigger_SUPERUSER.sql
+vi create_trigger_SUPERUSER.sql
+vi create_trigger_EMPOLYEE.sql
+la
+vi create_staff.sql
+cd Code/DB
+vi create_trigger_EMPOLYEE.sql
+sudo mysql
+clear
+cd Code/DB
+vi create_database.sql
+la
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+shutdown now
+yay -Syu
+z aur
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+cd matcha-gtk-theme
+la
+cd ..
+mv matcha-gtk-theme matcha
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+cd matcha-gtk-theme
+la
+makepkg -si
+reboot
+z aur
+rm -rf matcha
+la
+cd pgformatter
+la
+cd ..
+rm -rf pgformatter
+la
+sudo mysql
+systemctl start mysqld
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+cd Code/DB
+la
+vi create_project.sql
+vi create_staff.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_SUPERUSER.sql
+vi create_trigger_EMPOLYEE.sql
+clear
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create_staff.sql
+cp create_staff.sql create.sql
+vi create.sql
+vi create.sql
+vi create_project.sql
+vi create_project.sql
+vi create_project.sql
+vi create_staff.sql
+vi create_project.sql
+vi create_project.sql
+vi create_project.sql
+vi create.sql
+vi create.sql
+vi create.sql
+vi create.sql
+vi create.sql
+la
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_SUPERUSER.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_SUPERUSER.sql
+vi create_trigger_SUPERUSER.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_EMPOLYEE.sql
+vi create.sql
+vi create_staff.sql
+vi create_staff.sql
+cd Code/DB
+vi create_project.sql
+vi create_project.sql
+ls
+la
+yay -Syu
+shutdown now
+cd Code/DB
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_staff.sql
+vi create_project.sql
+vi create_staff.sql
+vi create_staff.sql
+vi create.sql
+vi create_project.sql
+vi create.sql
+cd Code/DB
+la
+vi create_staff.sql
+vi create_project.sql
+vi create_trigger_EMPOLYEE.sql
+vi create_trigger_LEADER.sql
+vi create_trigger_SUPERUSER.sql
+clear
+vi create_staff.sql
+vi create_project.sql
+systemctl start mysqld
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+yay -Syu
+yay -Syu
+systemctl start mysqld
+sudo mysql
+cd Code/DB
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql
+vi trigger.sql
+sudo mysql
+sudo mysql
+sudo mysql
+sudo mysql -u root -p
+sudo mysql -u root -p
+yay -Syu
+cd Code/Co-work
+git pull
+git status
+git log
+clear
+yay -Syu
+tree
+shutdown now
+yay -Syu
+clang -v
+gcc -v
+llvm -v
+yay -Syu
+z java
+vi Test_2.java
+vi Test_1.java
+vi Test_3.java
+z java
+vi Test.java
+la
+javac Test.java
+mv Test.java E.java
+javac E.java
+java E
+vi E.java
+vi E.java
+vi E.java
+rm -rf maven-test
+la
+vi E.java
+javac E.java
+java E
+vi Test.java
+javac Test.java
+vi Test.java
+javac Test.java
+java Test
+vi Person.java
+javac Person.java
+vi Person.java
+javac Person.java
+java Person
+vi Person.java
+mv Person.java Exmaple.java
+javac Exmaple.java
+java Example
+vi Person.java
+vi
+vi A.java
+vi A.java
+vi A.java
+javac A.java
+java A
+vi Test.java
+javac Test.java
+java Test
+vi A.java
+javac A.java
+java A
+yay -Syu
+yay -Syu
+cd Code/Co-work
+git pull
+git log
+clear
+sudo mysql -u root -p
+systemctl start mysqld
+systemctl start mysqld
+sudo mysql -u root -p
+sudo mysql -u root -p
+la
+cd Code/Co-work
+git pull
+mysql -u root -p
+systemctl start mysqld
+mysql -u root -p
+mysql -u mysql -p
+mysql
+mysql -u mysql -p
+mysql -u mysql -p
+select user();\
+
+mysql
+mysql -u limbo -p
+clear
+cd Code/Co-work
+git pull
+tree
+la
+cd src
+la
+cd main
+cd java/
+la
+tree
+la
+vi Main.java
+yay -Syu
+sudo pacman -Syu
+cd Downloads
+la
+git clone https://github.com/atraczyk/2d-engine.git
+cd 2d-engine
+la
+make -j -i13
+make -j -l13
+make -j -l 13
+la
+cmake
+cmake .
+cmake CMakeLists.txt
+mkdir build
+cd build
+cmake ..
+clear
+cd ./..
+cd
+cd Downloads
+la
+rm -rf 2d-engine
+rm -rf win11_insider
+la
+cd
+la
+clear
+cd Code/Co-work
+la
+mvn clean package
+java -jar target/HeadHunterMS-1.0.jar
+java -jar target/original-HeadHunterMS-1.0.jar
+java -jar target/HeadHunterMS-1.0.jar
+vi src/main/java/Main.java
+vi src/main/java/Tools/JDBC.java
+vi src/main/java/Tools/JDBC.java
+java -jar target/HeadHunterMS-1.0.jar
+systemctl start mysqld
+sudo mysql -u root -p
+mysql -u root -p
+sudo mysql -u root -p
+mysql -u root -p
+mysql -u root -p
+sudo mysql -u root -p
+mysql -u jdbc -p
+sudo mysql -u root -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+clear
+mysql -u jdbc -p
+sudo mysql -u root -p
+cd Code/Co-work
+mvn clean
+la
+sudo mysql -u root -p
+mysql -u jdbc -p
+mysql -u mysql -p
+mysql
+mysql -u limbo -p
+mysql -u jdbc -p
+cd Code/Co-work
+mvn clean package
+java -jar target/HeadHunterMS-1.0.jar
+yay -Syu
+cd Code/Co-work
+la
+cd src/main/java/
+tree
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+reboot
+cd Code/Co-work
+la
+git pull
+git pull
+cd src/main/java/
+clear
+la
+vi Main.java
+la
+tree
+sudo pacman -Syu
+clear
+git pull
+z blog
+hexo g
+hexo s
+hexo d
+git add .
+git commit -m "2021-07-12"
+git push origin master:source
+git push origin master:source
+git status
+git add .
+git status
+git commit -m "2021-07-12"
+cd ../dotfiles
+git add .
+git commit -m "2021-07-12"
+git push origin master
+cd
+cd Code/Co-work/src/main/java/
+tree
+shutdown now
+yay -Syu
+yay -Syu
+rust -v
+rustc -v
+shutdown now
+reboot
+yay -Syu
+la
+ls
+clear
+ll
+ll
+tree
+clear
+sudo pacman -Syu
+sudo pacman -Syu
+systemctl start mysqld
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+sudo pacman -S openjdk-doc
+cd /usr/share/doc/java-openjdk/resources
+cd
+vi .cache/zsh/.zlua
+sudo pacman -S rust
+sudo pacman -Ss rust
+sudo pacman -S cargo
+cd Code/Co-work/src/main/java/
+la
+git pull
+z co-work
+cd ../../..
+git pull
+la
+clear
+la
+clear
+z co-work
+cd
+z co-work
+cd -
+cd
+cd Code/Co-work
+cd
+z co-work
+z /home/limbo/Code/Co-work
+cd
+z co-work
+z Co-w
+z Co-work
+z /home/limbo/Code/Co-work
+clear
+git pull
+z /home/limbo/Code/Co-work
+java -jar target/HeadHunterMS-1.0.jar
+mvn clean package
+java -jar target/HeadHunterMS-1.0.jar
+java -jar target/HeadhunterMS-1.0.jar
+java -jar target/HeadhunterMS-1.0.jar
+java -jar target/HeadhunterMS-1.0.jar
+source /home/limbo/Code/DB/insert.sql
+z /home/limbo/Code/Co-work
+git pull
+la
+clear
+la
+go -v
+go -veasion
+go --veasion
+go -veasion
+sudo pacman -S go
+go veasion
+go version
+go -version
+go --version
+go version
+clear
+go version
+cd ..
+la
+mkdir Rust
+cd Rust
+la
+sudo pacman -S rust
+vi hello.java
+vi hello.rs
+rustc -v
+rust -v
+rustc --version
+rustc hello.rs
+vi hello.rs
+rustc hello.rs
+la
+./hello
+vi hello.rs
+cargo build
+clear
+la
+rustc hello.rs -o a.out
+./a.out
+la
+rm -rf hello
+cd ../Co-work
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+systemctl start mysqld
+java -jar target/HeadhunterMS-1.0.jar
+git pull
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+git pull
+mvn clean
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+java -jar target/HeadhunterMS-1.0.jar
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u jdbc -p
+mysql -u root -p
+sudo mysql -u root -p
+mysql -u jdbc -p
+cd ../DB
+mysql -u jdbc -p
+cd ../Co-work
+java -jar target/HeadhunterMS-1.0.jar
+cd src/main/java
+vi Main.java
+vi menu/MainMenu.java
+vi menu/MainMenu.java
+vi menu/MainMenu.java
+z co-w
+z Co
+z Co-work
+cd ../Co-work
+clear
+la
+clear
+cd Code/Co-work
+java -jar target/HeadhunterMS-1.0.jar
+cd src/main/java/
+vi menu/MainMenu.java
+vi menu/EmployeeMenu.java
+z Co-work
+z /home/limbo/Code/Co-work
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+java -jar target/HeadhunterMS-1.0.jar
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+git pull
+cd ..
+rm -rf Co-work
+git clone https://github.com/Anhelor/Co-work.git
+cd Co-work
+la
+git log
+mvn clean package
+cd src/main/java/
+la
+vi menu/EmployeeMenu.java
+yay -Syu
+reboot
+yay -Syu
+systemctl start mysqld
+cd Code/Co-work/src/main/java/
+la
+git pull
+git pull
+vi menu/MainMenu.java
+vi menu/EmployeeMenu.java
+vi menu
+vi menu
+vi menu
+vi menu
+vi menu
+vi menu
+cd ../../..
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+cd src/main/java/
+vi menu/EmployeeMenu.java
+vi menu/EmployeeMenu.java
+cd ../../..
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+cd src/main/java/
+vi menu/EmployeeMenu.java
+vi menu/EmployeeMenu.java
+vi menu/LeaderMenu.java
+cd Code/Co-work/src/main/java/
+vi menu/LeaderMenu.java
+vi menu/SuperuserMenu.java
+cd ../../..
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+git push origin master
+git push origin master -u
+cd ~/Downloads
+git clone https://github.com/horel/Co-work.git
+cd Co-work
+git push origin master -u
+git add .
+ls
+git commit -m "add flush to every level menu"
+git push origin master -u
+cd src/main/java/
+vi menu/EmployeeMenu.java
+vi menu/EmployeeMenu.java
+vi menu/LeaderMenu.java
+vi menu/EmployeeMenu.java
+cd
+cd Downloads
+rm -rf Co-work
+cd
+cd Code/Co-work
+git pull
+git pull -f
+cd ..
+rm -rf Co-work
+git clone https://github.com/Anhelor/Co-work.git
+cd Co-work
+git pull
+cd ..
+rm -rf Co-work
+git clone https://github.com/horel/Co-work.git
+cd Co-work
+git pull
+git fetch origin
+git rebase orIG
+git remote add upstream https://github.com/Anhelor/Co-work.git
+git remote -v
+git fetch upstream
+la
+git rebase upstream/master
+la
+cd src/main/java/
+la
+cd ../../..
+la
+vi README.md
+cd src/main/java/
+vi Main.java
+z nvim
+vi init.vim
+vi rc.d/03-plugins-settings.vim
+vi
+vi
+vi
+vi
+cd
+cd Code/Co-work
+la
+cd src/main/java/
+vi Main.java
+la
+vi menu/MainMenu.java
+cd Code/Co-work/src/main/java/
+la
+vi menu/MainMenu.java
+la
+z Co-work
+z ../../..
+z /home/limbo/Code/Co-work
+la
+rm -rf README.md
+cd src/main/java/
+vi Main.java
+vi Main.java
+vi menu/MainMenu.java
+systemctl start mysqld
+mysql -u jdbc -p
+yay -Syu
+yay -Ss ue4
+yay -Ss unreal
+yay -Ss unreal-engine
+la
+vi .mysql_history
+rm -rf .mysql_history
+la
+la
+clear
+yay -Syu
+la
+ll
+clear
+ll
+l
+ll
+mysql -u jdbc -p
+cd Code
+la
+rm -rf .astylerc
+sudo pacman -Rns astyle
+nvim
+vi ~/.cache/zsh/history
+vi
+vi
+z nvim
+vi rc.d/02-plugins.vim
+z init
+z nvim
+vi init.vim
+vi rc.d/03-plugins-settings.vim
+vi
+vi
+vi rc.d/03-plugins-settings.vim
+vi
+vi rc.d/03-plugins-settings.vim
+z nvim
+vi rc.d/03-plugins-settings.vim
+vi
+vi rc.d/03-plugins-settings.vim
+clear
+vi
+vi rc.d/03-plugins-settings.vim
+vi
+cd
+vi .xprofile
+vi .xprofile
+cd Documents/dotfiles
+git add .
+git commit -m "2021-07-13"
+git push origin master -u
+cd ../Blog
+la
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-13"
+git push origin master:source
+al
+la
+vi .gitignore
+git add source/*
+git status
+git pull
+git status
+git add source/*
+git branch
+git branch master
+git checkout master
+git branch
+la
+git add .
+git commit -m "2021-07-13"
+git push origin master:source
+la
+git checkout origin/source
+git branch
+git checkout source
+git branch
+git add .
+git status
+cd source/_posts/notes
+la
+git add Arch-LinuxÊÉ¨ÉßÂÉ≠É∑.md
+cd Documents/Blog
+git push origin source
+yay -Syu
+sudo pacman -Syu
+sudo vim /etc/pacman.conf
+sudo vim /etc/pacman.conf
+sudo pacman -Syu
+sudo vim /etc/pacman.conf
+sudo pacman -S lib32-nvidia-utils
+nvidia-smi
+sudo pacman -Syu
+sudo pacman -S nvidia
+clear
+shutdown now
+vi /etc/fstab
+vi /etc/fstab
+sudo vim /etc/default/grub
+vi /etc/fstab
+sudo vim /etc/mkinitcpio.conf
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo mkinitcpio -P
+vi /etc/default/grub
+vi /etc/mkinitcpio.
+vi /etc/mkinitcpio.conf
+vi /etc/mkinitcpio.conf
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-13"
+git push origin source
+cp source/_posts/notes/Arch-LinuxÊÉ¨ÉßÂÉ≠É∑.md ~/Documents/dotfiles
+cd ../dotfiles
+la
+git add .
+git commit -m "2021-07-13"
+git push origin master
+yay -Syu
+reboot
+cd Code/Co-work
+la
+git fetch upstream
+git rebase upstream/master
+git log
+clear
+la
+cd src/main/java/
+sudo pacman -S lua
+clear
+la
+tree
+vi database/JDBC.java
+vi database/DAO.java
+vi database/DAO.java
+vi database/DAO.java
+cd ../../..
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+systemctl start mysqld
+clear
+cd src/main/java/
+la
+cd ../../..
+git fetch upstream
+git rebase upstream/master
+git log
+clear
+cd src/main/java/
+la
+tree
+vi entity/enums/Status.java
+vi entity/enums/Position.java
+vi entity/enums/Position.java
+reboot
+cd Code/Co-work
+git fetch upstream
+git rebase upstream/master
+la
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+shutdown now
+cd Code/Co-work
+cd src/main/java/
+vi menu/LeaderMenu.java
+cd Code/Co-work
+cd src/main/java/
+vi entity/enums/Position.java
+vi entity/enums/Position.java
+vi entity/enums/Position.java
+vi entity/enums/Sex.java
+vi entity/enums/Status.java
+vi entity/enums/Status.java
+cd ../../..
+git add src/*
+git commit -m "Add enum comments"
+git push origin master
+cd
+vi .gitconfig
+vi .gitconfig
+cd Code/Co-work
+git fetch upstream
+git fetch upstream
+git rebase upstream/master
+vi src/main/java/entity/enums/Position.java
+git add src/*
+git commit -m "Add enum comments"
+rm -rf .git
+git remote add upstream https://github.com/Anhelor/Co-work.git
+git init
+git remote add upstream https://github.com/Anhelor/Co-work.git
+git remote -v
+cd ..
+mv Co-work fuck
+git clone https://github.com/horel/Co-work.git
+cd Co-work
+la
+git add src/*
+git remote add upstream https://github.com/Anhelor/Co-work.git
+git remote -v
+git fetch upstream
+git status
+git commit -m "Add enum comments"
+git rebase upstream/master
+git push origin master
+vi .gitconfig
+shutdown now
+cd Code/Co-work
+git fetch upstream
+git rebase upstream/master
+vi src/main/java/entity/enums/Position.java
+systemctl start mysqld
+mysql -u jdbc -p
+cd Code/Co-work
+git fetch upstream
+git remote -v
+git log
+clea
+clear
+cd src/main/java/
+la
+tree
+vi Main.java
+vi menu/MainMenu.java
+cd
+cd Code/Co-work
+la
+git fetch upstream
+git log
+clear
+la
+mkdir SQL
+git add SQL/*
+git status
+git fetch upstream
+git rebase upstream/master
+git commit -m "Add SQL"
+git push origin master
+git fetch upstream
+cd src/main/java/
+tree
+vi menu/MainMenu.java
+vi menu/MainMenu.java
+cd ../../..
+git fetch upstream
+git rebase upstream/master
+cd Code/Co-work/src/main/java/
+vi entity/enums/Status.java
+shutdown now
+la
+yay -Syu
+la
+clear
+cd Code/Co-work/
+git fetch upstream
+cd src/main/java/
+la
+git rebase upstream/master
+git status
+vi database/DAO.java
+vi menu/MainMenu.java
+vi menu/MainMenu.java
+cd ../../..
+git add src/*
+git commit -m "Add MainMenu.java comments"
+git push origin master
+git fetch upstream
+git rebase upstream/master
+git add src/*
+git commit -m "Add MainMenu.java comments"
+git push origin master
+git pull
+git fetch upstream
+git rebase upstream/master
+git push origin master
+git pull
+git fetch upstream
+git rebase upstream/master
+git status
+vi src/main/java/database/DAO.java
+git add src/*
+git status
+git pull
+git rebase upstream/master
+git rebase master
+git rebase upstream/master
+git fetch upstream
+git push origin master
+git pull
+git log
+git log --graph
+git pull
+vi src/main/java/database/DAO.java
+vi src/main/java/menu/SuperuserMenu.java
+git fetch upstream
+git rebase -i upstream/master
+git rebase --continue
+git rebase --continue
+vi src/main/java/menu/SuperuserMenu.java
+git status
+git push origin master
+git merge upstream/master
+git pull origin master --allow-unrelated-histories
+git push origin master
+sudo pacman -S cloc
+cloc .
+clear
+cd Code/Co-work/src/main/java
+cloc .
+cd Code
+la
+vi .clang-format
+rm -rf fuck
+mkdir Lua
+cd Lua
+la
+sudo pacman -S lua
+lua
+lua -v
+la
+vi hello.lua
+la
+lua hello.lua
+la
+vi hello.lua
+lua hello.lua
+vi hello.lua
+./hello.lua
+la
+chmod +x hello.lua
+./hello.lua
+vi hello.lua
+vi hello.lua
+./hello.lua
+find lua
+sudo pacman -F lua
+vi hello.lua
+find lua
+./hello.lua
+clear
+vi hello.lua
+./hello.lua
+clear
+la
+clear
+la
+z lua
+vi hello.lua
+vi hello.lua
+vi hello.lua
+./hello.lua
+vi hello.lua
+vi hello.lua
+./hello.lua
+vi hello.lua
+./hello.lua
+clear
+shutdown now
+shutdown now
+cd Code/Co-work
+git fetch upstream
+git rebase upstream/master
+git fetch upstream
+git rebase upstream/master
+cd Code/Co-work
+git log --graph
+git fetch upstream master
+git branch
+git rebase upstream/master
+git push origin master
+git pull upstream master
+git rebase upstream/master
+git push origin master
+git pull
+git push origin master
+git remote
+git remote -v
+git fetch upstream master
+git merge upstream/master
+git push origin master
+cd Code/Co-work
+git fetch upstream
+git log
+git fetch upstream
+git rebase upstream/master
+git fetch upstream
+git status
+git pull
+git pull
+git rebase upstream/master
+git rebase upstream/master
+git status
+git push origin master
+git pull origin master --allow-unrelated-histories
+git push origin master
+git status
+shutdown now
+yay -Syu
+yay -Syu
+la
+rm -rf .mysql_history
+cd Code/Lua
+la
+vi hello.lua
+clear
+la
+vi hello.lua
+./hello.lua
+vi hello.lua
+cd ..
+la
+sudo pacman -S marktext
+sudo pacman -Ss marktext
+la
+yay -Syu
+cd Code
+la
+shutdown now
+yay -Syu
+reboot
+la
+clear
+cd Code/Co-work
+la
+git fetch upstream
+git merge upstream/master
+git push origin master
+la
+cd SQL
+la
+cd
+cd Code
+la
+rm -rf DB
+clear
+yay -Syu
+shutdown now
+yay -Syu
+df
+la
+vi .m2/settings.xml
+cd Downloads
+la
+git clone https://github.com/ssloy/tinyrenderer.git
+la
+git clone --single-branch --branch=master https://github.com/ssloy/tinyrenderer.git
+la
+cd tinyrenderer
+la
+cd Code/Co-work
+la
+git pull upstream master
+cd src/main/java/
+vi entity/MethodSet.java
+cd ../../..
+mvn clean package
+la
+git fetch upstream
+git merge upstream/master
+mvn clean package
+java -jar target/HeadhunterMS-1.0.jar
+clear
+la
+cd src/main/java/
+la
+vi entity/MethodSet.java
+cd Code
+la
+mkdir MyRenderer
+cd MyRenderer
+la
+la
+clear
+clear
+la
+shutdown now
+yay -Syu
+cd Code/Co-work
+git pull upstream master
+cd Code/
+la
+mkdir MySTL
+cd MySTL
+la
+mkdir memory_allocator
+la
+mkdir iterator
+la
+mv memory_allocator allocator
+clear
+mkdir functor
+la
+mkdir container
+la
+mkdir algorithm
+mkdir adapter
+la
+vi README.md
+la
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+cp ../.clang-format .
+la
+vi allocator/allocator.h
+mv .clang-format allocator
+vi allocator/allocator.h
+mv allocator/.clang-format .
+la
+vi .clang-format
+clang-format --dump-config --style="{BasedOnStyle: llvm, IndentWidth: 4}" > .clang-format
+la
+vi .clang-format
+vi allocator/allocator.h
+rm -rf .clang-format
+cd ..
+clang-format --dump-config --style="{BasedOnStyle: llvm, IndentWidth: 4}" > .clang-format
+cd MySTL
+la
+vi allocator/allocator.h
+sudo pacman -Ss cpp-doc
+sudo pacman -Ss doc
+sudo pacman -Ss c++_doc
+sudo pacman -Ss c++
+clear
+sudo pacman -Ss cpp_doc
+vi allocator/allocator.h
+pacman -Qs doc
+pacman -Ss gcc
+clear
+pacman -Ss gcc
+pacman -Ss gcc-doc
+pacman -Ss clang-doc
+clang-doc
+vi allocator/allocator.h
+vi allocator/allocator.h
+clear
+la
+vi allocator/allocator.h
+cd ../MyRenderer
+la
+la
+mkdir src
+mkdir lib
+la
+mkdir include
+mkdir build
+la
+mkdir res
+la
+touch build/CMakeLists.txt
+cd ../MySTL
+la
+cd allocator
+la
+cd
+cd Code
+la
+cd MySTL
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+vi allocator/allocator.h
+yay -Syu
+cd Code
+la
+cd MyRenderer
+la
+la
+cd ~/Downloads/tinyrenderer
+la
+mkdir build
+cd build
+cmake ..
+la
+make -j -l 13
+la
+./tinyrenderer
+./tinyrenderer ../obj/diablo3_pose/diablo3_pose.obj
+./tinyrenderer ../obj/diablo3_pose/diablo3_pose.obj ../obj/floor.obj
+la
+./tinyrenderer ../obj/diablo3_pose/diablo3_pose.obj ../obj/floor.obj
+la
+cd ..
+la
+vi .config/zsh/.zshrc
+cd Code/MyRenderer
+cd src
+la
+vi main.cpp
+cd ../lib
+la
+cd -
+vi main.cpp
+la
+clang++ main.cpp
+vi main.cpp
+vi main.cpp
+cl++ main.cpp
+./a.out
+la
+display output.tga
+la
+rm -rf output.tga
+cd ..
+cd lib
+la
+vi tgaimage.
+vi tgaimage.h
+vi tgaimage.cpp
+cd -
+vi src/main.cpp
+cd src
+cl++ main.cpp
+la
+./a.out
+la
+display output.tga
+clear
+la
+vi main.cpp
+vi .cache/zsh/history
+cd Code/MyRenderer
+la
+cd src
+vi main.cpp
+cd ..
+vi lib/tgaimage.h
+vi lib/tgaimage.cpp
+vi lib/tgaimage.cpp
+shutdown now
+cd Code/MyRenderer
+la
+vi src/main.cpp
+yay -Syu
+cd Code/Co-work
+la
+cd src/main/java/
+la
+vi menu/MainMenu.java
+vi menu/EmployeeMenu.java
+cd ../../..
+git fetch upstream
+git merge upstream/master
+cd src/main/java/
+vi menu/EmployeeMenu.java
+vi menu/LeaderMenu.java
+vi menu/LeaderMenu.java
+vi menu/SuperuserMenu.java
+la
+treee
+tree
+cd ../../..
+la
+git add src/*
+git status
+git commit -m "Add all menu's comments"
+git push origin master
+cd src/main/java/
+la
+tree
+vi database/DAO.java
+vi database/DAO.java
+vi entity/Account.java
+cd ../../..
+git add src/*
+git status
+git commit -m "Add dao and account's comments"
+git push origin master
+git push origin master
+git push origin master
+git pull upstream master
+cd src/main/java/
+vi entity/Account.java
+vi database/DAO.java
+git push origin master
+tree
+cloc .
+vi entity/business/Project.java
+vi entity/business/Project.java
+vi entity/business/Project.java
+vi entity/Factory.java
+vi entity/business/Project.java
+vi entity/Factory.java
+tree
+vi entity/MethodSet.java
+vi entity/MethodSet.java
+vi entity/MethodSet.java
+cd ../../..
+git add src/*
+git commit -m "Add business, factory and methodset's comments"
+git push origin master
+la
+cd code
+cd Code
+cd MyRenderer
+la
+cd src
+vi output.tga
+la
+display output.tga
+vi main.cpp
+cl++ main.cpp
+la
+display output.tga
+./a.out
+display output.tga
+vi main.cpp
+cd
+cd Code/Co-work/src/main/java
+vi menu/EmployeeMenu.java
+la
+vi menu/EmployeeMenu.java
+vi database/DAO.java
+vi entity/Account.java
+cd Code/Co-work/src/main/java
+vi entity/Account.java
+cd Code/Co-work
+git fetch upstream
+git merge upstream/master
+git status
+git push origin master
+la
+cd src/main/java/
+tree
+vi entity/staff/Person.java
+vi entity/staff/Person.java
+vi entity/staff/Team.java
+vi entity/business/Project.java
+vi entity/staff/Team.java
+vi entity/staff/Employee.java
+vi entity/staff/Employee.java
+vi entity/staff/Leader.java
+vi entity/staff/Superuser.java
+vi entity/staff/Employee.java
+vi entity/staff/Employee.java
+vi entity/staff/Employee.java
+clear
+vi entity/staff/Employee.java
+vi entity/staff/Employee.java
+vi entity/staff/Leader.java
+vi entity/staff/Superuser.java
+vi entity/staff/Superuser.java
+cd ../../..
+git add src/*
+git status
+git commit -m "Add Staff's comments"
+git push origin master
+cd src/main/java/
+tree
+cd ../../..
+git pull upstream master
+git fetch upstream
+git merge upstream/master
+git pull upstream master
+git pull upstream master
+git push origin master
+git status
+git rm src/main/java/entity/
+git rm src/main/java/entity/ -r
+git status
+git commit -m "merge to upstream"
+git push origin master
+git status
+clear
+la
+cd Code/Co-work
+git fetch upstream
+git fetch upstream
+git merge upstream/master
+cd src/main/java/
+tree
+vi ssdut/cli/headhunterms/staff/Employee.java
+cd
+cd Downloads/
+cd src/main/java/
+vi entity/staff/Person.java
+vi entity/staff/Employee.java
+vi entity/staff/Leader.java
+vi entity/staff/Superuser.java
+vi entity/staff/Team.java
+cd Code/Co-work
+la
+ls
+mvn clean package
+export MAVEN_OPTS=" --add-exports jdk.compiler/com.sun.tools.javac.api=ALL-UNNAMED \\
+  --add-exports jdk.compiler/com.sun.tools.javac.file=ALL-UNNAMED \\
+  --add-exports jdk.compiler/com.sun.tools.javac.parser=ALL-UNNAMED \\
+  --add-exports jdk.compiler/com.sun.tools.javac.tree=ALL-UNNAMED \\
+  --add-exports jdk.compiler/com.sun.tools.javac.util=ALL-UNNAMED "
+mvn clean package
+git status
+git add src/*
+git commit -m "Add Staff's comments"
+git push origin master
+git pull upstream master
+git status
+git push origin master
+git status
+cd Code/MyRenderer
+la
+vi lib/tgaimage.cpp
+vi lib/tgaimage.h
+cd Code/MyRenderer
+cd src
+display output.tga
+cd Code/MyRenderer
+la
+cd src/
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+./a.out
+display output.tga
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+vi main.cpp
+vi main.cpp
+cl++ main.cpp
+./a.out
+display output.tga
+cd
+cd Code/Co-work
+la
+git pull upstream master
+la
+git merge upstream/master
+cat pom.xml
+mkdir ~/.mvn
+vi ~/.mvn/jvm.config
+mvn git-code-format:format-code -Dgcf.globPattern=**/*\
+
+mvn git-code-format:format-code -Dgcf.globPattern=**/*\
+
+mvn clean package
+mvn git-code-format:format-code -Dgcf.globPattern=**/*\
+
+mvn clean package
+vi ~/.mvn/jvm.config
+yay -Syu
+clear
+clear
+cd Code/MyRenderer
+la
+cd src
+la
+vi main.cpp
+yay -Syu
+cd Code/MyRenderer
+vi src/main.cpp
+cd src
+la
+vi line.cpp
+la
+mv line.cpp line.h
+vi main.cpp
+vi line.h
+vi line.h
+vi line.h
+vi main.cpp
+vi main.cpp
+vi line.h
+vi main.cpp
+vi main.cpp
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+la
+display output.tga
+vi line.h
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+vi line.h
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+vi line.h
+vi line.h
+vi line.h
+vi line.h
+vi line.h
+vi line.h
+vi line.h
+vi line.h
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+vi line.h
+vi line.h
+la
+vi line.h
+cd ../include
+la
+vi line.h
+cd ../lib
+la
+vi tgaimage.cpp
+vi tgaimage.h
+cd ../include
+vi line.h
+cd Code/Co-work
+la
+git pull upstream master
+git push origin master
+cd src/main/java/ssdut/cli/headhunterms/
+vi MethodSet.java
+cd ~/Code/Co-work
+git add src/*
+git status
+git commit -m "Modify MethodSet's comments"
+git push origin master
+git diff
+mvn clean package
+cd Code/MyRenderer
+cd src
+./a.out
+display output.tga
+vi ../include/line.h
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+cd Code/MyRenderer
+la
+cd include
+vi line.h
+cd ../src
+vi main.cpp
+vi ../include/line.h
+vi main.cpp
+vi ../include/line.h
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+vi main.cpp
+display output.tga
+vi main.cpp
+vi line.h
+cd Code/MyRenderer
+vi include/line.h
+cd src
+la
+rm -rf line.h
+vi main.cpp
+cd Code/MyRenderer
+vi src/line.h
+vi include/line.h
+shutdown now
+yay -Syu
+shutdown now
+yay -Syu
+cd Code/Java/
+la
+vi Person.class
+sudo pacman -S asp
+la
+vi Test.java
+vi Test.java
+cd Code/MyRenderer
+la
+tree
+vi build/CMakeLists.txt
+la
+vi src/line.h
+vi src/main.cpp
+clear
+vi lib/geometry.h
+vi lib/geometry.h
+vi src/model.h
+vi src/model.cpp
+vi src/model.h
+vi src/main.cpp
+vi src/main.cpp
+cd res
+la
+cd ..
+vi src/main.cpp
+cd src
+cl++ main.cpp -Ofast
+vi main.cpp
+cl++ main.cpp -Ofast
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+systemctl start mysqld
+mysql -u jdbc -p
+reboot
+yay -Syu
+cd Code/MyRenderer
+cd src
+display output.tga
+la
+vi main.cpp
+vi main.cpp
+cd ..
+vi lib/tgaimage.h
+vi lib/tgaimage.cpp
+vi src/main.cpp
+cd src
+cl++ main.cpp -Ofast
+vi ../lib/tgaimage.h
+./a.out
+display output.tga
+cd ..
+vi include/line.h
+vi lib/tgaimage.cpp
+vi lib/tgaimage.h
+vi src/main.cpp
+cd lib
+la
+vi geometry.h
+vi tgaimage.h
+vi tgaimage.cpp
+cd ../src
+cl++ main.cpp -Ofast
+cd ..
+vi tgaimage.cpp
+vi lib/tgaimage.h
+vi lib/tgaimage.h
+vi lib/tgaimage.cpp
+vi src/main.cpp
+cd src
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+cd Code/MyRenderer
+vi src/main.cpp
+cd src
+la
+vi model.h
+vi model.cpp
+mv model.cpp ..
+cl++ main.cpp -Ofast
+vi main.cpp
+vi model.h
+mv model.cpp .
+mv ../model.cpp .
+la
+vi m
+vi main.cpp
+vi main.cpp
+cl++ main.cpp -Ofast
+vi ../lib/tgaimage.h
+cl++ main.cpp -Ofast
+vi main.cpp
+la
+display output.tga
+./a.out
+vi .cache/zsh/history
+cd Code/MyRenderer
+la
+cd src
+la
+vi main.cpp
+cl++ main.cpp -Ofast
+./a.out
+display output.tga
+clear
+la
+vi main.cpp
+cd Downloads
+vi ÂøÉ£ÂæÉ∑‰ΩÉ≥‰ºÉ∫.docx
+mv ÂøÉ£ÂæÉ∑‰ΩÉ≥‰ºÉ∫.docx ÂøÉ£ÂæÉ∑‰ΩÉ≥‰ºÉ∫.txt
+vi ÂøÉ£ÂæÉ∑‰ΩÉ≥‰ºÉ∫.txt
+cmake -v
+cmake --version
+vi .config/nvim/rc.d/02-plugins.vim
+cd Code/MyRenderer
+tree
+clangd --version
+clang --version
+vi compile_flags.txt
+cd src
+cl++ main.cpp -Ofast
+vi main.cpp
+vi main.cpp
+cl++ main.cpp -Ofast
+mv ../compile_flags.txt .
+cl++ main.cpp -Ofast
+cl++ -l ../include main.cpp -Ofast
+cl++ -l ../include/ main.cpp -Ofast
+cl++ -l ../include/* main.cpp -Ofast
+vi main.cpp
+cl++ -l ../include/* main.cpp -Ofast
+cl++ -l ../include main.cpp -Ofast
+cl++ -I ../include main.cpp -Ofast
+cl++ -L ../include main.cpp -Ofast
+cl++ -I ../include main.cpp -Ofast
+cl++ -L../include main.cpp -Ofast
+cl++ -I../include main.cpp -Ofast
+cl++ -I ../include main.cpp -Ofast
+./a.out
+display output.tga
+mv compile_flags.txt ..
+vi ../compile_flags.txt
+cl++ main.cpp -Ofast
+mv compile_flags.txt ..
+mv compile_flags.txt .
+mv ../compile_flags.txt .
+cl++ main.cpp -Ofast
+vi compile_flags.txt
+cl++ main.cpp -Ofast
+vi compile_flags.txt
+cl++ main.cpp -Ofast
+cl++ main.cpp
+cl++ main.cpp -Ofast
+clang++ main.cpp
+mv compile_flags.txt .
+la
+cd ..
+la
+cd src
+mv compile_flags.txt ..
+cd ..
+la
+vi compile_flags.txt
+vi compile_commands.json
+vi compile_commands.json
+mv build/CMakeLists.txt .
+vi CMakeLists.txt
+cd include
+la
+mv line.h line.hpp
+cd ..
+vi CMakeLists.txt
+la
+vi CMakeLists.txt
+cd build
+cmake ..
+la
+rm -rf *
+la
+cd ..
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd build
+cmake ..
+cd ..
+rm -rf build
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+vi compile_commands.json
+vi compile_flags.txt
+vi CMakeLists.txt
+mkdir build
+cd build
+cmake ..
+cd ..
+vi CMakeLists.txt
+cd build
+cmake ..
+rm -rf ./*
+cmake ..
+cd ..
+rm -rf build
+mkdir build
+la
+rm -rf compile_commands.json
+la
+cd src
+la
+vi m
+vi main.cpp
+vi src/main.cpp
+vi m
+vi main.cpp
+la
+cd ..
+la
+vi compile_flags.txt
+cd src
+clang++ $FLAGS main.cpp
+mv ../compile_flags.txt .
+vi compile_flags.txt
+mv ../compile_flags.txt .
+clang++ $FLAGS main.cpp
+mv compile_flags.txt ..
+cd ..
+vi compile_flags.txt
+cd src
+clang++ $FLAGS main.cpp
+mv ../compile_flags.txt .
+vi compile_flags.txt
+clang++ $FLAGS main.cpp
+clang++ -I ../include main.cpp
+clang++ -I ../include/ main.cpp
+vi main.cpp
+clang++ -I ../include/ main.cpp
+vi main.cpp
+vi main.cpp
+la
+cl++ main.cpp
+cl++ $FLAGS main.cpp
+clang++ $FLAGS main.cpp
+vi main.cpp
+clang++ main.cpp
+mv compile_flags.txt ..
+vi ..com
+vi ../compile_flags.txt
+vi main.cpp
+cd ..
+la
+vi compile_flags.txt
+vi src/main.cpp
+vi compile_flags.txt
+vi src/main.cpp
+vi compile_flags.txt
+vi src/main.cpp
+la
+rm -rf CMakeLists.txt
+la
+vi src/main.cpp
+vi compile_flags.txt
+vi compile_flags.txt
+vi src/main.cpp
+clang++ --help
+vi compile_flags.txt
+vi src/main.cpp
+la
+tree
+cd Code/MyRenderer
+la
+cd src
+la
+mv model* ../lib
+vi main.cpp
+vi main.cpp
+reboot
+la
+neofetch
+vi .config/zsh/.zshrc
+cd Code/MyRenderer
+la
+cd lib
+la
+vi tgaimage.cpp
+vi model.cpp
+vi model.h
+clang -v
+vi ../compile_flags.txt
+vi model.h
+vi ../compile_flags.txt
+vi model.h
+vi model.cpp
+cd ..
+cd src
+vi main.cpp
+cl++ main.cpp
+cl++ -I ../include main.cpp -Ofast
+cl++ -I ../include ../lib main.cpp -Ofast
+cl++ -I ../include -I ../lib main.cpp -Ofast
+vi main.cpp
+vi main.cpp
+cl++ -I ../include -I ../lib main.cpp -Ofast
+vi main.cpp
+vi main.cpp
+cl++ -I ../include -I ../lib main.cpp -Ofast
+cl++ -I ../include ../lib main.cpp -Ofast
+cl++ -I ../include -I ../lib main.cpp -Ofast
+la
+./a.out
+cl++ -I ../include -I ../lib -Ofast main.cpp
+la
+cl++ main.cpp
+cd Code/MyRenderer
+cd src
+cl++ main.cpp
+la
+cd Code/Co-work
+la
+git pull
+git pull upstream master
+la
+mysql -u jdbc -p
+systemctl start mysqld
+cd
+mysqldump -u jdbc -p HeadhunterMS > dump.txt
+la
+la
+vi dump.txt
+rm -rf dump.txt
+vi .config/zsh/.zshrc
+vi .config/zsh/.zshrc
+vi .config/zsh/.zshrc
+vi .config/zsh/.zshrc
+clear
+cd Code/MyRenderer
+cd src
+clang++I main.cpp
+cd Code/Co-work/src/main/java
+la
+cd ssdut/cli/headhunterms/
+vi Main.java
+cd
+cd Code/Co-work
+la
+git add src/*
+git commit -m "Add copyright"
+git push origin master
+la
+cd Code/Co-work
+cd src/main/java/ssdut/cli/headhunterms/
+vi Main.java
+cd
+cd Code/Co-work
+git add src/*
+git commit -m "Add copyright"
+git push origin master
+git pull upstream master
+git push origin master
+git status
+yay -Syu
+cd Code/MyRenderer
+la
+vi src/main.cpp
+reboot
+la
+vi /etc/default/grub
+vi /etc/default/grub
+cd Documents/Blog
+la
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-19"
+git push origin source
+cd ../dotfiles
+git add .
+git commit -m "2021-07-19"
+git push origin source
+git push origin master
+neofetch
+cd Code/MyRenderer
+la
+vi CMakeLists.txt
+cmake --version
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd build
+cmake ..
+la
+make -j -l 13
+cd ..
+la
+rm -rf build
+mkdir build
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd build
+cmake ..
+cd ..
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd build
+la
+rm -rf *
+cmake ..
+rm -rf *
+cd ..
+vi CMakeLists.txt
+cd build
+la
+cmake ..
+make -j -l 13
+cd ..
+vi CMakeLists.txt
+rm -rf build
+mkdir build
+cd build
+cmake ..
+cd ..
+vi CMakeLists.txt
+rm -rf build
+mkdir build
+cd build
+cmake ..
+vi ../CMakeLists.txt
+rm -rf *
+cmake ..
+make -j -l 13
+la
+./a.out
+la
+display output.tga
+cd Code/MyRenderer
+la
+cd build
+la
+rm -rf *
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 ..
+make -j -l 13
+la
+vi compile_commands.json
+la
+./a.out
+display output.tga
+clear
+vi ../CMakeLists.txt
+la
+rm -rf *
+cmake ..
+la
+cd Code/MyRenderer
+la
+vi compile_flags.txt
+vi CMakeLists.txt
+cd src
+la
+rm -rf a.out
+rm -rf output.tga
+la
+cd ..
+cd build
+make clean
+la
+cd b
+la
+rm -rf CMakeCache.txt
+rm -rf CMakeFiles
+cmake ..
+cmake ..
+vi ../CMakeLists.txt
+cmake ..
+la
+sudo pacman -S cmake
+vi ../CMakeLists.txt
+vi ../CMakeLists.txt
+vi ../CMakeLists.txt
+cmake ..
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+./a.out
+display output.tga
+la
+cd ..
+rm -rf build
+mkdir build
+cd src
+vi main.cpp
+cd ..
+cd build
+la
+cmake ..
+make -j -l 13
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+cd ..
+rm -rf build
+mkdir build
+la
+mv lib/* include/*
+mv lib/* include/
+la
+vi CMakeLists.txt
+cd build
+cmake ..
+make -j -l 13
+cd ..
+vi include/geometry.h
+vi include/line.hpp
+vi include/model.cpp
+vi include/model.h
+vi include/model.cpp
+vi include/tgaimage.cpp
+vi include/tgaimage.h
+vi include/tgaimage.h
+cd build
+la
+cd ..
+rm -rf build
+mkdir build
+cd build
+make -j -l 13
+cmake ..
+make -j -l 13
+vi ../src/main.cpp
+cd ..
+mv include/* lib
+mv lib/line.hpp include
+la
+cd .cache
+la
+cd ..
+rm -rf .cache
+la
+rm -rf build
+mkdir build
+vi include/line.hpp
+vi lib/geometry.h
+vi lib/model.cpp
+vi lib/model.h
+vi lib/tgaimage.cpp
+vi lib/tgaimage.h
+cd build
+cmake ..
+make -j -l 13
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+./a.out
+display output.tga
+vi ../CMakeLists.txt
+la
+vi compile_commands.json
+cd ../src
+la
+vi main.cpp
+cd Code/MyRenderer
+vi compile_flags.txt
+cd Code/MyRenderer
+vi CMakeLists.txt
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+cd ..
+vi CMakeLists.txt
+mkdir build
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+./a.out
+display output.tga
+la
+clear
+cd Code/MyRenderer
+vi lib/model.cpp
+vi lib/model.h
+vi lib/model.cpp
+vi lib/geometry.h
+vi lib/model.cpp
+cd Code/MyRenderer
+la
+cloc .
+vi lib/geometry.h
+vi lib/model.h
+vi src/main.cpp
+vi lib/geometry.h
+vi lib/model.h
+vi lib/geometry.h
+vi lib/model.h
+vi lib/model.cpp
+vi src/main.cpp
+reboot
+iwctl
+lsblk
+df
+vi /etc/pacman.d/mirrorlist
+vi /etc/pacman.d/mirrorlist
+vi /etc/pacman.d/mirrorlist
+vi /etc/locale.conf
+sudo pacman -Ss chrome-gnome-shell
+vi /etc/pacman.conf
+cd Code/MyRenderer
+la
+vi src/main.cpp
+vi include/draw_triangle.hpp
+sudo pacman -Qs network
+vi include/draw_triangle.hpp
+vi include/draw_triangle.hpp
+vi lib/geometry.h
+vi src/main.cpp
+vi include/draw_triangle.hpp
+vi lib/geometry.h
+vi lib/geometry.h
+vi include/draw_triangle.hpp
+vi include/draw_triangle.hpp
+vi include/draw_triangle.hpp
+vi src/main.cpp
+vi include/draw_triangle.hpp
+vi include/draw_triangle.hpp
+vi src/main.cpp
+vi src/main.cpp
+mkdir build
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+./a.out
+display output.tga
+pacman -Ss libx11
+cd Downloads
+la
+git clone https://github.com/zauonlok/renderer.git
+la
+cd renderer
+la
+mkdir build
+cd build
+la
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+make -j -l 13
+la
+./Viewer
+./Viewer
+Viewer blinn azura
+./Viewer blinn azura
+./Viewer blinn lighthouse
+./Viewer blinn nier2b
+./Viewer pbr assassin
+./Viewer pbr helmet
+la
+cd ..
+la
+cd assets
+la
+cd ..
+cd build
+./Viewer -h
+./Viewer pbr
+./Viewer pbr venice
+./Viewer pbr sphere
+./Viewer pbr spheres
+./Viewer blinn a
+clear
+cd ..
+cd ..
+rm -rf renderer
+la
+yay -Syu
+reboot
+sudo pacman -S asp
+sudo pacman -S asp
+cd Downloads
+la
+mkdir kernel
+cd kernel
+asp
+asp -h
+asp update linux
+la
+la
+sudo abs
+sudo pacman -S abs
+sudo asp
+sudo pacman -S abs
+git pull
+asp update linux
+la
+cd ..
+la
+cd kernel
+la
+asp checkout linux
+ls
+la
+cd linux
+la
+cd repos
+ls
+cd core-x86_64
+LS
+ls
+la
+cd ../../..
+la
+cd linux/repos
+la
+cd ..
+cd ..
+rm -rf linux
+wget https://mirrors.bfsu.edu.cn/kernel/v5.x/linux-5.13.3.tar.xz
+la
+tar xvf linux-5.13.3.tar.xz
+la
+cd linux-5.13.3
+la
+zcat /proc/config.gz > .config
+vi .config
+rm -rf .config
+make oldconfig
+la
+cd kernel
+la
+cd ..
+make nconfig
+la
+vi .config
+gcc -v
+clear
+cd ..
+la
+rm -rf linux-5.13.3
+la
+clear
+la
+cd ..
+ls
+cd aur
+l
+git clone https://aur.archlinux.org/linux-xanmod.git
+cd linux-xanmod
+ls
+vi PKGBUILD
+ls
+cd ../..
+ls
+cd kernel
+ls
+mv ../linux-5.13.tar.xz
+mv ../linux-5.13.tar.xz ./
+ls
+tar -xf linux-5.13.3.tar.xz
+l
+cd linux-5.13.3
+ls
+make mrproper
+make help
+zcat /proc/config.gz > .config
+vi .config
+make olddefconfig
+make nconfig
+cat .config | wc -l
+l /boot
+l /boot -lah
+make mrproper
+update-grub
+cd
+cd Downloads
+la
+cd a
+cd aur
+la
+cd linux-xanmod
+la
+cd ..
+la
+rm -rf linux-xanmod
+cd ..
+la
+cd kernel
+la
+cd ..
+rm -rf kernel
+sudo pacman -Rns aps
+sudo pacman -S abs
+sudo pacman -Rns asp
+cd Downloads/aur
+la
+cd linux-xanmod
+la
+la
+vi PKGBUILD
+vi PKGBUILD
+vi .cache/zsh/history
+reboot
+cd /
+la
+cd /boot
+la
+cd EFI
+la
+grub-mkconfig -o /boot/grub/grub.cfg
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+df
+lsblk
+shutdown now
+la
+clear
+shutdown now
+shutdown now
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=Arch --recheck
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+cd /boot
+la
+cd grub
+la
+cd ..
+rm -rf EFI/Aech
+sudo rm -rf EFI/Aech
+sudo rm -rf System\ Volume\ Information
+sudo rm -rf vmlinuz-linux
+la
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=Arch --recheck
+sudo mkinitcpio -P
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo mkinitcpio -P
+sudo pacman -S linux linux-headers linux-firmware
+sudo mkinitcpio -P
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=Arch --recheck
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+reboot
+sudo mkinitcpio -P
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+ping baidu.com
+reboot
+shutdown now
+shutdown now
+yay -Syu
+nvidia-modprobe
+nvidia-smi
+cd aur
+cd Downloads/aur
+la
+rm -rf matcha-gtk-theme
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+cd matcha-gtk-theme
+la
+makepkg -si
+proxychains makepkg -si
+la
+clear
+nvidia-smi
+nvidia-modprobe
+nvidia-smi
+nvidia-smi
+nvidia-smi
+nvidia-smi
+cmake -v
+cmake --version
+la
+cd Code
+la
+cd MyRenderer
+la
+la
+la
+mkdir test
+mkdir doc
+la
+vi build.sh
+la
+build.sh
+./build.sh
+chmod +x build.sh
+./build.sh
+la
+cd build
+la
+display output.tga
+cd ..
+vi build_clean.sh
+la
+mv build_clean.sh clean.sh
+chmod +x clean.sh
+la
+mv compile_flags.txt ~
+la
+vi src/main.cpp
+./clean.sh
+la
+vi src/main.cpp
+./build.sh
+vi src/main.cpp
+la
+rm -rf clean.sh
+vi build.sh
+mv build.sh rebuild.sh
+la
+./rebuild.sh
+la
+cd .cache
+la
+cd ..
+la
+la
+clear
+la
+rm -rf .cache
+vi src/main.cpp
+mv ~/compile_flags.txt .
+la
+mv compile_flags.txt test
+la
+cd
+cd Documents/Blog
+hexo n "CppÈÉÅπÁÉªÆÊ®ÉÅÊÉΩø"
+hexo cl
+hexo g
+hexo d
+git add .
+git commit -m "2021-07-21"
+git push origin source
+cd Code/MyRenderer
+la
+vi README.md
+vi rebuild.sh
+./rebuild.sh
+vi rebuild.sh
+df
+yay -Scc
+df
+adb devices
+adb devices
+adb reboot fastboot
+la
+cd .android
+la
+adb reboot bootloader
+fastboot reboot bootloader
+adb devices
+fastboot reboot
+adb devices
+adb reboot bootloader
+fastboot flash boot ~/Downloads/magisk_patched-23000_9PJav.img
+fastboot reboot
+fastboot devices
+adb devices
+fastboot devices
+fastboot devices
+fastboot devices
+fastboot devices
+adb devices
+adb devices
+adb devices
+fastboot devices
+fastboot devices
+adb devices
+fastboot devices
+fastboot devices
+reboot
+adb devices
+adb devices
+adb devices
+fastboot devices
+adb devices
+adb devices
+fastboot devices
+adb reboot bootloader
+adb devices
+fastboot devices
+adb reboot bootloader
+fastboot devices
+adb devices
+fastboot flash boot ~/Downloads/PixelExperience_Plus_guacamole-11.0-20210717-1555-OFFICIAL.img
+fastboot reboot
+adb reboot bootloader
+fastboot flash boot ~/Downloads/magisk_patched-23000_QAZaY.img
+fastboot reboot
+la
+rm -rf .android
+la
+clear
+la
+df
+reboot
+yay -Syu
+reboot
+yay -Syu
+sudo vim /etc/pacman.conf
+sudo vim /etc/pacman.d/mirrorlist
+yay -Syu
+yay -Syu
+reboot
+la
+cd Code/MyRenderer
+la
+vi CMakeLists.txt
+vi CMakeLists.txt
+reboot
+yay -Syu
+yay -Syu
+pidof google-chrome-stable
+htop
+nvidia-modprobe
+uname -a
+systemd-analyze
+google-chrome-stable
+sudo pacman -S google-chrome
+cd .config
+sudo pacman -S google-chrome
+touch chrome-flags.conf
+rm -rf chrome-flags.conf
+sudo pacman -F google-chrome
+sudo pacman -Fl google-chrome
+google-chrome-stable
+cd Code
+mv MyRenderer SoftRenderer
+cd SoftRenderer
+la
+vi CMakeLists.txt
+reboot
+reboot
+sudo pacman -Rns google-chrome
+cd .config/
+rm -rf google-chrome
+sudo pacman -S google-chrome
+cd
+la
+cd .config
+la
+google-chrome-stable
+google-chrome-stable
+google-chrome-stable
+cd .config
+rm -rf google-chrome/
+google-chrome-stable
+google-chrome-stable
+google-chrome-stable
+rm -rf google-chrome/
+sudo pacman -Rns google-chrome
+systemctl --user enable clash.service
+systemctl --user stop  clash.service
+systemctl --user unable clash.service
+systemctl --user disable clash.service
+systemctl disable clash.service
+reboot
+sudo pacman -S google-chrome
+google-chrome-stable
+google-chrome-stable
+google-chrome-stable
+systemctl --user enable clash.service
+systemctl --user start clash.service
+cd .config
+rm -rf google-chrome/
+cd Code
+la
+mkdir MyRenderer
+cd MyRenderer
+la
+mkdir src
+mkdir lib
+mkdir include
+mkdir res
+la
+touch CMakeLists.txt
+la
+mkdir build
+touch rebuild.sh
+la
+la
+clear
+sudo pacman -S wqy-zenhei
+vi /etc/proxychains.conf
+systemctl --user disable clash.service
+sudo systemctl preset-all
+sudo systemctl enable gdm
+sudo systemctl enable NetworkManager
+sudo systemctl enable bluetooth
+systemctl --user enable clash.service
+reboot
+la
+sudo systemctl disable systemd-resolved.service
+sudo systemctl stop systemd-resolved.service
+reboot
+sudo pacman -Syu
+sudo pacman -S lib32-nvidia-utils
+sudo pacman -S nvidia nvidia-settings lib32-nvidia-utils
+la
+yay -Syu
+la
+shutdown now
+la
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+lsblk
+gdisk /dev/nvme0n1
+sudo gdisk /dev/nvme0n1
+lsblk
+sudo gdisk /dev/nvme0n1
+lsblk
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=Arch --recheck
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+df
+lsblk
+lsblk
+df
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+vi
+shutdown now
+ping baidu.com
+cd /bin
+ls
+ls | grep ping
+la | grep ping
+yay -Syu
+yay -Syu
+yay -Syu
+sudo pacman -Syu
+sudo pacman -Syu
+yay -Syu
+sudo pacman -Qs libopenaptx
+sudo pacman -Rns libopenaptx
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+reboot
+reboot
+cd Code/SoftRenderer
+tree
+cd src
+ls
+vi main.cpp
+vi ja.java
+vi main.cpp
+vi main.cpp
+vi .xprofile
+vi .config/zsh/.zshrc
+yay -Syu
+yay -Syu
+yay -Syu
+la
+clear
+cd Code/MyRenderer
+ls
+tree
+tree
+cd ..
+cd SoftRenderer
+tree
+cd ..
+mv SoftRenderer render
+mv MyRenderer SoftRenderer
+mv render MyRenderer
+cd MyRenderer
+la
+tree
+clear
+la
+vi src/main.cpp
+cd ../SoftRenderer
+vi src/main.cpp
+cl++ src/main.cpp
+vi src/main.cpp
+cl++ src/main.cpp
+cl++ src/main.cpp -std=c++20
+clang -v
+gcc -v
+vi src/main.cpp
+ls
+ls
+vi complaints.md
+clear
+tree
+vi rebuild.sh
+vi CMakeLists.txt
+cd..
+cd Code/MyRenderer
+la
+vi README.md
+rm -rf README.md
+ls
+la
+ls
+ll
+clear
+l
+ll
+clear
+shutdown now
+yay -Syu
+ls
+ll
+l
+ll
+reboot
+yay -Syu
+sudo pacman -Syu
+vim /etc/pacman.d/mirrorlist
+clear
+ls
+clear
+neofetch
+ls
+vim /etc/fstab
+vi /etc/fstab
+vi /etc/default/grub
+lsblk
+swapon /dev/nvme0n1p2
+sudo swapon /dev/nvme0n1p2
+shutdown now
+yay -Syu
+la
+clear
+ll
+ls
+clear
+sudo pacman -S nvidia-utils
+clear
+ls
+clear
+la
+cd Documents/dotfiles
+ls
+la
+cp ~/.gitconfig .
+cp ~/.yarnrc .
+cp ~/.xprofile .
+cd .local/share/fonts
+la
+cd -
+cd .config
+ls
+la
+clear
+la
+vi alacritty/alacritty.yml
+cp -r ~/.config/alacritty/ .
+cd fcitx5
+ls
+clear
+cp -r ~/.config/fcitx5 .
+cd ..
+la
+cp -r ~/.config/fontconfig .
+cd nvim
+la
+cd rc.d
+la
+cd -
+cd ..
+cp -r ~/.config/nvim .
+la
+cd zsh
+la
+cp -r ~/.config/zsh/.zshrc
+cp -r ~/.config/zsh/.zshrc .
+la
+cd .config/alacritty
+ls
+cd ../fcitx
+ls
+cd ../fcitx5
+ls
+la
+cd ../nvim
+la
+cd rc.d
+la
+cp -r Documents/dotfiles /run/media/limbo/code/
+cd /run/media/limbo/code/
+la
+rm -rf *
+la
+cp -r ~/Documents .
+la
+cp ~/Downloads/archlinux-2021.08.01-x86_64.iso .
+cp -r ~/Downloads/Aria2 .
+la
+cp -r ~/Pictures .
+cp -r ~/Code .
+reboot
+cd Code/SoftRenderer
+tree
+vi src/main.cpp
+shutdown now
+yay -Syu
+yay -Syu
+cd Downloads/aur
+la
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+rm -rf matcha-gtk-theme
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+cd matcha-gtk-theme
+la
+makepkg -si
+proxychains makepkg -si
+reboot
+yay -Syu
+ls
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+cd Code
+la
+mkdir GAMES101
+cd GAMES101
+la
+cd Code
+la
+cd SoftRenderer
+la
+tree
+cd ..
+cd MyRenderer
+la
+tree
+shutdown now
+neofetch
+clear
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+reboot
+neofetch
+la
+clear
+reboot
+yay -Syu
+reboot
+shutdown now
+yay -Syu
+ls
+reboot
+yay -Syu
+clear
+neofetch
+clear
+clear
+ls
+clear
+neofetch
+ls
+la
+reboot
+yay -Syu
+la
+clear
+la
+clear
+sudo pacman -Syu
+yay -Syu
+df
+dd if=Downloads/archlinux-2021.08.01-x86_64.iso of=/dev/sdb1
+sudo dd if=Downloads/archlinux-2021.08.01-x86_64.iso of=/dev/sdb1
+reboot
+shutdown now
+yay -Syu
+yay -Syu
+sudo pacman -Ss dash-to-dock
+sudo pacman -Ss gnome-shell-extension
+la
+clear
+ls
+clear
+la
+clear
+reboot
+yay -Syu
+cd /var/lib/mysqltmp
+la
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+ls
+clear
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+shutdown now
+la
+sudo pacman -Ss xrdp
+sudo pacman -Ss rdp
+sudo pacman -Ss xrdp
+sudo pacman -S xrdp
+sudo pacman -Rns xrdp
+sudo pacman -Sc
+clear
+yay -Syu
+reboot
+sudo pacman -S xrdp
+sudo systemctl start xrdp
+sudo systemctl start xrdp-sesman
+la
+vi .xprofile
+sudo pacman -Ss xorg-xrdp
+vi /etc/X11/Xwrapper.conf
+sudo vi /etc/X11/Xwrapper.conf
+sudo vim /etc/X11/Xwrapper.config
+sudo systemctl status xrdp
+sudo pacman -S ssl
+sudo rm -rf /etc/X11/Xwrapper.config
+la
+sudo pacman -Qs tigervnc
+sudo pacman -Qs libxrandr
+sudo pacman -Qs lame
+sudo pacman -Qs opus
+sudo pacman -Qs fuse
+la
+sudo rm -rf .fltk .vnc .Xauthority
+la
+sudo rm -rf .xorgxrdp.10.log
+la
+vi .m2/settings.xml
+clear
+la
+vi .mvn/jvm.config
+vi .mvn/jvm.config
+clear
+la
+reboot
+yay -Syu
+shutdown now
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+la
+rm -rf .viminfo
+la
+cd Code
+la
+cd GAMES101
+la
+typora GAMES101Á¨É¥ËÆ∞.md
+yay -Syu
+cd Downloads/aur
+la
+rm -rf matcha-gtk-theme
+git clone https://aur.archlinux.org/matcha-gtk-theme.git
+cd matcha-gtk-theme
+makepkg -si
+shutdown now
+yay -Syu
+yay -Syu
+clear
+la
+ls
+clear
+la
+reboot
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+clear
+sudo pacman -Syu
+yay -Syu
+reboot
+sudo pacman -S tomcat10
+cd Code/
+la
+mkdir J2EE
+cd J2EE
+la
+vi hello.java
+javac hello.java
+mv hello.java HelloWorld.java
+javac HelloWorld.java
+javac -d . -classpath /etc/tomcat10 HelloWorld.java
+javac -d . -classpath /usr/share/tomcat10/ HelloWorld.java
+javac -d . -classpath /usr/share/java/tomcat10/ HelloWorld.java
+javac -d . -classpath /usr/share/tomcat10/bin HelloWorld.java
+javac -d . -classpath /usr/share/tomcat10/bin/ HelloWorld.java
+javac -d . -classpath /usr/share/tomcat10/lib/ HelloWorld.java
+javac -d . -classpath /var/lib/tomcat10/ HelloWorld.java
+vi /etc/tomcat10/tomcat-users.xml
+sudo vi /etc/tomcat10/tomcat-users.xml
+sudo nvim /etc/tomcat10/tomcat-users.xml
+sudo systemctl status tomcat10.service
+sudo systemctl start tomcat10.service
+sudo systemctl stop tomcat10.service
+sudo systemctl start tomcat10.service
+sudo pacman -Fl tomcat10
+cd /usr/share/tomcat10/bin
+la
+cd ..
+la
+cd lib
+la
+sudo pacman -F tomcat10
+sudo pacman -Fy tomcat10
+sudo pacman -Fl tomcat10
+yay -Syu
+pacman -Fl tomcat10
+pacman -Fl tomcat10 | grep jar
+cd /usr/share/tomcat10/bin
+la
+cd ..
+la
+cd webapps
+la
+cd examples
+la
+cp -r ~/Code/J2EE/first
+cp -r ~/Code/J2EE/first .
+sudo cp -r ~/Code/J2EE/first .
+la
+la
+cd first
+la
+cd WEB-INF
+la
+cd ..
+cd ..
+la
+mv first ..
+sudo mv first ..
+cd ..
+la
+la
+cd first
+la
+cd WEB-INF
+la
+vi web.xml
+sudo nvim web.xml
+cd classes
+la
+mv HelloWorld.java hello.java
+cd ../../..
+la
+sudo rm -rf first
+sudo cp -r ~/Code/J2EE/first .
+la
+ls
+la
+sudo systemctl start tomcat10.service
+cd Code
+la
+cd J2EE
+la
+vi HelloWorld.java
+javac -d . -classpath /usr/share/java/tomcat10/ HelloWorld.java
+javac -d . -classpath /usr/share/java/tomcat10/servlet-api.jar HelloWorld.java
+clear
+la
+java HelloWorld
+la
+mkdir first
+cd first
+mkdir WEB-INF
+cd WEB-INF
+mkdir classes
+touch web.xml
+cd classes
+mv ../../../Hell* .
+la
+vi HelloWorld.java
+la
+cd ..
+vi web.xml
+vi web.xml
+la
+clear
+la
+cd classes
+la
+mv HelloWorld.java hello.java
+vi hello.java
+vi hello.java
+rm -rf *.class
+la
+javac -d . -classpath /usr/share/java/tomcat10/servlet-api.jar hello.java
+la
+nvim
+reboot
+yay -Syu
+mpv
+reboot
+yay -Syu
+reboot
+yay -Syu
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+reboot
+reboot
+yay -Syu
+reboot
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+cd Downloads
+git clone https://github.com/AlieZ22/DLUT-CompilationPrinciple.git
+cd Code
+la
+mkdir Compiler
+cd Compiler
+la
+touch word_analysis.cpp
+vi word_analysis.cpp
+vi word_analysis.cpp
+clear
+vi word_analysis.cpp
+clang++ word_analysis.cpp
+vi word_analysis.cpp
+la
+./a.out
+vi demo.txt
+./a.out
+clear
+./a.out
+vi word_analysis.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+la
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi test.cpp
+g++ test.cpp
+./a.out
+clang++ test.cpp
+./a.out
+clang++ word_analysis.cpp
+./a.out
+rm -rf demo.txt
+rm -rf word_analysis.cpp
+mv test.cpp word_analysis.cpp
+la
+vi demo.txt
+vi demo.txt
+clang++ word_analysis.cpp
+./a.out
+vi demo.txt
+./a.out
+clear
+la
+vi word_analysis.cpp
+vi word_analysis.cpp
+clang++ word_analysis.cpp
+./a.out
+clear
+vi word_analysis.cpp
+vi word_analysis.cpp
+clang++ word_analysis.cpp
+./a.out
+vi word_analysis.cpp
+clear
+vi regex.cpp
+vi regex.cpp
+vi regex.cpp
+clang++ regex.cpp
+./a.out
+vi regex.cpp
+clang++ regex.cpp
+./a.out
+./a.out
+vi regex.cpp
+clang++ regex.cpp
+./a.out
+./a.out
+./a.out
+vi regex.cpp
+./a.out
+vi regex.cpp
+./a.out
+./a.out
+vi regex.cpp
+vi word_analysis.cpp
+clear
+reboot
+yay -Syu
+clear
+cd Downloads/aur
+la
+yay -Syu
+yay -Syu
+clear
+la
+yay -Syu
+yay -Syu
+cd Code/Compiler
+la
+vi word_analysis.cpp
+shutdown now
+yay -Syu
+cd Code/Compiler
+vi word_analysis.cpp
+cd Code/Compiler
+la
+mv demo.txt test.txt
+vi regex.cpp
+vi regex.cpp
+vi regex.cpp
+vi word_analysis.cpp
+vi word_analysis.cpp
+vi word_analysis.cpp
+vi test.txt
+clear
+la
+yay -Syu
+vi word_analysis.cpp
+shutdown now
+yay -Syu
+la
+reboot
+yay -Syu
+clear
+cd Code
+la
+cd SoftRenderer
+la
+tree
+cd ../MyRenderer
+la
+tree
+cd build
+la
+cd ..
+la
+cd doc
+la
+cd ..
+tree
+cd test
+vi compile_flags.txt
+reboot
+cd Code/Compiler
+vi word_analysis.cpp
+clang++ word_analysis.cpp
+./a.out
+vi word_analysis.cpp
+vi word_analysis.cpp
+vi word_analysis.cpp
+vi word_analysis.cpp
+la
+vi regex.cpp
+clang++ word_analysis.cpp
+./a.out
+la
+clang++ regex.cpp
+./a.out
+clear
+clang++ word_analysis.cpp
+./a.out
+cd Code/Compiler
+la
+vi regex.cpp
+vi LexicalAnalyzer.cpp
+reboot
+reboot
+pacman -Si grub
+yay -Syu
+reboot
+yay -Syu
+la
+cd Code
+la
+cd GAMES101
+la
+yay -Syu
+yay -Syu
+la
+typora GAMES101Á¨É¥ËÆ∞.md
+cd ..
+la
+cd GAMES101
+cd Hw0
+la
+clear
+yay -Syu
+sudo pacman -S universal-ctags-git
+yay -S universal-ctags-git
+clear
+yay -Ss universal-ctags-git
+yay -Syu
+yay -Ss universal-ctags-git
+sudo pacman -Ss universal-ctags-git
+yay -Ss universal-ctags
+sudo pacman -Ss universal-ctags
+sudo pacman -Ss ctags
+sudo pacman -Ss uctags
+clear
+la
+la
+clear
+sudo pacman -Ss ctags
+sudo pacman -Ss universial-ctags
+sudo pacman -Ss universal-ctags
+sudo pacman -S ctags
+clear
+yay -Syu
+reboot
+yay -Syu
+cd .config/zsh/plugins/
+la
+cd
+vi
+cd Code
+la
+mkdir CPP_Primer
+cd CPP_Primer/
+la
+clear
+la
+yay -Syu
+shutdown now
+yay -Syu
+reboot
+shutdown now
+yay -Syu
+la
+clear
+yay -Syu
+cd Code/GAMES101
+cd Hw0
+la
+google-chrome-stable Assignment\ \ 0.pdf
+sudo pacman -Ss eigen
+sudo pacman -S eigen
+la
+vi CMakeLists.txt
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+clang++ main.cpp
+./a.out
+g++ main.cpp -Ofast -ffast-math
+./a.out
+vi main.cpp
+g++ main.cpp -Ofast -ffast-math
+./a.out
+vi main.cpp
+g++ main.cpp -Ofast -ffast-math
+./a.out
+clear
+neofetch
+cd Public
+cd
+cd Documents/Blog
+la
+vi .gitignore
+cd
+cd Code/GAMES101
+la
+cd Hw0
+la
+cd Documents/Blog
+vi .gitignore
+yay -Syu
+clear
+la
+cd Code
+la
+cd GAMES101
+la
+vi GAMES101Á¨É¥ËÆ∞.md
+vi README.md
+la
+vi GAMES101Á¨É¥ËÆ∞.md
+mkdir doc
+la
+mv GAMES101Á¨É¥ËÆ∞.md doc
+la
+tree
+clear
+la
+git init
+git remote add origin https://github.com/horel/GAMES101.git
+git commit -m "create repository"
+la
+cd .git
+la
+cd ..
+vi .gitignore
+clear
+la
+git add .
+git commit -m "create repository"
+git push -u origin master
+git push -u origin master
+la
+clear
+gh auth login
+git
+la
+gh auth login
+git push -u origin master
+git push -u origin master --with-token
+git push -u origin master
+git push -u origin master
+vi .gitignore
+git rm .gitignore
+git add .
+git rm .gitignore
+git rm .gitignore --cached
+git add .
+git commit -m "create repository"
+git push -u origin master
+git remote set-url origin https://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@github.com/horel/GAMES101.git
+git push -u origin master
+la
+cd .git
+la
+la
+clear
+cd ..
+la
+la
+clear
+la
+vi Hw0/main.cpp
+cd Hw0
+la
+g++ main.cpp -Ofast -ffast-math
+./a.out
+./a.out
+clear
+cd
+cd Documents/Blog
+la
+hexo cl
+hexo g
+hexo d
+hexo d
+vi .cache/zsh/history
+vi .cache/zsh/history
+cd Documents/Blog
+la
+hexo d
+hexo d
+hexo g
+hexo d
+hexo d
+hexo d
+git add .
+vi .gitignore
+git commit -m "2021-09-19"
+git push origin source
+hexo n "È¨ºÁÅ≠‰πÉ´ÂÉ®É£:ÊÉ∑ÉÄÈÉπÉ∞ÂÉ®É∑ËΩ¶ÁØÉß"
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-19"
+git push origin source
+vi .cache/zsh/history
+yay -Syu
+reboot
+cd Documents/Blog
+hexo g
+hexo d
+vi .cache/zsh/history
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-20"
+git push origin source
+shutdown now
+yay -Syu
+reboot
+cd Code/GAMES101
+la
+cd hw1
+cd Hw1
+la
+google-chrome-stable Assignment1.pdf
+la
+vi rasterizer.hpp
+vi main.cpp
+sudo pacman -S opencv
+vi main.cpp
+sudo pacman -S vtk hdf5 glew
+vi main.cpp
+pacman -Fl opencv
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+mkdir build
+cd build
+vi ../main.cpp
+cmake ..
+make -j4
+./Rasterizer
+clear
+la
+cd ..
+vi main.cpp
+vi CMakeLists.txt
+vi main.cpp
+rm -rf build
+mkdir build
+cd build && cmake ..
+la
+make -j4
+./Rasterizer
+cd ..
+vi main.cpp
+vi CMakeLists.txt
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j4
+cd ..
+vi main.cpp
+vi main.cpp
+clear
+vi CMakeLists.txt
+cd Code/MyRenderer
+la
+vi CMakeLists.txt
+pacman -Ss opencv
+pacman -Fl opencv
+vi /usr/include/opencv4/opencv2/opencv.hpp
+clear
+cd Code/GAMES101
+cd Hw1
+la
+vi ../.gitignore
+vi main.cpp
+la
+rm -rf build
+vi main.cpp
+mkdir b
+rm -rf b
+mkdir build
+cd build
+cmake ..
+make -j4
+cd ..
+vi main.cpp
+pacman -Fl opencv
+cd Code/MyRenderer
+la
+vi rebuild.sh
+cp rebuild.sh ~/Code/GAMES101
+la
+clear
+cd Code/MyRenderer
+la
+cd test
+la
+vi compile_flags.txt
+cp compile_flags.txt ~/Code/GAMES101/
+cd
+cd Code/GAMES101
+la
+vi compile_flags.txt
+cd Hw1
+rm -rf build
+vi main.cpp
+mv ../compile_flags.txt .
+vi main.cpp
+vi compile_flags.txt
+vi main.cpp
+la
+vi main.cpp
+mv compile_flags.txt ..
+vi main.cpp
+la
+cd ..
+la
+vi .gitignore
+vi .gitignore
+vi compile_flags.txt
+cd Hw1
+vi main.cpp
+la
+vi CMakeLists.txt
+vi main.cpp
+vi main.cpp
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer
+cd ..
+rm -rf build
+la
+cd ..
+la
+vi rebuild.sh
+la
+vi .gitignore
+git add .
+git commit -m "2021-09-20"
+git rm -r Hw1
+cd Hw1
+la
+cd Code/GAMES101
+la
+vi .gitignore
+git rm compile_flags.txt
+la
+cd Hw0
+la
+cd ..
+cd Hw1
+la
+la
+vi main.cpp
+vi main.cpp
+la
+la
+la
+ls -lah
+cd ..
+la
+vi .gitignore
+git add .
+git commit -m "2021-09-20"
+git push -u origin master
+horel
+la
+vi .gitignore
+vi .gitignore
+vi .gitignore
+la
+vi compile_flags.txt
+cd Hw1
+vi CMakeLists.txt
+cd Code/GAMES101
+cd Hw1
+cd .cache
+yay -Syu
+reboot
+yay -Syu
+cd Code/GAMES101
+la
+cd Hw1
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+reboot
+google-chrome-stable
+cd Code/GAMES101
+cd Hw1
+la
+mkdir build
+../rebuild.sh
+la
+cd build
+la
+./Rasterizer
+cd ..
+vi ../rebuild.sh
+../rebuild.sh
+la
+vi ../rebuild.sh
+vi ../.gitignore
+clear
+la
+vi main.cpp
+vi main.cpp
+google-chrome-stable Assignment1.pdf
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+yay -Syu
+cd Code/GAMES101
+cd Hw1
+la
+vi Triangle.hpp
+vi Triangle.cpp
+vi rasterizer.hpp
+vi main.cpp
+google-chrome-stable Assignment1.pdf
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+../rebuild.sh
+build/Rasterizer
+vi main.cpp
+cd Code/Compiler
+vi count_word.cpp
+g++ count_word.cpp
+./a.out
+vi count_word.cpp
+vi count_word.cpp
+vi count_word.cpp
+vi count_word.cpp
+vi count_word.cpp
+vi test.cpp
+vi data.txt
+vi data.txt
+g++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi data.txt
+./a.out
+vi data.txt
+./a.out
+vi test.cpp
+vi test.cpp
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+sudo systemctl start tomcat10.service
+cd /usr/share/tomcat10/bin\
+
+sudo cp -r ~/Code/J2EE/first .
+la
+sudo mv first ..
+cd ..
+la
+sudo rm -rf first
+cd webapps
+la
+la
+cd first
+la
+cd ..
+la
+sudo cp -r ~/Code/J2EE/StudentTxt .
+la
+la
+cd StudentTxt
+la
+mv WebContent ..
+sudo mv WebContent ..
+cd ..
+la
+cd StudentTxt
+la
+cd build
+la
+mv classes ../../
+sudo mv classes ../../
+cd ../..
+la
+mv classes WebContent/WEB-INF
+sudo mv classes WebContent/WEB-INF
+cd WebContent
+la
+cd WEB-INF
+la
+la
+sudo rm -rf classes
+cd ../..
+la
+la
+sudo rm -rf StudentTxt
+la
+clear
+sudo systemctl stop tomcat10.service
+sudo pacman -S tomcat9
+sudo systemctl start tomcat9.service
+la
+sudo mv WebContent ../../tomcat9/webapps
+cd ../../tomcat9/webapps
+la
+la
+vi WebContent/index.jsp
+sudo rm -rf WebContent
+sudo cp -r ~/Code/J2EE/StudentTxt .
+la
+vi StudentTxt/WebContent/index.jsp
+sudo vi StudentTxt/WebContent/index.jsp
+sudo nvim StudentTxt/WebContent/index.jsp
+sudo rm -rf StudentTxt
+la
+yay -Syu
+vi .cache/zsh/history
+reboot
+cd /usr/share/tomcat10/bin\
+
+la
+cd ..
+cd webapps
+cd ROOT
+la
+cd WEB-INF
+la
+cd Code/J2EE/StudentTxt/src/ssdut/search
+la
+javac -d ../../../build/classes/ssdut/search/ -classpath /usr/share/java/tomcat10/servlet-api.jar fileDealer.java
+clear
+javac -d ../../../build/classes/ssdut/search/ -classpath /usr/share/java/tomcat10/servlet-api.jar fileDealer.java
+javac -d ../../../build/classes/ssdut/search/ -classpath /usr/share/java/tomcat10/servlet-api.jar:commons-io-2.8.0 fileDealer.java
+javac -d ../../../build/classes/ssdut/search/ -classpath /usr/share/java/tomcat10/servlet-api.jar;commons-io-2.8.0 fileDealer.java
+cd Downloads
+git clone https://github.com/WangXiCindy/StudentSearch.git
+sudo systemctl start tomcat9.service
+cd /usr/share/tomcat9/webapps
+la
+la
+la
+clear
+la
+sudo cp -r ~/Code/J2EE/StudentTxt .
+la
+cd StudentTxt
+la
+vi WebContent/index.jsp
+la
+cd ..
+la
+sudo rm -rf StudentTxt
+sudo cp ~/Downloads/StudentSearch/ .
+sudo cp ~/Downloads/StudentSearch/ . -r
+la
+la
+cd StudentSearch
+la
+la
+mv StudentTxt ..
+sudo mv StudentTxt ..
+cd ..
+la
+la
+sudo rm -rf StudentTxt
+sudo rm -rf StudentSearch
+la
+cd Code/J2EE
+la
+mkdir StudentSearch
+cd StudentSearch
+la
+mkdir WEB-INF
+touch web.xml
+mkdir classes
+cd /usr/share/tomcat9/webapps
+sudo systemctl start tomcat9.service
+sudo systemctl restart tomcat9.service
+sudo systemctl start tomcat10.service
+sudo systemctl stop tomcat9.service
+sudo systemctl start tomcat10.service
+reboot
+cd /usr/share/tomcat9/webapps
+la
+cd ..
+la
+cd bin
+la
+vi catalina-tasks.xml
+cd ..
+find conf
+la
+la
+vi server.xml
+vi server.xml
+sudo nvim server.xml
+la
+cd Catalina/localhost
+la
+sudo cd Catalina/localhost
+sudo cd Catalina/localhost
+su -
+cd ../../tomcat10
+la
+cd webapps
+la
+vi first
+reboot
+sudo systemctl start tomcat10.service
+sudo systemctl stop tomcat10.service
+sudo systemctl start tomcat9.service
+la
+cd /usr/share/tomcat9/webapps
+la
+sudo cp ~/Code/J2EE/first .
+sudo cp ~/Code/J2EE/first . -r
+sudo systemctl restart tomcat9.service
+sudo systemctl start tomcat9.service
+cd /usr/share/tomcat9/webapps
+la
+rm -rf first
+sudo rm -rf first
+su -
+la
+cd ../../tomcat10
+cd webapps
+la
+sudo rm -rf first
+la
+cd ..
+reboot
+sudo systemctl start tomcat10.service
+cd /usr/share/tomcat10
+su -
+sudo systemctl restart tomcat10.service
+ls
+su -
+sudo systemctl stop tomcat10.service
+sudo systemctl start tomcat9.service
+cd Code/J2EE/first
+cd WEB-INF/classes
+ls
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar hello.java
+vi hello.java
+la
+vi hello.java
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar hello.java
+clear
+sudo systemctl restart tomcat9.service
+sudo systemctl restart tomcat9.service
+cd
+cd Code/J2EE/StudentTxt
+la
+cd src/ssdut/search
+la
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar fileDealer.java
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar:commons-io-2.8.0.jar:commons-io-2.8.0-javadoc.jar:commons-io-2.8.0-sources.jar:commons-io-2.8.0-tests.jar:commons-io-2.8.0-test-sources.jar fileDealer.java
+la
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar:commons-io-2.8.0.jar:commons-io-2.8.0-javadoc.jar:commons-io-2.8.0-sources.jar:commons-io-2.8.0-tests.jar:commons-io-2.8.0-test-sources.jar StudentDAOFactory.java
+javac -d . -classpath /usr/share/java/tomcat9/servlet-api.jar:commons-io-2.8.0.jar:commons-io-2.8.0-javadoc.jar:commons-io-2.8.0-sources.jar:commons-io-2.8.0-tests.jar:commons-io-2.8.0-test-sources.jar fileDealer.java StudentDAOFactory.java StudentDAOImpl.java StudentDAO.java StudentDAOProxy.java Student.java
+cd
+cd /usr/share/tomcat9/webapps
+la
+sudo cp ~/Code/J2EE/StudentTxt -r .
+la
+sudo cp ~/Code/J2EE/StudentTxt/WebContent -r .
+sudo rm -rf StudentTxt
+sudo rm -rf WebContent
+la
+sudo pacman -Rns tomcat10
+rm -rf  /var/tmp/tomcat10
+sudo rm -rf  /var/tmp/tomcat10
+sudo rm -rf /var/log/tomcat10
+shutdown now
+sudo systemctl start tomcat9.service
+cd /usr/share/tomcat9/webapps
+ls
+sudo cp -r /home/limbo/Code/J2EE/StudentSearch-main/StudentSearch-main/StudentTxt .
+la
+cd StudentTxt
+ls
+la
+cd ..
+sudo rm -rf StudentTxt
+yay -Syu
+yay -Syu
+yay -Syu
+shutdown now
+cd Code/J2EE
+la
+yay -Syu
+sudo pacman -Ss tesseract
+sudo pacman -S tesseract
+cd
+cd Downloads
+la
+tesseract a.jpeg outputbase
+tesseract a.jpeg outputbase -l zh
+tesseract -v
+tesseract a.jpeg outputbase
+sudo pacman -Ss tesseract
+sudo pacman -Ss tesseract-data-eng
+sudo pacman -Ss tesseract-data-chi_
+sudo pacman -S tesseract-data-chi_sim
+tesseract a.jpeg outputbase
+sudo pacman -S tesseract-data-eng
+tesseract a.jpeg outputbase
+la
+vi outputbase.txt
+tesseract a.jpeg outputbase -l chi_sim
+vi outputbase.txt
+vi outputbase.txt
+gcc --help
+java -v
+java -version
+sudo pacman -S eclipse-platform
+clear
+sudo systemctl start tomcat9.service
+clear
+cd
+cd Code/J2EE
+la
+cd StudentSearch-main
+la
+cd StudentSearch-main
+la
+cd ..
+la
+cd ..
+la
+sudo pacman -Rns eclipse-platform
+la
+rm -rf .swt .eclipse
+sudo pacman -Fl eclipse-platform
+sudo pacman -Ss build-essential
+cd .local/share/applications
+ls
+rm epp.package.jee.desktop _home_limbo_Downloads_eclipse-inst-jre-linux64_eclipse-installer_.desktop _home_limbo_eclipse_jee-2021-09_eclipse_.desktop _usr_lib_eclipse_.desktop
+l
+la
+sudo rm -rf .eclipse eclipse
+la
+sudo rm -rf .swt
+la
+clear
+la
+ls
+clear
+cd /usr/share/applications
+la
+find ecli
+neofetch
+cd Downloads
+tesseract screenshot.png outputbase
+vi outputbase.txt
+vi outputbase.txt
+vi outputbase.txt
+tesseract screenshot.png outputbase -l eng
+vi outputbase.txt
+clear
+vi outputbase.txt
+pacman -Ss gardle
+pacman -S gardle
+sudo pacman -Ss gardle
+yay -Ss gardle
+clear
+la
+sudo pacman -Ss idea
+sudo pacman -S intellij-idea-community-edition
+archlinux-java help
+archlinux-java set jdk11
+sudo archlinux-java set jdk11
+sudo archlinux-java set jdk11-openjdk
+sudo archlinux-java set java-11-openjdk
+archlinux-java status
+sudo pacman -S lldb
+sudo pacman -S intellij-idea-community-edition
+cd Code
+la
+mkdir Translator
+cd Translator
+git clone https://github.com/TonnyL/Translator.git
+cd ..
+la
+cd
+cd Code
+git clone https://github.com/TonnyL/Translator.git
+la
+cd Translator
+la
+sudo pacman -Ss gradle
+sudo pacman -S gradle
+la
+cd
+la
+gradle
+la
+sudo pacman -Ss android
+gradle --version
+sudo pacman -S jdk8-openjdk
+sudo archlinux-java set java-8-openjdk
+sudo pacman -Ss gradle
+yay -Ss gardle
+sudo pacman -S android-sdk android-sdk-build-tools android-sdk-platform-tools gradle
+cd .config/zsh/
+la
+vi .zshrc
+cd
+vi .xprofile
+source .xprofile
+yay -Ss android-sdk
+yay -S android-sdk-25
+yay -S android-sdk
+yay -Ss android-sdk-25
+yay -Ss android-sdk
+yay -Ss android-sdk-build-tools
+yay -Ss android-sdk-build-tools-25
+yay -S android-sdk-build-tools-25
+yay -S android-sdk-build-tools-25.0.3
+yay -Ss lib32-zlib
+clear
+la
+cd Downloads/android-studio-2021.1.1.12-linux/android-studio/bin/
+la
+./studio.sh
+./studio.sh
+yay -Syu
+yay -Syu
+cd Downloads
+la
+cp screenshot.png ~/
+cp outputbase.txt ~/
+vi ~/.config/zsh/.zshrc
+cd
+la
+mkdir Project
+la
+mv screen* Project
+mv outputbase.txt Project
+la
+cd P
+cd Project
+la
+mv ../srceenshot_chi.jpg .
+la
+mv srceenshot_chi.jpg screenshot_chi.jpg
+la
+clear
+la
+mv screenshot.png screenshot_eng.jpg
+la
+clear
+cd Project
+clear
+OCR screenshot_eng.jpg outputbase.txt -l eng
+rm -rf outputbase.txt.txt
+OCR screenshot_eng.jpg outputbase -l eng
+clear
+la
+vi outputbase.txt
+lear
+clear
+OCR screenshot_chi.jpg outputbase_chi -l chi_sim
+la
+vi outputbase_chi.txt
+clear
+OCR screenshot_eng.jpg outputbase_eng -l eng
+la
+rm -rf outputbase.txt
+vi outputbase_eng.txt
+reboot
+cd Project
+la
+OCR screenshot_eng.jpg outputbase_eng -l eng
+clear
+la
+rm -rf out*
+la
+clear
+la
+display screenshot_eng.jpg
+OCR screenshot_eng.jpg outputbase_eng -l eng
+clear
+la
+rm -rf out*
+display screenshot_eng.jpg
+clear
+la
+reboot
+yay -Syu
+yay -Syu
+clear
+la
+neofetch
+la
+la
+sudo pacman -Syu
+clear
+yay -Syu
+reboot
+vi .cache/zsh/history
+cd Documents/Blog
+la
+cd source/_posts/notes
+la
+vi ËÆÉÅÁÆÉ∑ÊÉº∫ÂÉªæÂΩÉÇÂ≠¶‚ÄÉ¥‚ÄÉ¥Â≠¶‰πÉÄÁ¨É¥ËÆ∞.md
+vi ËÆÉÅÁÆÉ∑ÊÉº∫ÂÉªæÂΩÉÇÂ≠¶‚ÄÉ¥‚ÄÉ¥Â≠¶‰πÉÄÁ¨É¥ËÆ∞.md
+cd -
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-25"
+git push origin source
+reboot
+cd Code/GAMES101
+la
+vi compile_flags.txt
+shutdown now
+yay -Syu
+shutdown now
+yay -Syu
+cd /usr/include/eigen3/Eigen/src/Core/
+find Matrix.h
+clear
+la
+vi Matrix.h
+cd
+cd Code/GAMES101
+cd Hw1
+vi main.cpp
+vi main.cpp
+cd ../Hw2
+vi Triangle.cpp
+vi Triangle.hpp
+vi Triangle.cpp
+cd Code/GAMES101
+cd Hw2
+la
+google-chrome-stable Assignment2.pdf
+vi global.hpp
+vi global.hpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+vi global.hpp
+vi Triangle.cpp
+vi rasterizer.hpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+clear
+la
+vi main.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi Triangle.hpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+cd Code/GAMES101
+cd Hw1
+vi main.cpp
+vi main.cpp
+la
+vi rasterizer.hpp
+vi rasterizer.cpp
+cd Code/GAMES101
+cd Hw2
+la
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+clear
+cd ..
+vi rasterizer.cpp
+vi main.cpp
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd Code/GAMES101
+vi Hw1/main.cpp
+cd -
+cd Code/GAMES101
+cd Hw2
+vi rasterizer.cpp
+cd ..
+cp -r Hw2 ~/Documents
+cd
+cd Documents/Hw2
+la
+la
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer
+cd
+cd Code/GAMES101
+cd Hw2
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+vi Makefile
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+clear
+vi .cache/zsh/history
+cd code
+cd Code
+cd Code
+cd
+cd Code/GAMES101
+cd Hw2
+vi rasterizer.cpp
+yay -Syu
+cd Code/GAMES101
+cd Hw2
+vi rasterizer.cpp
+vi Triangle.hpp
+vi Triangle.cpp
+vi rasterizer.cpp
+reboot
+cd Documents/Hw2
+mkdir build
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer
+cd ..
+cp ~/Code/GAMES101/rebuild.sh ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+../rebuild.sh
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd Documents/Hw2
+la
+../rebuild.sh
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd Code/GAMES101
+cd Hw2
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cp -r Hw2 ~/Documents
+cd ../..
+cp -r Hw2 ~/Documents
+cd Hw2
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+vi rasterizer.cpp
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+la
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+cd ..
+cp -r Hw2 ~/Documents
+cd Hw2
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+la
+google-chrome-stable Assignment2.pdf
+cd ..
+cp -r Hw2 ~/Documents
+yay -Syu
+cd Documents
+la
+cd Hw2
+la
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd build && ./Rasterizer
+cd ..
+../rebuild.sh
+cd ..
+git clone https://github.com/MARMOTatZJU/GAMES101-HW.git
+cd GAMES101-HW/hw2
+la
+./compile_run.sh
+vi compile_run.sh
+la
+cd build
+la
+cd ..
+vi compile_run.sh
+cd Code/GAMES101
+cd Hw2
+la
+la
+cd ..
+cp -r Hw2 ~/Documents
+cd Hw2
+vi ../rebuild.sh
+../rebuild.sh
+cd build
+la
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+cd build && ./Rasterizer
+cd build && ./Rasterizer
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.hpp
+vi Triangle.hpp
+vi Triangle.cpp
+vi Triangle.hpp
+vi Triangle.cpp
+vi rasterizer.cpp
+clear
+la
+cd ..
+git add .
+git commit -m "2021-09-26"
+git push -u origin master
+cd
+cd Documents/Blog
+la
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-26"
+git push origin source
+vi .git/config 
+git remote set-url origin https://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@github.com/horel/horel.github.io.git
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-26"
+git push origin source
+cd Documents/Blog
+vi .git/config
+vi .cache/zsh/history
+vi .cache/zsh/history
+cd Code/GAMES101
+cd Hw2
+cd build
+./Rasterizer
+cd Code/GAMES101
+cd Hw3
+google-chrome-stable Assignment3.pdf
+yay -Syu
+cd Documents/Hw2
+vi rasterizer.cpp
+../rebuild.sh
+cd build && ./Rasterizer
+cd build && ./Rasterizer
+./Rasterizer
+cd Code/GAMES101
+la
+vi .gitignore
+vi .gitignore
+vi compile_flags.txt
+vi .gitignore
+cd Hw0
+la
+./a.out
+clear
+cd ..
+la
+cd doc
+la
+vi GAMES101Á¨É¥ËÆ∞.md
+mkdir images
+cd images
+la
+cd ../..
+la
+cd Hw0
+clear
+./a.out
+cd ..
+git add .
+git commit -m "2021-09-26"
+git push -u origin master
+cd hw1
+cd Hw1
+la
+cd build
+la
+./Rasterizer
+cd ../..
+cd Hw2
+clear
+cd build
+./Rasterizer
+cd ../..
+cp -r Hw2 ~/Documents
+cd Code/GAMES101
+git add .
+git commit -m "2021-09-26"
+git push -u origin master
+cd
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-09-26"
+git push origin source
+vi .cache/zsh/history
+yay -Syu
+cd Code/GAMES101
+cd Hw2
+vi main.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+cd Code/GAMES101
+la
+cd ..
+la
+vi test.cpp
+g++ test.cpp
+./a
+./a.out
+clear
+rm -rf a.out
+rm -rf test.cpp
+cd Code/GAMES101
+vi Hw2/rasterizer.cpp
+cd Hw2
+la
+../rebuild.sh
+cd build
+./Rasterizer
+cd Documents/Hw3
+la
+../rebuild.sh
+la
+cd build
+./Rasterizer output.png normal
+display output.png
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+../../rebuild.sh
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Code/GAMES101
+cd Hw3
+la
+vi Triangle.hpp
+cd ..
+cd
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+la
+display output.png
+./Rasterizer output.png normal
+./Rasterizer output.png normal
+./Rasterizer output.png normal
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd
+cd Documents/GAMES101-HW/hw3
+la
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png texture
+display output.png
+./Rasterizer
+./Rasterizer texture
+./Rasterizer output.png texture
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd Documents
+la
+git clone https://github.com/Quanwei1992/GAMES101.git
+cd GAMES101/03
+la
+mkdir build
+cd build
+cmake ..
+make -j4
+./Rasterizer output.png normal
+la
+./03 output.png normal
+./03
+cd ..
+la
+../../rebuild.sh
+la
+vi CMakeLists.txt
+cp ~/Code/GAMES101/Hw3/CMakeLists.txt .
+../../rebuild.sh
+vi CMakeLists.txt
+la
+vi main.cpp
+vi main.cpp
+vi Triangle.hpp
+vi CMakeLists.txt
+../../rebuild.sh
+vi Triangle.hpp
+../../rebuild.sh
+vi rasterizer.hpp
+../../rebuild.sh
+vi Texture.hpp
+vi Shader.hpp
+../../rebuild.sh
+la
+cd build
+la
+./Rasterizer output.png normal
+la
+cd Code/GAMES101
+cp -r Hw3 ~/Documents
+cd
+cd Documents/Hw3
+la
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+cd ..
+vi main.cpp
+vi main.cpp
+cd ..
+cd
+cd Code/GAMES101
+cp -r Hw3 ~/Documents
+cd
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Code/GAMES101
+cd Hw3
+la
+google-chrome-stable Assignment3.pdf
+la
+clear
+la
+vi main.cpp
+vi global.hpp
+vi main.cpp
+vi main.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi ../rebuild.sh
+../rebuild.sh
+vi rasterizer.cpp
+vi rasterizer.hpp
+cd ..
+cp -r Hw3 ~/Documents
+cd Hw3
+../rebuild.sh
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+vi ../Hw2/rasterizer.cpp
+vi ../Hw2/Triangle.hpp
+vi Triangle.cpp
+vi Triangle.hpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+./Rasterizer output.png normal
+display output.png
+cd ..
+la
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+vi rasterizer.cpp
+cd ..
+vi rasterizer.cpp
+cd build
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi rasterizer.cpp
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi rasterizer.cpp
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+../rebuild.sh
+cd build
+la
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Code/GAMES101
+cd Hw3
+vi Triangle.hpp
+vi Triangle.cpp
+la
+vi rasterizer.cpp
+../rebuild.sh
+vi rasterizer.cpp
+vi rasterizer.cpp
+cd Code/GAMES101
+cd Hw3
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi Triangle.hpp
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+cd build
+cd ../..
+cd GAMES101-HW/hw3
+cd build
+display output.png
+cd
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+clear
+yay -Syu
+cd Code/GAMES101
+cd Hw3
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+vi rasterizer.cpp
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi rasterizer.cpp
+cd build
+display output.png
+display output.png
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+clear
+yay -Syu
+vi rasterizer.cpp
+la
+vi README.md
+cd ..
+clear
+la
+git add .
+git commit -m "add part of hw3"
+git push -u origin master
+sudo pacman -Sy neovim
+yay -Syu
+cd Code
+cd GAMES101
+la
+cd Hw3
+la
+clear
+reboot
+cd Code/GAMES101
+cd Hw3
+la
+cd models
+la
+cd ..
+vi main.cpp
+cd Documents
+cd GAMES101-HW
+cd hw3
+la
+./compile_run.sh
+la
+cd build
+la
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png
+display output.png
+./Rasterizer output.png texture
+./Rasterizer output.png normal
+sudo pacman -S blender
+sudo pacman -S glfw-x11 cuda
+sudo pacman -S glfw-x11
+sudo pacman -S blender
+archlinux-java set jdk16
+sudo archlinux-java set jdk16
+sudo archlinux-java status
+sudo archlinux-java set java-16-openjdk
+sudo pacman -Rns jdk8-openjdk
+la
+clear
+cd Documents/
+cd GAMES101-HW/hw3
+../rebuild.sh
+./compile_run.sh
+./compile_run.sh
+cd build
+la
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi rasterizer.cpp
+./compile_run.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+la
+sudo pacman -Fl blender
+sudo pacman -F blender
+la
+clear
+cd Code/GAMES101
+cd Hw3
+la
+google-chrome-stable Assignment3.pdf
+cd build
+display output.png
+display output.png
+cd ..
+vi main.cpp
+la
+vi main.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+display output.png
+cd ..
+la
+vi rasterizer.cpp
+vi main.cpp
+vi rasterizer.cpp
+cd ..
+cp -r Hw3 ~/Documents
+vi main.cpp
+cd Hw3
+vi main.cpp
+vi global.hpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+cd ../..
+vi Hw2/main.cpp
+cd Hw2
+../rebuild.sh
+cd build
+./Rasterizer
+\
+\
+
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd ../..
+cd Hw1
+vi rasterizer.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer
+cd
+cd Documents
+cd GAMES101-HW/hw3
+vi main.cpp
+./compile_run.sh
+cd build
+display output.png
+./Rasterizer output.png phong
+display output.png
+cd ..
+vi rasterizer.cpp
+./compile_run.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+cd ..
+vi main.cpp
+cd build
+./Rasterizer
+cd ..
+vi rasterizer.cpp
+cd
+cd Documents/Hw3
+la
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+vi rasterizer.cpp
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+cd ..
+vi rasterizer.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+cd ..
+vi main.cpp
+cd
+cd Code/GAMES101
+cd Hw1
+vi main.cpp
+vi ../Hw0/main.cpp
+vi ../Hw2/main.cpp
+cd Code/GAMES101
+cd Hw3
+la
+vi main.cpp
+../rebuild.sh
+clear
+sudo pamclear
+exa -la
+clear
+exa
+cd Code/GAMES101
+la
+git add .
+git commit -m "fix projection matrix"
+git push -u origin master
+cd Hw3
+la
+cd build
+display output.png
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd
+cd Code/GAMES101
+git add .
+git commit -m "add part of hw3"
+git push -u origin master
+la
+clear
+pacman -Ss pycharm
+yay -Ss pycharm
+clear
+pacman -Ss navicat
+yay -Ss navicat
+sudo pacman -S pycharm-community-edition 
+yay -S navicat15-premium-cs
+clear
+cd Code/GAMES101
+cd Hw3
+../rebuild.sh
+cd build
+la
+./Rasterizer output.png texture
+display output.png
+cd ../..
+vi README.md
+git add .
+git commit -m "add hw3 texture"
+git push -u origin master
+cd Hw3
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png bump
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png displacement
+display output.png
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png displacement
+display output.png
+cd ..
+vi main.cpp
+vi main.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png displacement
+display output.png
+./Rasterizer output.png bump
+display output.png
+cd
+cd Code/GAMES101
+vi README.md
+git add .
+git commit -m "add part of hw3"
+git push -u origin master
+vi README.md
+cd Hw3
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+./Rasterizer output.png texture
+./Rasterizer output.png normal
+./Rasterizer output.png texture
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+vi main.cpp
+cd ..
+cp -r Hw3 ~/Documents
+cd Hw3
+mkdir images
+cd Documents/GAMES101-HW/hw3
+vi main.cpp
+./compile_run.sh
+./compile_run.sh
+clear
+vi main.cpp
+./compile_run.sh
+vi main.cpp
+./compile_run.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+vi main.cpp
+clear
+./compile_run.sh
+vi main.cpp
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd
+cd Documents/Hw3
+la
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Documents/GAMES101-HW/hw3
+vi main.cpp
+./compile_run.sh
+vi main.cpp
+./compile_run.sh
+vi main.cpp
+./compile_run.sh
+vi main.cpp
+./compile_run.sh
+../../rebuild.sh
+cd build
+./Rasterizer output.png normal
+cd ..
+cd Documents/GAMES101-HW/hw3
+./compile_run.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+../../rebuild.sh
+cd ..
+../../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd Code/GAMES101
+cd
+cd Documents/Hw3
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png texture
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+display output.png
+cd Code/GAMES101
+cd Hw3
+vi main.cpp
+cd Documents/Hw3
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png displacement
+display output.png
+cd Documents/Hw3
+cd build
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+cd ..
+../rebuild.sh
+cd build
+./Rasterizer output.png normal
+display output.png
+./Rasterizer output.png texture
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd Documents/Hw3
+cd build
+./Rasterizer output.png phong
+display output.png
+sudo pacman -Ss markdown-toc
+sudo pacman -Ss markdown
+cd Downloads
+git clone https://github.com/ekalinin/github-markdown-toc.git
+cd github-markdown-toc/
+vi README.md
+cd Code/GAMES101
+vi README.md
+cd doc
+mkdir labels
+cd Code/GAMES101
+git add .
+git commit -m "add hw3 bonus1"
+git push -u origin master
+git add .
+git commit -m "add content"
+git push -u origin master
+cd Downloads/github-markdown-toc
+vi README.md
+cd Code/GAMES101
+vi README.md
+git add .
+git commit -m "add content"
+git push -u origin master
+vi README.md
+cd ..
+$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc\
+$ chmod a+x gh-md-toc\
+
+wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
+chmod a+x gh-md-toc
+la
+cat GAMES101/README.md | ./gh-md-toc -
+./gh-md-toc GAMES101/README.md
+la
+vi GAMES101
+vi GAMES101/README.md
+cd GAMES101
+git add .
+git commit -m "add content"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "add content"
+git push -u origin master
+clear
+cd Code/GAMES101
+vi md
+vi README.md
+vi README.md
+cd doc/images
+mv Hw2_normal.png Hw2_basic.png
+cd ../..
+git add .
+git commit -m "add content"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "add content"
+git push -u origin master
+cd Code/GAMES101
+cd doc/labels
+la
+rm -rf -ÁÉÆ∞‰ª£ËÆÉÅÁÆÉ∑ÊÉº∫ÂÉªæÂΩÉÇÂ≠¶ÂÉ••ÈÉ∑®-pink.svg
+cd ../..
+git add .
+git commit -m "add content"
+git push -u origin master
+pacman -Ss flex
+yay -Syu
+cd Downloads
+unrar e Á¨¨2Ê¨ÉÅ‰∏É™ÊÉº∫ÔºÉ®Á¨¨4ÂÉ±®ÔºÉ©.rar
+unrar x Á¨¨2Ê¨ÉÅ‰∏É™ÊÉº∫ÔºÉ®Á¨¨4ÂÉ±®ÔºÉ©.rar
+cd Á¨¨2Ê¨ÉÅ‰∏É™ÊÉº∫ÔºÉ®Á¨¨4ÂÉ±®ÔºÉ©
+la
+cd lex_ÂÆÉæÈ™É¨
+la
+cd flex
+la
+flex < example.l
+la
+cd ..
+la
+clear
+la
+cd lex_yy
+la
+cp ../flex/lex.yy.c .
+gcc lex.yy.c -l libfl.lib
+la
+gcc lex.yy.c -l ./libfl.lib
+gcc lex.yy.c -L . -l libfl.lib
+gcc lex.yy.c libfl.lib
+gcc lex.yy.c -l fl
+la
+./a.out
+la
+cd Debug
+la
+cp 12.txt ..
+cd ..
+la
+./a.out < 12
+./a.out < 12.txt
+la
+vi test.txt
+cd ..
+cd flex
+vi lex.yy.c
+vi example.l
+flex < example.l
+vi lex.yy.c
+cd ../lex_yy
+cp ../flex/lex.yy.c .
+gcc lex.yy.c -l fl -o ley.yy.out
+vi test.txt
+la
+la
+./lex.yy.out < test.txt
+clear
+gcc lex.yy.c -l fl
+la
+rm -rf lex.yy.out
+la
+mv ley.yy.out lex.yy.out
+./lex.yy.out < test.txt
+yay -Syu
+reboot
+yay -Syu
+cd Code/Compiler
+la
+clear
+la
+mkdir hw1
+la
+mv *.cpp a.out
+mv *.cpp hw1
+la
+mv *.txt hw1
+la
+rm -rf a.out
+mkdir hw2
+cd hw2
+la
+cp ~/Downloads/Á¨¨2Ê¨ÉÅ‰∏É™ÊÉº∫ÔºÉ®Á¨¨4ÂÉ±®ÔºÉ©/lex_ÂÆÉæÈ™É¨/flex/example.l .
+cp ~/Downloads/Á¨¨2Ê¨ÉÅ‰∏É™ÊÉº∫ÔºÉ®Á¨¨4ÂÉ±®ÔºÉ©/lex_ÂÆÉæÈ™É¨/lex_yy/test.txt .
+la
+clear
+vi example.l
+la
+mv example.l myLex.l
+la
+vi myLex.l
+flex < myLex.l
+la
+gcc lex.yy.c
+gcc lex.yy.c -l fl
+clear
+la
+./a.out
+./a.out < test.txt
+clear
+la
+vi myLex.l
+la
+clear
+la
+vi myLex.l
+./a.out < test.txt
+vi myLex.l
+vi myLex.l
+la
+clear
+la
+vi myLex.l
+flex < myLex.l
+la
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi test.txt
+pacman -Fl fl
+clear
+cd Code/Compiler
+gcc lex.yy.c -l fl
+clea
+cd hw2
+clear
+gcc lex.yy.c -l fl
+la
+vi myLex.l
+flex < myLex.l
+./a.out < test.txt
+gcc lex.yy.c -l fl
+./a.out < test.txt
+clear
+vi test.txt
+./a.out < test.txt
+clear
+la
+flex < myLex.l
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi test.txt
+cleqr
+clear
+flex < myLex.l
+la
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi test.txt
+vi myLex.l
+flex < myLex.l
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi myLex.l
+vi test.txt
+./a.out < test.txt
+vi test.txt
+vi test.txt
+vi test.txt
+vi test.txt
+vi test.txt
+vi test.txt
+clear
+flex < myLex.l
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi test.txt
+./a.out < test.txt
+vi test.txt
+clear
+flex < myLex.l
+gcc lex.yy.c -l fl
+./a.out < test.txt
+vi test.txt
+vi myLex.l
+clear
+./a.out < test.txt
+clear
+./a.out < test.txt
+vi myLex.l
+vi test.txt
+./a.out < test.txt
+reboot
+cd Documents/Hw3
+vi main.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png phong
+display output.png
+./Rasterizer output.png normal
+display output.png
+cd Code/GAMES101
+cd Hw3
+la
+google-chrome-stable Assignment3.pdf
+vi Texture.hpp
+vi Texture.cpp
+vi Texture.hpp
+vi Texture.cpp
+vi Texture.hpp
+la
+vi Shader.hpp
+vi Shader.hpp
+vi Texture.hpp
+vi rasterizer.hpp
+vi rasterizer.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./Rasterizer output.png texture
+display output.png
+cd ..
+vi main.cpp
+clear
+shutdown now
+yay -Syu
+yay -Syu
+pacman -Syu
+sudo pacman -Syu
+clear
+reboot
+reboot
+la
+yay -Syu
+cd Code/GAMES101
+la
+cd Hw3
+vi main.cpp
+vi global.hpp
+shutdown now
+cd Code/SoftRenderer
+la
+vi complaints.md
+cd src
+la
+clear
+cd ..
+cd ..
+mv SoftRenderer GRenderer
+cd GRenderer
+la
+vi CMakeLists.txt
+tree
+vi rebuild.sh
+cd src
+la
+vi macro
+mv macro macro.h
+vi macro.h
+vi macro.h
+vi macro.h
+cd Code/GRenderer
+la
+cd src
+la
+la
+mkdir shaders
+la
+mkdir platforms
+la
+cd platforms
+touch linux.cpp
+touch win32.cpp
+clear
+la
+la
+cd ..
+la
+mkdir maths
+la
+la
+cd maths
+touch vector.hpp
+touch matrix.hpp
+la
+cd ..
+la
+cd maths
+la
+touch lerp.cpp
+la
+cd ..
+la
+clear
+la
+la
+mkdir camera
+la
+cd camera
+touch camera.h
+touch camera.cpp
+mkdir load_model
+la
+mv load_model ..
+cd ..
+la
+cd load_model
+touch model.cpp
+touch model.h
+cd ..
+mkdir scence
+cd scence
+touch scence.h
+touch scence.cpp
+cd ..
+la
+mkdir rasterization
+tree
+la
+clear
+vi macro.h
+cd 
+cd -
+cd ..
+la
+tree
+mkdir releases
+la
+clear
+cd
+cd Code/GAMES101
+cd Hw4
+la
+vi main.cpp
+google-chrome-stable Assignment4.pdf
+google-chrome-stable assignment4.pdf
+cd Code/GRenderer
+la
+cd src
+la
+vi macro.h
+clear
+la
+vi main.cpp
+vi main.cpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/matrix.hpp
+la
+tree
+vi main.cpp
+vi main.cpp
+vi camera/camera.h
+vi platforms/platform.h
+tree
+clear
+yay -Syu
+reboot
+cd Downloads
+git clone https://github.com/zauonlok/renderer.git
+cd renderer
+la
+./build_linux.sh
+la
+./Viewer blinn azura
+./Viewer blinn craftsman
+./Viewer blinn nier2b
+./Viewer pbr assassin
+Viewer pbr helmet
+./Viewer pbr helmet
+cd Code/GRenderer
+la
+cd src
+la
+tree
+la
+touch api.h
+la
+cd ..
+la
+cd src
+la
+vi ma
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+vi main.cpp
+g++ main.cpp
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+cd Code/GRenderer
+cd src
+vi main.cpp
+la
+rm -rf a.out
+la
+cd
+cd Code
+la
+vi test.cpp
+pacman -Ss openmp
+yay -Ss openmp
+la
+g++ test.cpp
+vi test.cpp
+mv test.cpp test.c
+gcc test.c
+mv test.c test.cpp
+vi test.cpp
+g++ test.cpp
+vi test.cpp
+vi test.cpp
+sudo pacman -S openmp
+vi test.cpp
+clang++ test.cpp
+vi test.cpp
+clang++ test.cpp -fopenmp
+./a.out
+la
+vi test.cpp
+g++ test.cpp -fopenmp
+./a.out
+vi test.cpp
+g++ test.cpp -fopenmp
+./a.out
+clear
+la
+rm -rf a.out
+la
+mv test.cpp GRenderer
+la
+cd GRenderer
+la
+mkdir test
+la
+mv test.cpp test
+la
+cd src
+la
+cd ../test
+la
+clang++ test.cpp -fopenmp
+./a.out
+vi main.cpp
+vi test.cpp
+g++ test.cpp -fopenmp
+./a.out
+g++ test.cpp -O3 -fopenmp
+./a.out
+./a.out
+clang++ test.cpp -O3 -fopenmp
+./a.out
+g++ test.cpp -O3 -fopenmp
+./a.out
+g++ test.cpp -fopenmp
+./a.out
+g++ test.cpp -O1 -fopenmp
+./a.out
+g++ test.cpp -O2 -fopenmp
+./a.out
+g++ test.cpp -O3 -fopenmp
+./a.out
+g++ test.cpp -Ofast -fopenmp
+./a.out
+cd Code/GRenderer
+cd test
+la
+la
+rm -rf .gradle
+la
+cd Code/GRenderer
+tree
+clear
+cd src
+vi maths/vector.hpp
+vi maths/vector.cpp
+cd maths
+la
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+mv vector.hpp vector.h
+vi vector.cpp
+vi vector.h
+vi vector.cpp
+clear
+la
+vi vector.h
+vi vector.cpp
+vi vector.cpp
+vi vector.cpp
+vi ../main.cpp
+cd Code/GRenderer
+cd src
+la
+cd maths
+la
+vi vector.cpp
+vi vector.h
+vi vector.h
+vi vector.cpp
+vi vector.cpp
+vi vector.h
+vi vector.h
+vi vector.h
+vi vector.h
+vi vector.h
+vi vector.h
+vi vector.cpp
+vi vector.cpp
+vi vector.cpp
+la
+vi test_vector.cpp
+g++ test_vector.cpp
+vi vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp
+g++ test_vector.cpp vector.cpp
+vi vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+la
+vi vector.cpp
+vi vector.h
+vi test.cpp
+g++ test.cpp
+./a.out
+g++ test_vector.cpp vector.cpp
+clang++ test_vector.cpp vector.cpp
+rm -rf test.cpp
+la
+la
+clear
+cd ..
+cd maths
+la
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+la
+vi test.cpp
+g++ test.cpp
+./a.out
+vi vector.h
+vi test_vector.cpp
+vi test.cpp
+vi test.cpp
+vi vector.
+vi vector.h
+vi vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+./a.out
+g++ test_vector.cpp vector.cpp
+./a.out
+vi vector.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+g++ test.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+g++ test.cpp -std=c++17
+vi test.cpp
+vi test.cpp
+vi vector.cpp
+vi test.cpp
+g++ test.cpp -std=c++17
+./a.out
+vi test.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi vector.cpp
+vi vector.cpp
+la
+rm -rf a.out
+rm -rf test.cpp
+la
+mv matrix.hpp matrix.h
+touch matrix.cpp
+la
+clear
+vi matrix.h
+vi vector.h
+vi vector.h
+vi vector.cpp
+vi vector.cpp
+la
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+vi test_vector.cpp
+./a.out
+vi test_vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+clear
+la
+vi vector.h
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+vi test_vector.cpp
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+vi test_vector.cpp
+g++ test_vector.cpp vector.cpp
+./a.out
+clear
+la
+vi test_vector.cpp
+la
+rm -rf a.out
+cd Code/GRenderer/src
+vi maths/vector.h
+vi maths/vector.h
+vi maths/vector.cpp
+vi maths/vector.cpp
+vi maths/vector.h
+vi maths/vector.cpp
+vi maths/vector.h
+vi maths/vector.h
+vi maths/vector.h
+vi maths/vector.h
+vi maths/vector.cpp
+vi maths/vector.h
+vi maths/vector.cpp
+vi maths/vector.h
+vi maths/vector.cpp
+vi maths/vector.h
+vi maths/vector.h
+la
+vi maths/vector.h
+la
+vi maths/matrix.h
+vi maths/matrix.cpp
+la
+tree
+clear
+cd ../..
+cd GRenderer
+la
+clear
+tree
+rm -rf test/a.out
+rm -rf test/test.cpp
+mv src/maths/test_vector.cpp test
+la
+tree
+cd test
+vi test_vector.cpp
+cd ..
+la
+vi complaints.md
+rm -rf complaints.md
+la
+cp ../GAMES101/compile_flags.txt .
+vi compile_flags.txt
+cd test
+vi test_vector.cpp
+vi ../compile_flags.txt
+vi test_vector.cpp
+la ..
+vi ../compile_flags.txt
+vi test_vector.cpp
+vi ../src/api.h
+vi ../compile_flags.txt
+vi test_vector.cpp
+vi ../src/api.h
+vi test_vector.cpp
+vi ../src/api.h
+vi ../compile_flags.txt
+vi test_vector.cpp
+vi ../src/api.h
+vi test_vector.cpp
+vi ../src/api.h
+vi ../src/api.h
+vi ../compile_flags.txt
+vi ../src/api.h
+vi test_vector.cpp
+la
+clear
+cd ..
+vi src/main.cpp
+vi src/macro.h
+vi src/maths/vector.h
+vi src/maths/vector.cpp
+vi src/maths/vector.cpp
+vi src/maths/vector.h
+vi src/maths/vector.cpp
+clear
+tree
+touch src/platforms/macos.m
+clear
+tree
+cloc .
+cd src/maths
+la
+vi vector.h
+vi lerp.cpp
+la
+mv lerp.cpp lerp.hpp
+la
+vi lerp.hpp
+la
+la
+clear
+la
+vi vector.h
+la
+cd ..
+tree
+cd maths
+vi vector.cpp
+vi vector.cpp
+touch cache.cpp
+vi vector.cpp
+vi vector.cpp
+vi vector.h
+vi vector.cpp
+cd Code/GRenderer
+cd src/maths
+la
+vi vector.h
+vi vector.h
+vi vector.h
+yay -Syu
+cd Code/GRenderer/src
+la
+cd maths
+la
+vi vector.h
+vi vector.h
+vi matrix.h
+cd Code/GRenderer/src
+cd maths
+vi vector.cpp
+vi vector.cpp
+la
+vi lerp.hpp
+vi lerp.hpp
+clear
+la
+vi matrix.h
+la
+vi matrix.h
+vi matrix.cpp
+cd Code/GRenderer/src
+cd maths
+vi matrix.h
+vi matrix.h
+la
+clear
+rm -rf cache.cpp
+la
+vi matrix.h
+cd Code/GRenderer/src
+cd maths
+la
+vi matrix.cpp
+vi matrix.cpp
+yay -Syu
+yay -Syu
+yay -Syu
+clang -v
+clear
+cd Code/GRenderer/src
+la
+cd maths
+la
+vi matrix.h
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+cd Code/GRenderer/src
+cd maths
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+shutdown now
+yay -Syu
+cd Code/GRenderer/src
+cd maths
+la
+vi matrix.h
+touch cache.cpp
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi matrix.h
+vi ../macro.h
+vi ../../compile_flags.txt
+vi matrix.h
+vi ../../compile_flags.txt
+vi matrix.h
+vi ../../compile_flags.txt
+vi ../macro.h
+vi ../../compile_flags.txt
+cd Code/GRenderer/src
+cd maths
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.cpp
+vi matrix.h
+vi matrix.cpp
+vi vector.cpp
+vi lerp.hpp
+la
+clear
+cloc .
+cd ../..
+cloc .
+shutdown now
+yay -Syu
+cd Downloads
+la
+cd renderer
+la
+cloc .
+la
+cd build
+la
+make -j4
+cd assets
+la
+vi README.md
+cd nier2b
+la
+cd ../..
+la
+rm -rf assets
+la
+./Viewer
+make -j4
+./Viewer
+cd ..
+la
+rm -rf build
+mkdir build
+cd build
+cmake ..
+make -j4
+./Viewer
+./Viewer blinn nier2b
+la
+clear
+la
+gdb ./Viewer
+clear
+cd ..
+vi CMakeLists.txt
+rm -rf build
+cd .github
+cd ..
+mkdir build
+cd build
+la
+cmake ..
+make -j4
+gdb ./Viewer
+gdb ./Viewer 
+cd Code/GRenderer/src
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+clear
+la
+cd platforms
+la
+vi platform.h
+sudo pacman -S lldb
+cd ..
+la
+touch blinn.cpp
+touch blinn.h
+la
+la
+mkdir render
+cp blinn* render
+la
+tree
+cd render
+la
+mv blinn.h render_blinn.h
+mv blinn.cpp render_blinn.cpp
+la
+cd ..
+la
+rm -rf blinn*
+la
+tree
+tree
+rm -rf render/rasterization
+la
+clear
+la
+cd Code/GRenderer/src
+la
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+vi render/render_blinn.h
+vi main.cpp
+vi render/render_blinn.h
+vi main.cpp
+vi main.cpp
+vi render/render_blinn.h
+vi main.cpp
+cd render
+la
+rm -rf render*
+la
+touch renderer.h
+touch renderer.cpp
+la
+cd ..
+la
+clear
+tree
+rm -rf maths/cache.cpp
+la
+tree
+mv load_model/ model
+la
+tree
+cd render/shaders
+touch shader.h
+touch phong_shader.cpp
+touch pbr_shader.cpp
+touch skybox_shader.cpp
+cd ..
+la
+cd ..
+la
+tree
+cd camera
+vi camera.h
+vi camera.cpp
+vi camera.h
+vi camera.cpp
+vi camera.cpp
+vi camera.h
+vi camera.cpp
+vi camera.h
+vi camera.cpp
+vi camera.h
+vi ../main.cpp
+vi ../../compile_flags.txt
+vi ../main.cpp
+vi camera.h
+vi camera.cpp
+clear
+la
+cd ..
+la
+tree
+la
+clear
+la
+cd ..
+la
+cd src
+clear
+la
+vi model/model.h
+vi model/model.h
+la
+vi scence/scence.h
+vi ../compile_flags.txt
+tree
+vi scence/scence.h
+vi render/shaders/shader.h
+vi ../compile_flags.txt
+vi render/shaders/shader.h
+vi model/model.h
+vi render/shaders/shader.h
+shutdown now
+yay -Syu
+cd Code/GAMES101/Hw3
+la
+vi OBJ_Loader.h
+cloc .
+vi OBJ_Loader.h
+vi OBJ_Loader.h
+cd Code/GRenderer/src
+la
+vi main.cpp
+vi main.cpp
+cd Downloads/renderer/
+la
+vi README.md
+vi CMakeLists.txt
+la
+./build_linux.sh
+la
+la
+./Viewer blinn nier2b
+./Viewer blinn nier2b
+./Viewer blinn nier2b
+cd Code/GRenderer/src
+la
+cd ..
+la
+vi README.md
+cd Code/GRenderer/src
+cd ..
+la
+rm -rf include
+rm -rf lib
+la
+mv test src
+la
+cd res
+la
+mkdir images
+mkdir models
+pacman -Ss libx11
+cd Downloads/renderer/
+vi README.md
+yay -Syu
+cd Code/GAMES101
+la
+vi README.md
+git add .
+git commit -m "add content"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "add content"
+git push -u origin master
+shutdown now
+yay -Syu
+clear
+la
+cd .java
+la
+cd fonts
+la
+cd
+la
+rm -rf .java
+rm -rf .android
+rm -rf .lesshst
+la
+rm -rf .p2
+rm -rf .vnc
+rm -rf .wget-hsts
+la
+rm -rf .pki
+rm -rf .nv
+rm -rf .mvn
+la
+clear
+ls
+cd Code
+ls
+nvim --startuptime nvim.log
+vi nvim.log
+rm -rf nvim.log
+la
+exit
+la
+cd Code/GAMES101
+cd Hw4
+la
+google-chrome-stable assignment4.pdf
+mkdir images
+la
+vi main.cpp
+g++ main.cpp -Ofast -ffast-math
+vi main.cpp
+vi ../compile_flags.txt
+g++ main.cpp -Ofast -ffast-math -I /usr/include/opencv4
+vi main.cpp
+g++ main.cpp -Ofast -ffast-math -I /usr/include/opencv4/opencv2/
+g++ main.cpp -Ofast -ffast-math -I /usr/include/opencv4/
+vi CMakeLists.txt
+mkdir build
+cd build
+la
+cmake ..
+make -j4
+la
+./BezierCurve
+clear
+make -j4
+cd ..
+la
+rm -rf build
+mkdir build
+cd build
+cmake ..
+la
+vi Makefile
+make -j4
+cd ..
+rm -rf build
+vi CMakeLists.txt
+mkdir build
+cd build
+cmake ..
+vi compile_commands.json
+cd ..
+g++ main.cpp -Ofast -ffast-math -isystem /usr/include/opencv4/
+vi build/compile_commands.json
+/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /home/limbo/Code/GAMES101/Hw4/main.cpp
+cd build
+/usr/bin/c++  -isystem /usr/include/opencv4 -std=gnu++14 -o CMakeFiles/BezierCurve.dir/main.cpp.o -c /home/limbo/Code/GAMES101/Hw4/main.cpp
+la
+vi compile_commands.json
+cd ..
+g++ -isystem /usr/include/opencv4 main.cpp
+g++ -isystem /usr/include/opencv4 main.cpp -lm
+g++ -lm -isystem /usr/include/opencv4 main.cpp
+vi CMakeLists.txt
+pkg-config --cflags opencv
+la
+../rebuild.sh
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+la
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+vi main.cpp
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+vi main.cpp
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+la
+vi ../.gitignore
+rm -rf .cache
+vi CMakeLists.txt
+clear
+la
+ll | more
+ll | less
+script
+la
+rm -rf typescript
+cd build
+la
+vi my_bezier_curve.png
+display my_bezier_curve.png
+cd ..
+clear
+la
+cd ..
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+cd Code/GAMES101
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+vi README.md
+vi README.md
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+vi README.md
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+git add .
+git commit -m "hw4 basic"
+git push -u origin master
+shutdown now
+cd Code/GAMES101
+cd Hw2
+la
+vi rasterizer.cpp
+yay -Syu
+cd Code/GAMES101
+cd Hw4
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd .
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd ..
+cd build
+./BezierCurve
+./BezierCurve
+cd ..
+vi main.cpp
+../rebuild.sh
+cd build
+./BezierCurve
+cd Code/GAMES101
+git add .
+git commit -m "hw4 bonus"
+git push -u origin master
+yay -Syu
+vi .config/nvim/
+cd .config/nvim/
+la
+vi init.vim
+cd rc.d
+la
+vi 02-plugins.vim
+vi 02-plugins.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+cd
+cd .config/zsh
+la
+cd plugins
+la
+cd Code/GAMES101
+vi Hw4/main.cpp
+vi Hw4/main.cpp
+cd
+cd .config/nvim/rc.d
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+vi 03-plugins-settings.vim
+clear
+la
+la
+yay -Syu
+la
+clear
+la
+cd Code/GAMES101
+la
+clear
+la
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+cd Code/GAMES101
+vi Hw4/main.cpp
+la
+vi README.md
+shutdown now
+pacman -Ss motrix
+yay -Ss motrix
+cd Downloads
+la
+pacman -Ss aria2
+sudo pacman -S aria2
+aria2c "https://d.pcs.baidu.com/file/b16f0df5b75ecd25d74bdc08c528e6d7?fid=3343892045-250528-962054025735196&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-4ZFZ3ejTdJyWWVMneDYJhJaa6mQ%3D&expires=8h&chkbd=0&chkv=0&dp-logid=2464406056955146940&dp-callid=0&dstime=1633615448&r=253754877&origin_appid=&file_type=0" --out "3DS_Max 2018 ‰∏≠ËÉ´±ÊÉ∂ÉßÂ§É∫ËØ≠Ë®ÄÁÉ©É®ÊÉº¨Win.rar" --header "User-Agent: pan.baidu.com" --header "Cookie: BDUSS=VDRk04N2pjeXo2MHBESTBPaHNpb0NSOXVWcWZqeW9sbG0yQVlYWH54UURlU0JoRVFBQUFBJCQAAAAAAAAAAAEAAADwx5JLTGlicmFoZXJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPs-GAD7Phgan"\
+
+la
+rm -rf 3D*
+la
+cd Downloads
+la
+aria2c "https://d.pcs.baidu.com/file/b16f0df5b75ecd25d74bdc08c528e6d7?fid=3343892045-250528-962054025735196&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-4ZFZ3ejTdJyWWVMneDYJhJaa6mQ%3D&expires=8h&chkbd=0&chkv=0&dp-logid=2464406056955146940&dp-callid=0&dstime=1633615448&r=253754877&origin_appid=&file_type=0" --out "3DS_Max 2018 ‰∏≠ËÉ´±ÊÉ∂ÉßÂ§É∫ËØ≠Ë®ÄÁÉ©É®ÊÉº¨Win.rar" --header "User-Agent: pan.baidu.com" --header "Cookie: BDUSS=VDRk04N2pjeXo2MHBESTBPaHNpb0NSOXVWcWZqeW9sbG0yQVlYWH54UURlU0JoRVFBQUFBJCQAAAAAAAAAAAEAAADwx5JLTGlicmFoZXJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPs-GAD7Phgan"\
+
+aria2c "https://d.pcs.baidu.com/file/b16f0df5b75ecd25d74bdc08c528e6d7?fid=3343892045-250528-962054025735196&rt=pr&sign=FDtAER-DCb740ccc5511e5e8fedcff06b081203-4ZFZ3ejTdJyWWVMneDYJhJaa6mQ%3D&expires=8h&chkbd=0&chkv=0&dp-logid=2464406056955146940&dp-callid=0&dstime=1633615448&r=253754877&origin_appid=&file_type=0" --out "3DS_Max 2018 ‰∏≠ËÉ´±ÊÉ∂ÉßÂ§É∫ËØ≠Ë®ÄÁÉ©É®ÊÉº¨Win.rar" --header "User-Agent: pan.baidu.com" --header "Cookie: BDUSS=VDRk04N2pjeXo2MHBESTBPaHNpb0NSOXVWcWZqeW9sbG0yQVlYWH54UURlU0JoRVFBQUFBJCQAAAAAAAAAAAEAAADwx5JLTGlicmFoZXJiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPs-GAD7Phgan"\
+
+la
+rm -rf 3D*
+la
+pacman -Ss unreal
+yay -Ss unreal
+yay -Ss ue5
+yay -Ss ue5
+yay -Syu
+su -
+reboot
+su -
+yay -Syu
+reboot
+yay -Syu
+reboot
+yay -Syu
+reboot
+yay -Syu
+z /home/limbo/Code/GAMES101
+la
+clear
+cd
+la
+reboot
+export MANPAGER='nvim +Man!'
+man printf
+yay -Syu
+cd Documents/dotfiles
+la
+la
+cd ..
+mkdir new_dotfiles
+cd new_dotfiles
+la
+cp ../dotfiles/Arch-LinuxÊÉ¨ÉßÂÉ≠É∑.md .
+la
+clear
+cp ../dotfiles/.yarnrc .
+vi .yarnrc
+cp ~/.xprofile .
+vi .xprofile
+vi .xprofile
+la
+vi .yarnrc
+vi .npmrc
+la
+cp ~/.gitconfig .
+vi .gitconfig
+la
+mkdir .config
+cd .config
+cp ~/.config/clash/ .
+cp ~/.config/clash/ . -r
+la
+cd clash
+vi config.yaml
+vi config.yaml
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=1 -O config.yaml
+vi config.yaml
+la
+rm -rf config.yaml
+la
+cd ..
+cp ~/.config/fcitx5 . -r
+cd fcitx5
+la
+cd ..
+la
+cd clash
+la
+cp ~/Downloads/Country.mmdb .
+la
+cp ~/Downloads/Country.mmdb ~/.config/clash/
+cd ..
+sudo pacman -Ss zoxide
+sudo pacman -S zoxide
+la
+cp ~/.config/zsh . -r
+cd zsh
+la
+rm -rf .zcompdump
+vi .zshrc
+cd
+la
+git init --bare ~/.dotfiles
+vi .config/zsh/.zshrc
+config config status.showUntrackedFiles no
+source .config/zsh/.zshrc
+config config status.showUntrackedFiles no
+la
+vi .xprofile
+config add .yarnrc
+config status
+cd .dotfiles
+la
+cd ..
+cd Documents/Blog
+hexo n "My Dotfiles"
+cd
+vi .gitconfig
+config add .gitconfig
+config status
+la
+vi .xprofile
+pacman -Ss npm
+clear
+sudo pacman -S npm
+vi .xprofile
+vi .xprofile
+source .xprofile
+vi .npmrc
+vi .xprofile
+la
+la
+clear
+config status
+config add .npmrc
+config add .xprofile
+config status
+cd .config/zsh
+la
+vi .zshrc
+rm -rf .zshrc
+vi .zshrc
+clear
+la
+ll
+source .zshrc
+ll
+vi .zshrc
+cd plugins
+la
+rm -rf z.lua
+la
+git clone https://github.com/zdharma/fast-syntax-highlighting.git
+la
+rm -rf fast-syntax-highlighting
+git clone https://github.com/zdharma/fast-syntax-highlighting.git
+rm -rf zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-autosuggestions.git
+clear
+la
+config status
+config status
+config rm --cached .config/zsh/plugins/fast-syntax-highlighting
+cd Downloads
+la
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-nerd-fonts-symbols-mono
+sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji ttf-nerd-fonts-symbols-mono --needed
+pacman -Ss jetbrains
+pacman -Ss lua
+pacman -Ss lua-lan
+sudo pacman -S lua-language-server
+la
+clear
+cd .config/zsh
+la
+git add .zshrc
+config add .zshrc
+config status
+la
+cd plugins
+la
+z code
+cd ..
+la
+config add plugins
+config rm --cached .config/zsh/plugins/fast-syntax-highlighting
+config status
+config rm --cached plugins/fast-syntax-highlighting
+cd
+l
+ls
+la
+rm -rf .dotfiles
+git init --bare ~/.dotfiles
+config config status.showUntrackedFiles no
+la
+z zsh
+l
+la
+cd plugins
+ls
+rm -rf fast-syntax-highlighting
+config submodule add https://github.com/zdharma/fast-syntax-highlighting
+rm -rf zsh-autosuggestions
+config submodule add https://github.com/zsh-users/zsh-autosuggestions
+config status
+la
+cd
+la
+vi .gitmodules
+config submodule fetch
+config submodule status
+config status
+config submodule update
+la
+vi .gitmodules
+config pull
+config submodule status
+config submodule update
+config submodule update --remote
+config submodule update --remote
+config status
+config status
+config submodule update --remote
+vi .gitmodules
+config add .xprofile
+config add .npmrc
+config add .yarnrc
+config add .gitconfig
+config status
+config status
+cd .cache/
+cd zsh
+la
+vi .zlua
+la
+cd
+cd .local/share/
+la
+cd zoxide
+la
+vi db.zo
+cd
+la
+clear
+la
+config status
+cd .cache/zsh
+la
+vi history
+la
+vi ~/.xprofile
+vi ~/.config/zsh/.zshrc
+la
+config add history
+config status
+cd
+config status
+cd .local/share/fonts
+la
+cd ..
+cd
+cd .config/clash
+la
+vi .cache
+la
+config add Country.mmdb
+config add .cache
+la
+config status
+cd ../fcitx5
+la
+cd ..
+config add fcitx5
+config status
+cd zsh
+la
+config add .zshrc
+config status
+cd ..
+cd alacritty
+la
+vi alacritty.yml
+config add alacritty.yml
+pacman -Ss sans
+pacman -Ss sans-serif
+cd ../fontconfig
+la
+vi fonts.conf
+rm -rf fonts.conf
+vi fonts.conf
+source fonts.conf
+clear
+la
+config add fonts.conf
+config status
+cd
+cd .local/share/fonts
+la
+cd ..
+config add fonts
+config status
+cd
+cd .config/nvim
+la
+cd ..
+cp -r nvim ~/Downloads
+la
+cd nvim
+la
+la
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+cd ..
+rm -rf nvim
+cp ~/Downloads/anhelor/dotfiles/.config/nvim -r .
+la
+cd nvim
+la
+vi init.lua
+vi init.lua
+proxychains nvim
+proxychains nvim
+proxychains nvim
+nvim
+vi lua/plugins/settings.lua
+vi lua/plugins/settings.lua
+vi lua/plugins/settings.lua
+vi ~/.local/share/nvim/site/pack/packer/start/edge/alacritty/README.md
+z alacritty
+l
+vi
+vi alacritty.yml
+vi alacritty.yml
+clear
+z nvim
+la
+vi lua/general.lua
+vi lua/general.lua
+nvim
+vi lua/general.lua
+vi lua/general.lua
+z alacritty
+vi alacritty.yml
+cd -
+vi lua/general.lua
+clear
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/plugins/lsp.lua
+vi lua/plugins/packer.lua
+vi lua/plugins/packer.lua
+vi lua/plugins/settings.lua
+vi
+vi
+clear
+cd Downloads
+la
+mkdir anhelor
+cd anhelor
+git clone https://github.com/Anhelor/dotfiles.git
+cd dotfiles/.config/nvim
+la
+tree
+cd ..
+cd ..
