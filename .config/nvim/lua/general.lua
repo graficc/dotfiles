@@ -21,6 +21,7 @@ augroup yank
 augroup END
 ]])
 
+vim.o.mouse = 'n'
 vim.opt.history = 500
 vim.opt.completeopt = 'menu,menuone,noselect'
 vim.opt.shortmess:append('c')
@@ -79,7 +80,7 @@ vim.api.nvim_set_keymap('n', '0', '^', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('i', 'jk', '<Esc>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<Leader><CR>', '<cmd>nohl<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<Leader>w', '<cmd>w<CR>', { noremap = true, silent = true })
-vim.api.nvim_set_keymap('n', '<Leader>q', '<cmd>q<CR>', { noremap = true, silent = true })
+vim.api.nvim_set_keymap('n', '<Leader>q', '<cmd>q!<CR>', { noremap = true, silent = true })
 vim.api.nvim_set_keymap('n', '<C-j>', '<C-W>j', { noremap = true })
 vim.api.nvim_set_keymap('n', '<C-k>', '<C-W>k', { noremap = true })
 vim.api.nvim_set_keymap('n', '<C-h>', '<C-W>h', { noremap = true })
