@@ -1,16 +1,17 @@
--- cmp
 local has_words_before = function()
     local line, col = unpack(vim.api.nvim_win_get_cursor(0))
     return col ~= 0 and vim.api.nvim_buf_get_lines(0, line - 1, line, true)[1]:sub(col, col):match('%s') == nil
 end
 
-local luasnip = require('luasnip')
-local cmp = require('cmp')
+local feedkey = function(key, mode)
+    vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes(key, true, true, true), mode, true)
+end
 
+local cmp = require('cmp')
 cmp.setup({
     snippet = {
         expand = function(args)
-            require('luasnip').lsp_expand(args.body)
+            vim.fn['vsnip#anonymous'](args.body)
         end,
     },
     mapping = {
@@ -26,12 +27,11 @@ cmp.setup({
             behavior = cmp.ConfirmBehavior.Replace,
             select = true,
         }),
-
         ['<Tab>'] = cmp.mapping(function(fallback)
             if cmp.visible() then
                 cmp.select_next_item()
-            elseif luasnip.expand_or_jumpable() then
-                luasnip.expand_or_jump()
+            elseif vim.fn['vsnip#available']() == 1 then
+                feedkey('<Plug>(vsnip-expand-or-jump)', '')
             elseif has_words_before() then
                 cmp.complete()
             else
@@ -42,13 +42,11 @@ cmp.setup({
             's',
         }),
 
-        ['<S-Tab>'] = cmp.mapping(function(fallback)
+        ['<S-Tab>'] = cmp.mapping(function()
             if cmp.visible() then
                 cmp.select_prev_item()
-            elseif luasnip.jumpable(-1) then
-                luasnip.jump(-1)
-            else
-                fallback()
+            elseif vim.fn['vsnip#jumpable'](-1) == 1 then
+                feedkey('<Plug>(vsnip-jump-prev)', '')
             end
         end, {
             'i',
@@ -60,28 +58,20 @@ cmp.setup({
             with_text = true,
             menu = {
                 buffer = '[Buffer]',
-                luasnip = '[LuaSnip]',
+                dictionary = '[Dict]',
                 nvim_lsp = '[LSP]',
                 nvim_lua = '[Lua]',
                 path = '[Path]',
+                vsnip = '[Vsnip]',
             },
         }),
     },
     sources = {
         { name = 'nvim_lsp' },
-        { name = 'luasnip' },
         { name = 'nvim_lua' },
+        { name = 'vsnip' },
         { name = 'buffer' },
         { name = 'path' },
+        { name = 'dictionary', keyword_length = 2, max_item_count = 10 },
     },
-})
-
--- luasnip
-require('luasnip/loaders/from_vscode').lazy_load()
-
--- autopairs
-require('nvim-autopairs').setup()
-require('nvim-autopairs.completion.cmp').setup({
-    map_cr = true,
-    map_complete = true,
 })

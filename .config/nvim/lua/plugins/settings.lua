@@ -1,32 +1,43 @@
--- edge
-vim.g.edge_enable_italic = 1
-vim.g.edge_disable_italic_comment = 1
-vim.g.edge_better_performance = 1
-vim.cmd([[ colorscheme edge ]])
+local M = {}
 
--- vim-aireline
-vim.g.webdevicons_enable_airline_statusline = 1
-vim.g.airline_theme = 'edge'
+-- Gruvbox-material
+M.gruvbox_material = function()
+    vim.g.gruvbox_material_enable_bold = 1
+    vim.g.gruvbox_material_enable_italic = 1
+    vim.g.gruvbox_material_better_performance = 1
+end
 
--- vim-startify
-vim.g.webdevicons_enable_startify = 1
-vim.cmd([[
-function! StartifyEntryFormat()
-    return 'WebDevIconsGetFileTypeSymbol(absolute_path) ." ". entry_path'
-endfunction
-]])
+-- Edge
+M.edge = function()
+    vim.g.edge_enable_italic = 1
+    vim.g.edge_better_performance = 1
+end
 
--- neoscroll
-require('neoscroll').setup()
+-- Sonokai
+M.sonokai = function()
+    vim.g.sonokai_enable_italic = 1
+    vim.g.sonokai_better_performance = 1
+end
 
---	blankline
-require('indent_blankline').setup({
-    use_treesitter = true,
-})
+-- Indentline
+M.indentline = function()
+    require('indent_blankline').setup({
+        char = '▏',
+        show_first_indent_level = false,
+        show_current_context = true,
+        use_treesitter = true,
+        filetype_exclude = { 'markdown', 'packer', 'startify', 'help' },
+    })
+end
 
--- hop
-require('hop').setup()
-vim.api.nvim_set_keymap('n', '<Leader>s', '<cmd>HopChar2<CR>', { noremap = true })
+-- Autopairs
+M.autopairs = function()
+    require('nvim-autopairs').setup({})
+    require('nvim-autopairs.completion.cmp').setup({
+        map_cr = true,
+        map_complete = true,
+        auto_select = true,
+    })
+end
 
--- neoformat
-vim.api.nvim_set_keymap('n', '<Leader>fc', '<cmd>Neoformat<CR>', { noremap = true })
+return M
