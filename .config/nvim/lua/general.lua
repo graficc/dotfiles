@@ -75,7 +75,7 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 vim.opt.termguicolors = true
 
-vim.opt.clipboard:append('unnamedplus')
+vim.opt.clipboard:append('unnamed,unnamedplus')
 vim.opt.dictionary:append('/usr/share/dict/words')
 vim.opt.diffopt:append('internal,algorithm:patience')
 vim.opt.shortmess:append('c')

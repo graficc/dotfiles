@@ -1,4 +1,5 @@
-vim.cmd([[ packadd impatient.nvim]])
-require('impatient')
+vim.cmd([[ packadd impatient.nvim ]])
+require('impatient').enable_profile()
 require('general')
 require('plugins')
+require('packer_compiled')
