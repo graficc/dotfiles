@@ -10253,3 +10253,7859 @@ la
 tree
 cd ..
 cd ..
+cd .config/nvim
+la
+cd ..
+config add nvim
+config status
+cd alacritty
+config add alacritty.yml
+config status
+config add ~/.cache/zsh/history
+cd
+git remote add origin https://github.com/horel/dotfiles.git
+config remote add origin https://github.com/horel/dotfiles.git
+config status
+config commit -m "first push"
+config push origin master
+config push origin master -f
+cd Documents/Blog/source/_posts/notes
+la
+vi Arch-LinuxÊÉ¨ÉßÂÉ≠É∑.md
+cd
+cd Code/GAMES101/Hw4
+la
+vi main.cpp
+clear
+alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+la
+alias alias-p
+alias alias -p
+alias -p
+alias -r
+xsel -b > tocken.txt
+vi tocken.txt
+xsel -b < tocken.txt
+cd Code/GAMES101/
+git push -u origin master
+git remote set-url origin https://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@github.com/horel/GAMES101.git
+git push -u origin master
+nvim
+pacman -Qs fcitx
+pacman -Qs fcitx5-configtool
+sudo pacman -S fcitx5-im
+clear
+vi .cache/zsh/history
+pacman -Ss meslol
+pacman -Ss nerd-fonts-meslo-lg
+pacman -S nerd-fonts-meslo-lg
+sudo pacman -S nerd-fonts-meslo-lg
+pacman -Ss sarasa
+clear
+cd Documents/Blog
+la
+hexo g
+hexo d
+hexo d
+git add .
+git commit -m "update"
+git push origin source
+git push origin source
+git push origin source
+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
+git push origin source
+git remote set-url origin https://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@github.com/horel/horel.github.io.git
+git push origin source
+hexo d
+git remote set-url origin https://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@github.com/horel/horel.github.io.git
+clear
+la
+cd
+la
+mv .local/share/fonts Downloads
+cd .local/share/fonts
+reboot
+vi .config/alacritty/alacritty.yml
+mv Downloads/fonts .local/share/
+la
+clear
+cp ~/Downloads/Country.mmdb ~/.config/clash/
+cd Documents/Blog
+git add .
+git status
+hexo g
+hexo d
+hexo g
+hexo d
+git add .
+git commit -m "update"
+git push origin source
+git status
+cd
+config status
+la
+la
+clear
+la
+cd Documents
+xsel -b < tocken.txt
+cd Documents/Blog/source/_posts/notes
+la
+config add My-Dotfiles.md
+config status
+config status
+git status
+cd
+la
+cd Documents/Blog
+hexo g
+hexo d
+hexo d
+git add .
+git commit -m "update"
+git push origin source
+cd Documents
+xsel -b < tocken.txt
+yay -Syu
+reboot
+la
+yay -Syu
+config submodule update --remote
+clear
+config status
+cd .config/nvim/
+la
+vi stylua.toml
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+vi lua/general.lua
+la
+la
+nvim
+vi lua/general.lua
+vi lua/general.lua
+nvim
+vi lua/general.lua
+vi lua/general.lua
+clear
+z game
+la
+cd Hw5
+la
+google-chrome-stable assignment5.pdf
+cd
+cd Code/GRenderer
+la
+cd src
+la
+tree
+vi main.cpp
+vi main.cpp
+clear
+la
+config status
+config add .config/nvim/lua/general.lua
+config status
+config commit -m "set mouse = n"
+config push origin master
+config push origin master
+config push origin master
+config status
+clear
+cd Documents
+xsel -b < tocken.txt
+shutdown now
+yay -Syu
+z src
+la
+vi main.cpp
+vi main.cpp
+clash
+cd .config/clash
+vi config.yaml
+vi config.yaml
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=1 -O config.yaml
+reboot
+curl www.google.com
+curl www.baidu.com
+yay -Syu
+cd .config/clash
+vi config.yaml
+vi config.yaml
+vi config.yaml
+z src
+la
+z hw5
+la
+clear
+google-chrome-stable assignment5.pdf
+vi Renderer.hpp
+vi Renderer.cpp
+la
+mkdir build
+../rebuild.sh
+cd build
+la
+./RayTracing
+la
+display binary.ppm
+clear
+cd ..
+vi Renderer.cpp
+yay -Syu
+reboot
+z hw5
+vi Renderer.cpp
+google-chrome-stable assignment5.pdf
+vi Triangle.hpp
+../rebuild.sh
+cd build
+./RayTracing
+display binary.ppm
+cd ..
+vi Triangle.hpp
+../rebuild.sh
+cd build
+./RayTracing
+display binary.ppm
+cd ..
+vi Triangle.hpp
+vi Triangle.hpp
+cd build
+display binary.ppm
+z hw5
+cd ..
+vi README.md
+clear
+git add .
+git status
+git commit -m "add Hw5"
+git push -u origin master
+z hw5
+vi Renderer.cpp
+la
+vi Triangle.hpp
+vi Sphere.hpp
+vi trigger.sql
+eari trigger.sqL
+clear
+la
+vi Triangle.hpp
+../rebuild.sh
+cd build
+./RayTracing
+display binary.ppm
+git status
+cd ..
+vi Renderer.cpp
+vi main.cpp
+vi Triangle.hpp
+vi ../compile_flags.txt
+../rebuild.sh
+cd build
+./RayTracing
+display binary.ppm
+cd ..
+vi trigger.sql
+vi Triangle.hpp
+clear
+la
+git status
+vi Renderer.cpp
+z game
+git status
+git add .
+git commit -m "fix Hw5"
+git push -u origin master
+la
+shutdown now
+yay -Syu
+z hw6
+z game
+cd Hw6
+la
+google-chrome-stable PA6.pdf
+vi Renderer.cpp
+vi Renderer.cpp
+vi Renderer.hpp
+vi Renderer.hpp
+vi Renderer.cpp
+../rebuild.sh
+cd build
+./RayTracing
+cd ..
+vi Triangle.hpp
+z hw5
+vi Renderer.cpp
+shutdown now
+yay -Syu
+clear
+la
+reboot
+yay -Syu
+clear
+la
+yay -Syu
+cd Documents
+la
+vi eng.txt
+yay -Syu
+vi .config/clash/config.yaml
+cd Downloads/DLUT-CompilationPrinciple/Á¨¨‰∏É©Ê¨ÉÅ‰∏É™ÊÉº∫
+cd FIRST
+vi main.cpp
+cd Downloads/DLUT-CompilationPrinciple/Á¨¨‰∏É©Ê¨ÉÅ‰∏É™ÊÉº∫/FIRST
+la
+g++ main.cpp
+./a.out
+vi main.cpp
+vi main.cpp
+vi main.cpp
+cp main.cpp ~/Code/Compiler/
+cd
+cd Code/Compiler
+la
+vi main.cpp
+cp ../.clang-format .
+vi main.cpp
+rm -rf .clang-format
+la
+vi main.cpp
+la
+clang++ main.cpp -O3
+./a.out
+./a.out
+clear
+yay -Syu
+archlinux-java set jdk17
+sudo archlinux-java set jdk17
+archlinux-java status
+la
+clear
+yay -Syu
+reboot
+nvim
+shutdown now
+yay -Syu
+cd Code/Compiler
+la
+mkdir hw3
+cd hw3
+la
+vi demo.txt
+vi demo.txt
+g++ FirstCalculator.cpp -O3 -std=c++2a
+la
+clang++ FirstCalculator.cpp -O3 -std=c++2a
+la
+./a.out
+./a.out < demo.txt
+clear
+./a.out
+clang++ FirstCalculator.cpp -O3 -std=c++2a
+./a.out
+./a.out demo.txt
+clear
+la
+clang++ FirstCalculator.cpp -O3
+clang++ FirstCalculator.cpp -O3 -std=c++2a
+vi FirstCalculator.cpp
+./a.out demo.txt
+vi FirstCalculator.cpp
+vi FirstCalculator.cpp
+vi FirstCalculator.cpp
+yay -Syu
+clear
+la
+cd Code/Compiler
+la
+clear
+la
+cd hw3
+la
+vi FirstCalculator.cpp
+neofetch
+vi FirstCalculator.cpp
+vi FirstCalculator.cpp
+vi FirstCalculator.cpp
+vi FirstCalculator.cpp
+clear
+vi FirstCalculator.cpp
+vi demo.txt
+clang++ FirstCalculator.cpp -O3 -std=c++2a
+./a.out demo.txt
+vi demo.txt
+shutdown now
+cd Code/Compiler
+cd hw3
+vi FirstCalculator.cpp
+vi demo.txt
+vi demo.txt
+clear
+shutdown now
+z hw5
+la
+cppcheck main.cpp
+cppcheck main.cpp > err.txt
+vi err.txt
+rm -rf err.txt
+cppcheck main.cpp
+sudo pacman -Rns qt5-tools
+clear
+cd
+z hw3
+cppcheck FirstCalculator.cpp
+yay -Syu
+pacman -Ss cppchecker
+pacman -Ss cppcheck
+sudo pacman -S cppcheck
+sudo pacman -S qt5-tools
+sudo pacman -S qt5-tools
+yay -Syu
+cd Code
+la
+mkdir Archives
+la
+mv Translator Archives
+mv SDL Archives
+mv MySTL Archives
+mv Lua Archives
+mv MyRenderer Archives
+la
+mv GRenderer Archives
+mv Co-work Archives
+mv Algorithms_4th Archives
+la
+mv Java Archives
+la
+clear
+la
+cd 
+cd .config/nvim/
+la
+vi lua/general.lua
+la
+cd ..
+mv nvim ~/Documents/
+mkdir nvim
+cd nvim
+vi init.vim
+vi init.vim
+vi init.vim
+vi init.vim
+vi init.vim
+vi init.vim
+vi init.vim
+reboot
+yay -Syu
+reboot
+cd Code/Archives/GRenderer
+la
+vi README.md
+cd Documents
+cd Documents/Blog
+hexo g
+xsel -b < ../tocken.txt
+hexo d
+git status
+git add .
+git commit -m "effective c++"
+git push origin source
+vi
+vi
+vi
+vi
+vi
+vi
+clear
+cd Code
+la
+mkdir GRenderer
+la
+cd GRenderer
+la
+cp ../Archives/GRenderer/README.md .
+la
+vi README.md
+clear
+la
+mkdir src
+mkdir releases
+mkdir build
+la
+touch CMakeLists.txt
+touch build_linux.sh
+clear
+la
+la
+cd src
+la
+mkdir platforms
+mkdir shaders
+la
+touch GRenderer.cpp
+la
+mkdir scences
+la
+mkdir maths
+la
+cd maths
+la
+la
+vi maths.h
+la
+touch maths.cpp
+la
+clear
+cd ..
+la
+cd platforms
+la
+touch platform.h
+touch win32.cpp
+touch linux.cpp
+touch macos.m
+cd ..
+la
+cd maths
+la
+cd ..
+la
+cd
+cd Documents/Blog
+la
+hexo n "Effective C++Á≥ªÂÉ®É∑Á¨É¥ËÆ∞"
+yay -Syu
+cd Downloads
+la
+vi ios15.txt
+reboot
+yay -Syu
+clear
+la
+yay -Syu
+cd Code/GRenderer
+la
+cd src
+la
+cd maths
+la
+vi maths.h
+vi maths.h
+vi maths.h
+cd ..
+la
+vi compile_flags.txt
+la
+cd maths
+la
+vi maths.cpp
+vi maths.cpp
+clear
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+vi
+vi
+vi
+cd .config/nvim/
+la
+vi init.vim
+vi init.vim
+clear
+vi init.vim
+clear
+la
+cd .cache/nvim/plugin
+la
+rm -rf *.
+la
+cd ..
+rm -rf plugin
+cd pluged
+la
+cd ..
+mkdir plugin
+rm -rf pluged
+vi
+clear
+la
+cd vista
+la
+cd ..
+cd .config/nvim/
+la
+nvim
+nvim
+nvim
+la
+cp init.vim ~/.
+nvim
+nvim
+la
+mv ~/init.vim .
+clear
+nvim
+nvim
+nvim
+vi Code/Archives/GRenderer/compile_flags.txt
+vi Code/Archives/GRenderer/compile_flags.txt
+vi Code/Archives/GRenderer/src/maths/vector.h
+z hw5
+vi Renderer.cpp
+vi main.cpp
+vi Triangle.hpp
+z src
+la
+vi GRenderer.cpp
+vi compile_flags.txt
+vi compile_flags.txt
+vi GRenderer.cpp
+tree
+vi GRenderer.cpp
+vi compile_flags.txt
+vi GRenderer.cpp
+vi compile_flags.txt
+la
+mv compile_flags.txt ..
+vi ../compile_flags.txt
+vi GRenderer.cpp
+vi ../compile_flags.txt
+vi GRenderer.cpp
+mv ../compile_flags.txt .
+la
+vi compile_flags.txt
+clear
+la
+vi GRenderer.cpp
+clear
+la
+vi GRenderer.cpp
+clear
+la
+cd maths
+la
+vi maths.h
+vi maths.h
+vi maths.h
+vi maths.h
+cd ..
+vi GRenderer.cpp
+vi maths/maths.h
+vi GRenderer.cpp
+vi maths/maths.h
+vi maths/maths.h
+vi maths/maths.h
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3
+clang++ GRenderer.cpp -O3 -I maths
+./a.out
+clear
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths
+./a.out
+vi maths/maths.h
+vi maths/maths.h
+vi GRenderer.cpp
+vi maths/maths.cpp
+vi GRenderer.cpp
+vi maths/maths.h
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+clang++ GRenderer.cpp -O3 -I maths -std=c++14
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+ls
+vi compile_flags.txt
+vi GRenderer.cpp
+vi compile_flags.txt
+pacman -Fl libstdc++
+pacman -Fl gcc
+pacman -Fl gcc | grep format
+sudo pacman -S libc++ libc++abi
+pacman -Fl libc++ | grep format
+pacman -Fl libc++abi | grep format
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+vi GRenderer.cpp
+clear
+la
+rm -rf a.out
+la
+vi maths/maths.h
+vi maths/maths.h
+vi maths/maths.h
+vi GRenderer.cpp
+vi maths/maths.h
+vi maths/maths.h
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/maths.h
+vi maths/maths.h
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+vi maths/maths.h
+clear
+vi maths/maths.h
+vi maths/maths.h
+./a.out
+vi maths/maths.h
+clear
+la
+vi maths/maths.h
+vi maths/maths.h
+vi maths/maths.h
+yay -Syu
+z src
+la
+cd maths
+la
+rm -rf maths.cpp
+vi maths.h
+touch vector.hpp
+touch matrix.hpp
+touch lerp.hpp
+la
+la
+vi maths.h
+la
+vi maths.h
+vi lerp.hpp
+vi vector.hpp
+vi matrix.hpp
+clear
+la
+clear
+la
+vi vector.hpp
+vi matrix.hpp
+la
+vi vector.hpp
+vi vector.hpp
+cd ..
+vi GRenderer.cpp
+vi maths/vector.hpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+la
+vi GRenderer.cpp
+cd ..
+la
+mkdir tests
+cd tests
+vi maths_test.cpp
+cp ../src/compile_flags.txt .
+vi maths_test.cpp
+vi compile_flags.txt
+vi maths_test.cpp
+la
+cd ..
+vi Code/Archives/GRenderer/src/maths/vector.h
+vi Code/Archives/GRenderer/src/maths/vector.cpp
+vi Code/Archives/GRenderer/src/maths/vector.h
+vi Code/Archives/GRenderer/src/maths/vector.h
+vi Code/Archives/GRenderer/src/maths/vector.cpp
+vi Code/Archives/GRenderer/src/main.cpp
+z test
+la
+vi maths_test.cpp
+vi maths_test.cpp
+la
+mv maths_test.cpp tests.cpp
+vi
+vi
+vi tests.cpp
+cd -
+cd -
+cd ../src
+la
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+la
+vi GRenderer.cpp
+vi
+vi compile_flags.txt
+vi 
+clear
+cd ../tests
+vi tests.cpp
+cd -
+la
+tree
+clear
+la
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+vi GRenderer.cpp
+vi GRenderer.cpp
+cd ../tests
+la
+rm -rf compile_flags.txt
+vi tests.cpp
+cd -
+vi 
+la
+mv compile_flags.txt ..
+vi
+cd ..
+la
+mkdir doc
+la
+vi README.md
+cd doc
+touch maths.md
+cd ..
+cd src
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/vector.hpp
+vi 
+vi maths/vector.hpp
+vi 
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+la
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi
+vi Code/Archives/GRenderer/src/main.cpp
+vi Code/Archives/GRenderer/src/maths/vector.h
+vi Code/Archives/GRenderer/src/maths/matrix.h
+shutdown now
+yay -Syu
+cd Downloads/VSCodeConfigHelper_v3.1.3_linux
+la
+./vscch
+vi vscch.log
+z src
+la
+cd maths
+la
+mv maths.h gmath.h
+la
+cd ..
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi ../compile_flags.txt
+la
+cd ..
+la
+cd tests
+la
+vi tests.cpp
+cd ..
+la
+vi compile_flags.txt
+cd src
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/gmath.h
+vi maths/matrix.hpp
+la
+cd scences
+nvim
+la
+touch scence.h
+vi scence.h
+cd ..
+vi platforms/platform.h
+vi platforms/platform.h
+vi platforms/platform.h
+reboot
+cd Downloads
+git clone https://github.com/SunXLei/SRender.git
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-05uownia.lcw 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-p2m3pyvo.b41 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-pb0mcbj3.a43 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-c5ta2nlv.qfw 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5c4stni3.qvc 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nubeifyw.gpy 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-nhjpzdfm.rf2 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-wehfceid.ndw 
+z src
+vi platforms/platform.h
+shutdown now
+yay -Syu
+cd Downloads/renderer/build
+la
+./Viewer blinn nier2b
+clear
+z src
+la
+cd platforms
+la
+vi .config/nvim/init.vim
+vi Code/Archives/GRenderer/src/maths/vector.h
+vi Code/Archives/GRenderer/src/maths/vector.cpp
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-dwmg00py.1ze 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-lxs1ym3d.esw 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-v2nkzl2m.jfn 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-5r2nwled.0x4 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-m2astipl.jgd 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-r4ezhmod.phu 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-0kds5knr.unw 
+z src
+la
+cd scences
+la
+vi camera.hpp
+vi camera.hpp
+vi model.hpp
+la
+vi light.hpp
+vi light.hpp
+la
+cd ..
+la
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+cd
+cd Code
+cp -r GRenderer ~/Downloads
+cd
+cd Downloads/GRenderer/src/maths
+la
+cd ..
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+rm -rf /home/limbo/.local/share/nvim/swap//%home%limbo%Downloads%GRenderer%src%maths%vector.hpp.swp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi ../tests/tests.cpp
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++2a
+vi maths/vector.hpp
+cd
+cd Downloads
+mkdir test
+cd te
+cd test
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+g++ main.cpp
+./a.out
+vi main.cpp
+vi main.cpp
+g++ main.cpp
+./a.out
+z src
+vi maths/matrix.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+pacman -Fl eigen
+pacman -Fl eigen | grep vec
+pacman -Fl eigen | grep mat
+clear
+la
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+clear
+la
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+vi
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+vi
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi
+z src
+la
+vi maths/vector.hpp
+vi
+vi
+vi
+vi
+vi
+vi
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi
+vi
+vi
+vi
+vi
+clear
+la
+la
+clear
+clear
+yay -Syu
+z src
+vi maths/vector.hpp
+yay -Syu
+cd Downloads/test
+la
+vi main.cpp
+z src
+vi maths/vector.hpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+vi maths/vector.hpp
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clear
+vi maths/matrix.hpp
+./a.out
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Syu
+pacman -Ss clash
+sudo pacman -S clash-premium-bin
+cd .config/clash
+la
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=1 -O config.yaml
+systemctl --user disable clash.service
+systemctl --user enable --now clash.service
+systemctl --user status clash.service
+yay -Syu
+systemctl --user status clash.service
+systemctl --user enable --now clash.service
+systemctl --user status clash.service
+cd Code/GRenderer/src
+la
+tree
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+la
+cd
+la
+clear
+la
+vi .xprofile
+source .xprofile
+vi .xprofile
+vi .xprofile
+vi .xprofile
+sudo pacman -S bat words
+cd .local/share/nvim
+la
+cd ..
+rm -rf nvim
+z .cache
+rm -rf nvim
+cd Documents
+la
+cp ~/.config/nvim/init.vim .
+la
+git clone https://github.com/Anhelor/dotfiles.git
+cd
+cd Downloads/aur
+git clone https://github.com/Anhelor/dotfiles.git
+la
+cd dotfiles
+la
+cd .config
+la
+cp nvim -r ~/.config/
+nvim
+nvim
+ls
+vi
+cd
+cd ~/.config
+ls
+cd n
+cd nvim
+l
+ls
+tree
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+vi
+vi
+l
+vi init.lua
+proxychains nvim
+vi
+vi lua/general.lua
+vi lua/plugins/init.lua
+vi lua/plugins/init.lua
+vi lua/plugins/init.lua
+vi lua/plugins/init.lua
+clear
+cd
+l
+ls
+z src
+vi maths/vector.hpp
+l
+ls
+vi maths/vector.hpp --startuptime nvim.log
+vi nvim.log
+rm nvim.log
+vi maths/vector.hpp
+clear
+rm -rf .config/nvim
+cd .cache/nvim
+la
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+clear
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+vi .config/alacritty/alacritty.yml
+clear
+la
+cd .config/nvim/
+la
+cd lua
+vi general.lua
+vi general.lua
+vi plugins/init.lua
+vi plugins/init.lua
+vi plugins/init.lua
+vi general.lua
+cd .config/nvim/lua/
+la
+cd ..
+la
+cd plugin
+la
+cd ..
+cd lua/plugins
+la
+vi lsp.lua
+vi lsp.lua
+vi lsp.lua
+clear
+la
+clear
+la
+clear
+vi .config/alacritty/alacritty.yml
+vi .config/nvim/init.lua
+vi .config/nvim/lua/general.lua
+vi .config/nvim/lua/general.lua
+vi .config/nvim/lua/general.lua
+vi .config/nvim/lua/general.lua
+vi .config/nvim/lua/general.lua
+vi
+clear
+z src
+vi maths/vector.hpp
+vi ~/.config/nvim/plugin/packer_compiled.lua
+vi ~/.config/nvim/plugin/packer_compiled.lua
+vi
+vi
+clear
+la
+clear
+la
+vi .config/nvim/init.lua
+vi .config/nvim/lua/plugins/init.lua
+clear
+vi .config/nvim/lua/plugins/init.lua
+nvim
+nvim
+nvim
+nvim
+vi
+vi .config/nvim/lua/plugins/init.lua
+cd .config/nvim/lua
+l
+cat ../init.lua
+nvim
+clear
+yay -Syu
+reboot
+clear
+yay -Syu
+shutdown now
+yay -Syu
+pacman -Ss doom
+yay -Ss doom
+pacman -Ss emscripten
+sudo pacman -S emscripten
+sudo pacman -Rns xsel
+sudo pacman -S xclip
+cd Documents
+clear
+nvim
+xclip --help
+man xclip
+xclip -i fuck
+xclip -i .gitconfig
+vi test
+cat .gitconfig | xclip
+vi test
+cat .gitconfig | xclip -sel clip
+vi test
+xclip -sel clip < .gitmodules
+vi test
+clear
+la
+shutdown now
+yay -Ss doom
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+nvim
+cd .local/share/nvim/site/pack/packer/opt/packer.nvim/
+la
+nvim
+vi ~/.cache/zsh/history
+clear
+cd
+rm -rf .cache/nvim
+rm -rf .local/share/nvim
+rm -rf .local/share/nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+rm -rf .local/share/nvim
+rm -rf .cache/nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+rm -rf .cache/nvim
+rm -rf .local/share/nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+cd .local/share/nvim
+la
+cd ..
+rm -rf nvim
+cd 
+cd .cache
+rm -rf nvim
+cd
+cd .config/
+rm -rf nvim
+cd ~/Downloads
+la
+git clone https://github.com/Anhelor/dotfiles.git
+cp dotfiles/.config/nvim ~/.config -r
+cd
+cd .config/nvim
+la
+rm -rf plugin/packer_compiled.lua
+nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+nvim
+nvim
+la
+vi init.lua
+vi lua/general.lua
+clear
+la
+la
+clear
+clear
+la
+clear
+la
+cd ~/Downloads
+rm -rf dotfiles
+la
+git clone https://github.com/Anhelor/dotfiles.git
+cd
+rm -rf .local/share/nvim
+rm -rf .cache/nvim
+rm -rf .config/nvim
+cp Downloads/dotfiles/.config/nvim -r .config/
+cd .config/nvim
+la
+nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+nvim
+l
+ls
+rm -rf *
+ls
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+cd ~/Downloads
+ls
+cd dotfiles
+ls
+cd ..
+rm -rf dotfiles
+git clone https://github.com/Anhelor/dotfiles.git --depth 1
+z nvim
+ls
+cp Downloads/dotfiles/.config/nvim -r ~/.config/
+cp ~/Downloads/dotfiles/.config/nvim -r ~/.config/
+tree
+vi
+ls
+vi
+vi
+ls
+rm -rf plugin
+ls
+vi
+vi
+cd .local/share/nvim/site/pack/packer/opt/packer.nvim/
+l
+ls
+cd lua
+ls
+cd packer
+ls
+cd ../
+;s
+ls
+cd -
+cd ~/.config/nvim
+ls
+ls null
+rm -rf null
+vim lua/plugins/init.lua
+vi
+ls
+rm -rf *
+l
+ls
+clear
+ls
+cp nvim -r ~/.config/
+cp ~/Downloads/dotfiles/.config/nvim -r ~/.config/
+ls
+vi
+rm -rf plugin
+vi
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+vi
+proxychains nvim
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+proxychains nvim
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+proxychains nvim
+vu
+vi
+vi init.lua
+l
+ls
+vi
+cd lua/plugins
+ls
+vi init.lua
+vi
+vi
+vi
+vi
+vi
+vi init.lua
+vi
+vi
+vi
+vi
+vi
+la
+vi init.lua
+vi init.lua
+vi
+vi
+vi
+clear
+la
+clear
+clear
+la
+vi init.lua
+vi settings.lua
+clear
+r
+clear
+vi init.lua
+vi settings.lua
+vi settings.lua
+clear
+la
+vi
+vi +StartupTime
+vi
+vi
+clear
+la
+config status
+config add .config.nvim
+config add .config.nvim/
+config add .config/nvim/
+config status
+config add .xprofile
+config add .config/clash/.cache
+config add .config/alacritty/alacritty.yml
+config status
+config commit -m "update"
+xclip -sel clip < Documents/tocken.txt
+config push origin master
+z src
+vi maths/vector.hpp
+cd
+cd .config/nvim
+cd lua/
+la
+vi general.lua
+vi general.lua
+vi general.lua
+vi general.lua
+clear
+la
+rm -rf .viminfo
+vi
+vi
+vi
+vi
+vi
+vi
+clear
+neofetch
+cd Documents/Blog
+cd source/_posts/notes
+vi My-Dotfiles.md
+vi My-Dotfiles.md
+pacman -Ss ninja
+pacman -Ss mesa
+clear
+pacman -Ss mesa
+cd Code
+vi test.cpp
+yay -Syu
+cd Code
+la
+cd GAMES101/Hw1
+la
+sudo pacman -S emscripten
+cd Code
+la
+emcc test.cpp
+emcc -v
+pacman -Qs emscripten
+pacman -Fl emscripten
+emcc
+reboot
+yay -Syu
+emcc -v
+cd Code
+emcc test.cpp
+la
+node a.out.js
+rm -rf a.out.*
+la
+emcc test.cpp -o test.html
+la
+rm -rf test.html
+node test.js
+rm -rf test.js
+rm -rf test.wasm
+la
+vi test.cpp
+vi test.cpp
+emcc test.cpp -o a.html
+la
+google-chrome-stable a.html
+clang++ test.cpp -O3
+vi test.cpp
+pacman -Qs sdl
+vi test.cpp
+pacman -Fl sdl
+pacman -Fl sdl.h
+pacman -Fl sdl
+clear
+pacman -Fl sdl
+clang++ test.cpp -O3 -lsdl
+clang++ test.cpp -O3 -l SDL2
+clang++ test.cpp -O3 -l SDL2main
+clang++ test.cpp -O3 -l SDL2
+g++ test.cpp -l SDL2
+cd /usr/include/SDL2
+la
+cd -
+vi test.cpp
+g++ test.cpp -l SDL2
+clear
+la
+rm -rf a.*
+la
+pacman -Ss sdl
+vi test.cpp
+rm -rf test.cpp
+la
+tests/runner
+clear
+cd
+la
+emcc --help
+sudo pacman -Rns emscripten
+rm -rf .emscripten_cache
+pacman -Scc
+sudo pacman -Scc
+clear
+sudo pacman -S emscripten
+cd Downloads/aur
+git clone https://github.com/AzazelN28/web-doom.git
+cd web-doom
+la
+emcmake cmake -DCMAKE_BUILD_TYPE=Release
+la
+mkdir build
+cd build
+la
+emcmake cmake -DCMAKE_BUILD_TYPE=Release ..
+la
+cd ..
+la
+cd build
+emmake make -j12
+cd ..
+emmake make -j12
+emmake make -j12
+sudo pacman -Rns emscripten
+rm -rf .emscripten_cache
+la
+yay -Scc
+yay -Syu
+cd Code
+la
+mkdir tinyRenderer
+la
+cd tinyRenderer
+vi tgaimage.h
+vi tgaimage.cpp
+vi tgaimage.cpp
+vi tgaimage.cpp
+la
+vi main.cpp
+clang++ main.cpp -O3
+vi main.cpp
+clang++ main.cpp -O3
+vi main.cpp
+clang++ main.cpp -O3
+clang++ main.cpp tgaimage.cpp -O3
+vi tgaimage.cpp
+rm -rf tgaimage.cpp
+vi tgaimage.cpp
+clang++ main.cpp tgaimage.cpp -O3
+./a.out
+la
+display output.tga
+vi tgaimage.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp -O3
+la
+display output.tga
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp -O3
+./a.out
+display output.tga
+shutdown now
+yay -Syu
+cd Code/tinyRenderer
+la
+mkdir obj
+cd obj
+vi african_head.obj
+vi african_head.obj
+vi model.h
+la
+mv model.h ..
+cd ..
+la
+cp -r ../GRenderer/src/maths .
+la
+vi maths
+vi maths/vector.hpp
+mv maths/vector.hpp ..
+la
+mv ../vector.hpp .
+la
+vi model.h
+vi model.cpp
+la
+rm -rf output.tga
+rm -rf a.out
+la
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp -O3
+vi main.cpp
+la
+vi model.cpp
+vi model.h
+vi vector.hpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+la
+display output.tga
+reboot
+yay -Syu
+reboot
+vi tset.cpp
+cd Code/tinyRenderer
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi tgaimage.h
+vi tgaimage.cpp
+display output.tga
+vi output.tga
+vi tgaimage.cpp
+vi test.cpp
+la
+xclip -sel clip < Documents/tocken.txt
+yay -Syu
+cd Code/tinyRenderer
+la
+display output.tga
+display output.tga
+cd
+cd Documents/Blog
+git status
+la
+hexo n "tinyRenderer"
+git status
+hexo g
+hexo d
+git add .
+git commit -m "tinyrenderer"
+git push origin source
+hexo g
+hexo d
+hexo g
+hexo d
+git add .
+git push origin source
+git commit -m "tinyrenderer"
+git push origin source
+git status
+reboot
+shutdown now
+yay -Syu
+shutdown now
+yay -Syu
+z tiny
+vi main.cpp
+display output.tga
+display output.tga
+cd Code/GAMES101/Hw1/
+vi main.cpp
+cd ..
+cd Hw2
+vi main.cpp
+la
+vi rasterizer.cpp
+vi test.cpp
+vi rasterizer.cpp
+cd ..
+cd Hw4
+vi rasterizer.cpp
+la
+cd ..
+cd Hw3
+vi rasterizer.cpp
+vi rasterizer.cpp
+vi test.cpp
+shutdown now
+yay -Syu
+xclip -sel clip < Documents/tocken.txt
+z tiny
+vi tgaimage.cpp
+vi tgaimage.h
+vi test.cpp
+vi test.cpp
+rm -rf test.cpp
+z tiny
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+rm -rf maths
+rm -rf a.out
+rm -rf output.tga
+la
+rm -rf main.cpp
+la
+touch main.cpp
+vi main.cpp
+vi tgaimage.h
+vi model.h
+vi main.cpp
+cd
+rm -rf .cache/nvim
+rm -rf .local/share/nvim
+rm -rf .config/nvim
+cd Downloads/aur
+git clone https://github.com/Anhelor/dotfiles.git
+cd dotfiles
+git pull
+la
+cp -r .config/nvim ~/.config
+cd
+cd .config/nvim
+la
+nvim
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+nvim
+nvim
+nvim
+cd
+la
+vi
+vi
+vi
+vi
+vi
+proxychains nvim
+proxychains nvim
+z tiny
+vi main.cpp
+vi
+cd
+vi .config/nvim/lua/general.lua
+vi .config/nvim/lua/plugins/lsp.lua
+vi .config/nvim/lua/plugins/settings.lua
+vi .config/nvim/lua/plugins/init.lua
+vi .config/nvim/lua/plugins/init.lua
+vi .config/nvim/lua/plugins/init.lua
+vi .config/nvim/lua/plugins/init.lua
+vi .config/nvim/lua/general.lua
+z tiny
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi model.h
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi test.cpp
+clang++ test.cpp tgaimage.cpp model.cpp -O3
+la
+vi geometry.h
+clang++ test.cpp tgaimage.cpp model.cpp -O3
+rm -rf geometry.h
+rm -rf test.cpp
+clear
+la
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+clear
+./a.out
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+la
+./a.out
+display output.tga
+la
+clear
+la
+mkdir Lesson2
+la
+vi main.cpp
+la
+cp main.cpp Lesson2
+mkdir Lesson1
+cd Lesson
+cd Lesson1
+vi main.cpp
+cd ..
+vi compile_flags.txt
+cd Lesson1
+vi main.cpp
+la
+clang++ main.cpp
+clang++ main.cpp ../tgaimage.cpp 
+clang++ main.cpp ../tgaimage.cpp -I ..
+clang++ main.cpp ../tgaimage.cpp -I ../
+clang++ main.cpp ../tgaimage.cpp ../model.cpp -I ../
+./a.out
+display output.tga
+cp ../obj -r .
+./a.out
+display output.tga
+la
+cd ..
+la
+cp tga* Lesson1
+cp tga* Lesson2
+cp mode* Lesson1
+cp mode* Lesson2
+tree
+cp vector.hpp Lesson1
+cp vector.hpp Lesson2
+tree
+cd Lesson
+cd Lesson1
+rm -rf a.out
+rm -rf out*
+la
+cd ..
+la
+cd Lesson2
+la
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+./a.out
+display output.tga
+cp -r ../obj .
+./a.out
+display output.tga
+la
+cd ..
+cd Lesson2
+rm -rf a.out
+rm -rf output.tga
+la
+cd ..
+la
+vi build_clean.sh
+./build_clean.sh
+la
+chmod a+x build_clean.sh
+./build_clean.sh
+la
+vi build_all.sh
+chmod a+x build_all.sh
+./build_all.sh
+./build_clean.sh
+la
+cd Lesson1
+../build_all.sh
+../build_clean.sh
+la
+cd ..
+cd Lesson2
+../build_all.sh
+../build_clean.sh
+la
+vi main.cpp
+../build_all.sh
+la
+clear
+cd ..
+la
+rm -rf main.cpp
+la
+cd Lesson2
+la
+../build_clean.sh
+la
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+la
+../build_clean.sh
+cd ..
+tree
+la
+git remote set-url origin https://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@github.com/horel/tinyRenderer-notes.git
+git init
+git remote set-url origin https://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@github.com/horel/tinyRenderer-notes.git
+git remote add origin https://github.com/horel/tinyRenderer-notes.git
+git remote set-url origin https://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@github.com/horel/tinyRenderer-notes.git
+git status
+git add .
+cp ../.clang-format .
+git add .
+git commit -m "Lesson1&2"
+git push -u origin master
+tree
+cd Lesson2
+../build_all.sh
+../build_clean.sh
+cd ..
+git status
+mkdir Lesson3
+vi Lesson2/main.cpp
+la
+tree
+cp Lesson2/* Lesson3
+cp Lesson2/* Lesson3 -r
+cd Lesson3
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+../build_clean.sh
+la
+cd ..
+la
+git status
+git status
+git add .
+git commit -m "Lesson3"
+git push -u origin master
+vi model.h
+vi tgaimage.h
+la
+mkdir Lesson3.5
+cp Lesson3/* Lesson3.5 -r
+vi tgaimage.h
+vi Lesson3.5
+vi Lesson3.5/main.cpp
+cd Lesson3.5
+../build_all.sh
+cp ../obj/african_head_diffuse.tga obj
+la
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+vi model.h
+cd ..
+vi model.h
+cd Lesson3.5
+vi main.cpp
+shutdown now
+yay -Syu
+z tiny
+cd Lesson3.5
+la
+vi model.h
+vi model.cpp
+vi model.h
+vi model.h
+vi model.cpp
+vi main.cpp
+vi model.h
+vi model.cpp
+vi model.cpp
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+vi main.cpp
+../build_all.sh
+vi main.cpp
+vi model.h
+vi model.h
+vi model.h
+rm -rf model*
+vi model.h
+vi model.cpp
+vi main.cpp
+vi main.cpp
+../build_all.sh
+vi model.h
+../build_all.sh
+vi model.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+../build_clean.sh
+cd ..
+la
+rm -rf .git
+la
+cd Lesson3.5
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+vi main.cpp
+../build_all.sh
+../build_clean.sh
+z tiny
+la
+rm -rf model*
+mkdir renderer
+la
+mv *.h renderer
+tree
+rm -rf obj
+la
+cp -r Lesson3.5/obj renderer
+la
+mv *.hpp renderer
+la
+mv *.cpp renderer
+la
+clear
+la
+cd renderer
+la
+cd ..
+la
+mv renderer build
+la
+tree
+mv build release
+la
+cd ../GRenderer
+la
+vi doc/coords.md
+la
+cd ..
+cp -r GRenderer/src/maths tinyRenderer/release
+z tinyRenderer
+la
+cd release
+la
+la
+tree -1
+tree -2
+tree -1
+tree 1
+tree 2
+clear
+la
+cp maths/matrix.hpp .
+cp maths/gmath.h .
+cp maths/lerp.hpp .
+la
+rm -rf maths
+la
+vi matrix.hpp
+vi lerp.hpp
+la
+clear
+vi tgaimage.h
+clear
+la
+cd Downloads/aur
+rm -rf dotfiles
+git clone https://github.com/Anhelor/dotfiles.git
+cd
+rm -rf .cache/nvim
+rm -rf .local/share/nvim
+rm -rf .config/nvim
+cd -
+cd dotfiles/.config/
+cp -r nvim ~/.config
+cd
+nvim
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+nvim
+nvim
+z tiny
+la
+vi compile_flags.txt
+proxychains nvim
+proxychains nvim compile_flags.txt
+proxychains nvim compile_flags.txt
+cd
+cd .config/nvim
+la
+vi lua/plugins/settings.lua
+vi lua/plugins/lsp.lua
+vi lua/plugins/init.lua
+nvim
+nvim
+nvim
+la
+cd lua/plugins
+la
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+nvim
+nvim
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+clear
+nvim
+clear
+z tiny
+la
+cd release
+la
+vi gmath.h
+la
+vi compile_flags.txt
+vi compile_flags.txt
+vi ../compile_flags.txt
+vi compile_flags.txt
+vi gmath.h
+la
+vi tgaimage.h
+la
+clear
+vi gmath.h
+vi lerp.hpp
+vi matrix.hpp
+vi vector.hpp
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi gmath.h
+vi vector.hpp
+z gren
+vi compile_flags.txt
+shutdown now
+yay -Syu
+z tin
+cd Lesson3.5
+vi main.cpp
+cd Downloads/aur
+git clone https://github.com/MrZz233/tinyrenderer_notes.git
+cd tinyrenderer_notes
+la
+cd 05ÈÄÉØËßÉ¶ÊÉ™ÉµÂΩ±
+la
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+vi main.cpp
+vi main.cpp
+vi geometry.h
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+./a.out
+display output.tga
+z tiny
+mkdir Lesson4
+cp -r Lesson3.5 Lesson4
+cd Lesson4
+la
+rm -rf Lesson3.5
+cd ..
+cp -r Lesson3.5/* Lesson4
+cd Lesson4
+la
+vi main.cpp
+cp ../release/matrix.hpp .
+la
+vi main.cpp
+vi matrix.hpp
+vi matrix.hpp
+vi main.cpp
+vi matrix.hpp
+vi main.cpp
+vi matrix.hpp
+vi main.cpp
+vi main.cpp
+../build_all.sh
+la
+vi matrix.hpp
+vi main.cpp
+../build_all.sh
+vi matrix.hpp
+vi main.cpp
+../build_all.sh
+vi main.cpp
+la
+rm -rf matrix.hpp
+vi matrix.hpp
+la
+rm -rf matrix.hpp
+rm -rf vector.hpp
+la
+vi geometry.h
+vi geometry.cpp
+vi tgaimage.h
+vi tgaimage.cpp
+vi tgaimage.h
+vi model.h
+rm -rf model*
+vi model.h
+vi model.cpp
+la
+rm -rf main.cpp
+vi main.cpp
+la
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp -O3
+vi model.h
+vi model.cpp
+vi model.h
+rm -rf model.h
+vi model.h
+vi model.
+vi model.cpp
+vi tgaimage.h
+vi tgaimage.cpp
+la
+vi model.h
+vi geometry.h
+rm -rf geometry.h
+vi geometry.h
+vi geometry.h
+vi geometry.cpp
+../build_all.sh
+vi main.cpp
+rm -rf main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi tgaimage.h
+rm -rf tgaimage.*
+vi tgaimage.h
+vi tgaimage.cpp
+../build_all.sh
+vi ../build_all.sh
+vi ../build_all.sh
+../build_all.sh
+vi ../build_all.sh
+../build_all.sh
+vi main.cpp
+la
+display zbuffer.tga
+display output.tga
+display obj/african_head_diffuse.tga
+display output.tga
+z tiny
+cd release
+la
+pacman -Ss electric
+pacman -Ss electrinoc
+pacman -Ss elect
+z gre
+la
+tree
+cd src
+la
+vi GRenderer.cpp
+cd maths
+la
+vi gmath.h
+vi gmath.h
+vi gmath.h
+la
+mkdir _old_version
+la
+mv *hpp _old_version
+cp gmath.h _old_version
+la
+la
+vi gmath.h
+touch vector.hpp
+vi gmath.h
+touch matrix.hpp
+vi gmath.h
+vi gmath.h
+shutdown now
+yay -Syu
+sudo pacman -Rns intellij-idea-community-edition
+yay -Scc
+yay -Syu
+cd .config/nvim
+tree
+vi +StartupTime
+vi 
+cd Downloads/aur
+rm -rf dotfiles
+git clone https://github.com/Anhelor/dotfiles.git
+cd dotfiles/.config
+la
+cd nvim
+la
+cd ..
+cp -r nvim ~/.config
+cd .config/nvim
+la
+cd lua
+la
+cd plugins
+la
+vi settings.lua
+vi init.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi statusline.lua
+vi +StartupTime
+la
+rm -rf .cache/nvim
+rm -rf .local/share/nvim
+rm -rf .config/nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/packer.nvim\
+
+git clone --depth 1 https://github.com/lewis6991/impatient.nvim\\
+ ~/.local/share/nvim/site/pack/packer/opt/impatient.nvim\
+
+nvim
+nvim
+z Gren
+cd src/maths
+vi gmath.h
+proxychains nvim gmath.h
+vi
+la
+la
+vi gmath.h
+vi gmath.h
+vi gmath.h
+vi vector.hpp
+clang-format --dump-config --style="{BasedOnStyle: llvm, IndentWidth: 4}" > .clang-format
+la
+mv .clang-format ..
+la
+cd ..
+la
+cd -
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+la
+vi matrix.hpp
+vi vector.hpp
+vi matrix.hpp
+vi matrix.hpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+la
+shutdown now
+z src
+cd maths
+vi _old_version/vector.hpp
+cd Downloads/aur
+vi _old_version/matrix.hpp
+z src
+cd maths
+la
+vi matrix.hpp
+vi matrix.hpp
+vi vector.hpp
+vi matrix.hpp
+la
+vi compile_flags.txt
+vi matrix.hpp
+vi matrix.hpp
+l
+ls
+cd ..
+ls
+cd ..
+ls
+cat CMakeLists.txt
+cat compile_flags.txt
+rm -rf CMakeLists.txt
+la
+tree
+cd src
+la
+rm -rf a.out
+la
+cd maths
+la
+rm -rf compile_flags.txt
+vi matrix.hpp
+vi matrix.hpp
+vi vector.hpp
+vi matrix.hpp
+vi vector.hpp
+la
+mv _old_version ~/Downloads/aur
+la
+vi gmath.h
+vi matrix.hpp
+vi matrix.hpp
+vi matrix.hpp
+cd ..
+la
+vi GRenderer.cpp
+vi ../tests/tests.cpp
+vi maths/matrix.hpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi maths/matrix.hpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi ../tests/tests.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+./a.out
+vi maths/matrix.hpp
+vi maths/matrix.hpp
+vi
+vi
+vi
+vi .config/nvim/lua/plugins/mappings.lua
+vi .config/nvim/lua/plugins/lsp.lua
+vi .config/nvim/lua/plugins/lsp.lua
+cd Downloads/aur
+la
+cd tinyrenderer_notes
+la
+cd 07Shader
+la
+clang++ main.cpp tgaimage.cpp model.cpp our_gl.cpp -O3
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp our_gl.cpp geometry.cpp -O3
+./a.out
+display output.tga
+la
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp our_gl.cpp geometry.cpp -O3
+./a.out
+display output.tga
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp our_gl.cpp geometry.cpp -O3
+./a.out
+display output.tga
+cd ..
+cd ÈÄÉØËßÉ¶ÁÉø´Ê≠£
+la
+display floor_diffuse.tga
+display output.tga
+cd Downloads/aur
+cd tinyrenderer_notes
+cd 07Shader
+la
+vi main.cpp
+z gren
+la
+cd src
+la
+la
+cd platforms
+la
+vi tgaimage.h
+vi tgaimage.cpp
+la
+z tiny
+la
+cd Lesson4
+la
+display output.tga
+cd ..
+cp -r Lesson4 Lesson5
+la
+cd Lesson5
+la
+../build_clean.sh
+la
+vi main.cpp
+rm -rf main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi tgaimage.h
+rm -rf tgaimage.*
+vi tgaimage.h
+vi tgaimage.cpp
+vi main.cpp
+vi geometry.h
+rm -rf geo*
+vi geometry.h
+vi geometry.cpp
+vi geometry.h
+vi main.cpp
+rm -rf model*
+vi model.h
+vi model.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+./a.out
+display output.tga
+la
+cd ..
+la
+cd release
+la
+la
+vi compile_flags.txt
+rm -rf *.h
+la
+rm -rf *.hpp
+la
+rm -rf *.cpp
+la
+la
+tree
+vi tgaimage.h
+vi tgaimage.cpp
+vi model.h
+vi model.cpp
+vi geometry.h
+vi geometry.cpp
+vi model.cpp
+la
+touch main.cpp
+touch shader.h
+touch phong_shader.cpp
+touch gouraud_shader.cpp
+la
+vi main.cpp
+vi ../Lesson3/main.cpp
+vi main.cpp
+vi model.h
+vi main.cpp
+la
+vi shader.h
+vi geometry.h
+vi shader.h
+la
+rm -rf geo*
+rm -rf tga*
+la
+rm -rf mode*
+la
+la
+la
+vi tgaimage.cpp
+vi model.cpp
+vi geometry.cpp
+vi main.cpp
+vi shader.h
+la
+vi shader.h
+vi shader.h
+vi main.cpp
+vi phong_shader.cpp
+vi main.cpp
+vi main.cpp
+vi phong_shader.cpp
+vi main.cpp
+vi phong_shader.cpp
+vi main.cpp
+vi phong_shader.cpp
+vi shader.h
+vi main.cpp
+vi phong_shader.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi phong_shader.cpp
+la
+mv phong_shader.cpp phong_shader.h
+mv gouraud_shader.cpp gouraud_shader.h
+vi main.cpp
+vi shader.h
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+vi main.cpp
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+./a.out
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+./a.out
+vi main.cpp
+la
+rm -rf obj
+cp -r ~/Downloads/aur/tinyrenderer_notes/07Shader/obj .
+la
+vi main.cpp
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3
+./a.out
+vi model.h
+vi model.cpp
+cd ..
+la
+tree
+mkdir Lesson6
+la
+cd Lesson6
+la
+git clone --single-branch --branch=master https://github.com/ssloy/tinyrenderer.git
+git clone --single-branch --branch=master --depth=1 https://github.com/ssloy/tinyrenderer.git
+la
+cp tinyrenderer/*.h .
+la
+cp tinyrenderer/*.cpp .
+la
+cp -r tinyrenderer/obj .
+la
+rm -rf tinyrenderer
+la
+tree
+la
+vi tgaimage.h
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp -O3 -std=c++2a
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp our_gl.cpp -O3 -std=c++2a
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp our_gl.cpp -O3 -std=c++14
+clang++ main.cpp tgaimage.cpp model.cpp geometry.cpp our_gl.cpp -O3 -std=c++17
+./a.out
+la
+./a.out obj/african_head
+./a.out obj/african_head/african_head.obj
+display output.tga
+la
+display framebuffer.tga
+display framebuffer.tga
+display -flip framebuffer.tga
+la
+vi main.cpp
+vi main.cpp
+cd Downloads/aur
+cd tinyrenderer_notes
+la
+cd 07Shader
+la
+cp geo* ~/Code/tinyRenderer/release
+cp mode* ~/Code/tinyRenderer/release
+cp tga* ~/Code/tinyRenderer/release
+z tin
+la
+cd Lesson6
+vi main.cpp
+./a.out obj/african_head/african_head_eye_inner.obj obj/african_head/african_head_eye_outer.obj obj/african_head/african_head.obj 
+la
+display -flip framebuffer.tga
+display -flip framebuffer.tga
+./a.out obj/boggie/body.obj obj/boggie/eyes.obj obj/boggie/head.obj 
+display -flip framebuffer.tga
+./a.out obj/boggie/body.obj
+display -flip framebuffer.tga
+./a.out obj/floor.obj
+display -flip framebuffer.tga
+./a.out obj/diablo3_pose/diablo3_pose.obj
+display -flip framebuffer.tga
+la
+la
+cd ..
+la
+rm -rf release
+cp -r Lesson6 myown
+la
+cd myown
+la
+vi main.cpp
+la
+tree
+./a.out obj/diablo3_pose/diablo3_pose.obj
+display -flip framebuffer.tga
+vi main.cpp
+display -flip framebuffer.tga
+vi main.cpp
+vi main.cpp
+la
+rm -rf a.out framebuffer.tga main.cpp our*
+la
+la
+vi tgaimage.h
+vi tgaimage.cpp
+vi geometry.cpp
+vi geometry.h
+vi model.cpp
+vi model.h
+touch main.cpp
+touch shader.hpp
+vi main.cpp
+la
+vi main.cpp
+vi model.h
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+vi shader.h
+vi main.cpp
+la
+vi openmp.cpp
+clang++ openmp.cpp
+./a.out
+vi openmp.cpp
+clang++ openmp.cpp
+./a.out
+clang++ openmp.cpp -fopenmp
+./a.out
+./a.out
+./a.out
+vi openmp.cpp
+clang++ openmp.cpp -fopenmp
+./a.out
+vi openmp.cpp
+clang++ openmp.cpp -fopenmp
+./a.out
+./a.out
+./a.out
+shutdown now
+vi
+vi
+cd .config/nvim/lua/plugins
+ls
+vi cmp.lua
+vi lsp.lua
+vi lsp.lua
+yay -Syu
+z tiny
+la
+cd myown
+la
+./a.out
+clear
+la
+vi main.cpp
+vi main.cpp
+vi shader.h
+vi shader.cpp
+pacman -Ss valgrind
+sudo pacman -S valgrind
+clear
+la
+vi shader.hpp
+rm -rf shader.hpp
+vi shader.h
+vi shader.cpp
+vi main.cpp
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+vi main.cpp
+vi shader.cpp
+vi main.cpp
+vi main.cpp
+vi shader.cpp
+vi main.cpp
+vi shader.cpp
+vi shader.h
+vi main.cpp
+vi shader.h
+vi main.cpp
+vi shader.cpp
+vi shader.h
+vi main.cpp
+vi shader.h
+la
+vi shader.cpp
+vi shader.cpp
+vi shader.cpp
+vi shader.h
+vi shader.h
+vi main.cpp
+vi shader.h
+vi shader.cpp
+vi shader.h
+vi main.cpp
+vi shader.h
+vi main.cpp
+vi shader.cpp
+vi ../Lesson3
+vi ../Lesson3/main.cpp
+shutdown now
+z tin
+cd Lesson3.5
+vi main.cpp
+yay -Syu
+z tiny
+cd myown
+la
+vi main.cpp
+vi shader.cpp
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+vi shader.h
+vi shader.h
+vi main.cpp
+vi shader.h
+vi main.cpp
+vi shader.cpp
+vi shader.cpp
+vi shader.cpp
+shutdown now
+clear
+neofetch
+yay -Syu
+yay -Syu
+z tiny
+la
+cd myown
+la
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi shader.h
+vi shader.cpp
+vi shader.cpp
+vi shader.h
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O3 -fopenmp
+vi main.cpp
+vi model.h
+vi model.cpp
+vi shader.h
+vi shader.cpp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O3 -fopenmp
+vi shader.h
+vi shader.h
+vi shader.cpp
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O3 -fopenmp
+vi shader.h
+vi shader.cpp
+vi shader.h
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O3 -fopenmp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O3 -fopenmp -v
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O1 -fopenmp
+vi main.cpp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi shader.cpp
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+vi shader.h
+vi shader.cpp
+vi shader.h
+vi shader.cpp
+clang++ geometry.cpp main.cpp model.cpp openmp.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+clear
+la
+./a.out
+la
+display -flip framebuffer.tga
+./a.out obj/diablo3_pose/diablo3_pose.obj
+./a.out obj/diablo3_pose/diablo3_pose.obj
+./a.out obj/floor.obj
+./a.out obj/african_head/*.obj
+la
+display -flip framebuffer.tga
+cd obj
+cd african_head
+la
+cd ../..
+vi main.cpp
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+./a.out
+display -flip framebuffer.tga
+./a.out obj/african_head/*.obj
+display -flip framebuffer.tga
+./a.out obj/african_head/african_head_eye_inner.obj obj/african_head/african_head_eye_outer.obj obj/african_head/african_head.obj 
+display -flip framebuffer.tga
+vi main.cpp
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+./a.out
+display -flip framebuffer.tga
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -O2 -fopenmp
+./a.out
+sudo pacman -S valgrind
+z tiny
+cd myown
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -g -fopenmp
+valgrind --leak-check=full ./a.out
+ls
+grep -rni new .
+grep -rni 'new' .
+cd ..
+la
+cd Lesson6
+la
+vi main.cpp
+clang++ geometry.cpp main.cpp model.cpp shader.cpp tgaimage.cpp -g -fopenmp
+clang++ *.cpp -g -fopenmp
+./a.out
+./a.out obj/african_head/*.obj
+display -flip framebuffer.tga
+valgrind --leak-check=full ./a.out
+valgrind --leak-check=full ./a.out obj/african_head/*.obj
+neofetch
+shutdown now
+yay -Syu
+la
+clear
+z tiny
+la
+cd
+z gren
+la
+cd src
+tree
+cd ..
+tree
+cd src
+tree
+rm -rf .clang-format
+la
+tree
+vi platforms/linux.cpp
+vi platforms/platform.h
+cd maths
+la
+vi gmath.h
+vi vector.hpp
+la
+mkdir _version0.1
+mv *.hpp _version0.1
+la
+vi test.cpp
+rm -rf test.cpp
+vi gmath.h
+vi vector.hpp
+vi matrix.hpp
+la
+la
+vi vector.hpp
+la
+vi test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi vector.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi vector.hpp
+vi vector.hpp
+la
+vi vector.hpp
+la
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi vector.hpp
+vi test.cpp
+vi vector.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi vector.hpp
+vi vector.hpp
+vi _version0.1/vector.hpp
+vi vector.hpp
+vi vector.hpp
+la
+vi vector.hpp
+vi vector.hpp
+vi vector.hpp
+z src
+cd maths
+vi vector.hpp
+la
+vi matrix.hpp
+vi matrix.hpp
+vi matrix.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+clang++ test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi matrix.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi matrix.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi matrix.hpp
+vi test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi matrix.hpp
+vi test.cpp
+clear
+la
+vi matrix.hpp
+vi vector.hpp
+vi matrix.hpp
+vi matrix.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+la
+vi gmath.h
+vi matrix.hpp
+vi vector.hpp
+vi vector.hpp
+vi matrix.hpp
+vi gmath.h
+vi matrix.hpp
+vi vector.hpp
+vi gmath.h
+vi gmath.h
+vi vector.hpp
+vi gmath.h
+vi matrix.hpp
+vi vector.hpp
+clear
+la
+vi matrix.hpp
+vi matrix.hpp
+vi matrix.hpp
+la
+rm -rf test.cpp
+rm -rf a.out
+la
+vi gmath.h
+vi gmath.h
+vi gmath.h
+vi gmath.h
+vi vector.hpp
+vi matrix.hpp
+la
+clear
+la
+vi gmath.h
+la
+cd ..
+la
+tree
+cd platforms
+la
+rm -rf tgaimage.*
+la
+rm -rf *
+la
+vi bitmap.h
+cd ..
+la
+tree
+mv platforms bmpcode
+la
+mv bmpcode bmphelp
+la
+shutdown now
+yay -Syu
+z src
+la
+cd bmphelp
+la
+vi bitmap.h
+la
+mv bitmap.h bitmap.hpp
+la
+vi bitmap.hpp
+vi ../maths/vector.hpp
+vi bitmap.hpp
+yay -Syu
+yay -Syu
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+cat bitmap.hpp
+clear
+vi bitmap.hpp
+shutdown now
+yay -Syu
+yay -Ss directx
+shutdown now
+reboot
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+reboot
+cd Code
+cd Compiler
+la
+mkdir hw4
+cd hw4
+cp ~/Downloads/DLUT-CompilationPrinciple/Á¨¨ÂÉªÉªÊ¨ÉÅ‰∏É™ÊÉº∫/RecursiveAnalysis/recursive_analysis.cpp .
+cp ~/Downloads/DLUT-CompilationPrinciple/Á¨¨ÂÉªÉªÊ¨ÉÅ‰∏É™ÊÉº∫/UnRecursiveAnalysis/analysis_table.cpp .
+cp ~/Downloads/DLUT-CompilationPrinciple/Á¨¨ÂÉªÉªÊ¨ÉÅ‰∏É™ÊÉº∫/UnRecursiveAnalysis/main.cpp .
+la
+clear
+la
+vi recursive_analysis.cpp
+clang++ recursive_analysis.cpp
+./a.out
+vi recursive_analysis.cpp
+rm -rf recursive_analysis.cpp
+vi recursive_analysis.cpp
+vi recursive_analysis.cpp
+clang++ recursive_analysis.cpp
+./a.out
+vi demo.txt
+vi demo.txt
+vi recursive_analysis.cpp
+vi recursive_analysis.cpp
+rm -rf analyse.cpp
+vi main.cpp
+vi analysis.cpp
+clang++ analysis
+clang++ analysis.cpp
+./a.out
+vi analysis.cpp
+vi demo.txt
+./a.out
+vi demo.txt
+vi analysis.cpp
+git clone https://github.com/hnjia00/Compilers.git
+la
+cd Compilers/ÈÄÉ≤ÂΩÉ≤‰∏É´ÈÉπÉ≠ËØ≠Ê≥ÉµÂÉ®É¶ÊÉæÉ∞/ÈÄÉ≤ÂΩÉ≤‰∏É´ÈÉπÉ≠ËØ≠Ê≥ÉµÂÉ®É¶
+cd Compilers/ÈÄÉ≤ÂΩÉ≤‰∏É´ÈÉπÉ≠ËØ≠Ê≥ÉµÂÉ®É¶ÊÉæÉ∞/ÈÄÉ≤ÂΩÉ≤‰∏É´ÈÉπÉ≠ËØ≠Ê≥ÉµÂÉ®É¶ÊÉæÉ∞
+la
+vi .DS_Store
+vi main.cpp
+vi demo.txt
+clang++ main.cpp
+./a.out
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+./a.out
+vi main.cpp
+vi demo.txt
+./a.out
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+cd Code/Compiler/hw4
+la
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp
+./a.out
+vi analysis
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp
+./a.out
+vi analysis.cpp
+clang++ analysis.cpp
+./a.out demo.txt
+vi analysis.cpp
+vi demo.txt
+clang++ analysis.cpp
+./a.out demo.txt
+vi analysis.cpp
+clang++ analysis.cpp -g
+vi analysis.cpp
+gdb a.out demo.txt
+gdb a.out
+shutdown now
+yay -Syu
+cd Code/Compiler/hw4
+la
+vi demo.txt
+./a.out demo.txt
+vi analysis
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+vi analysis.cpp
+vi demo.txt
+./a.out demo.txt
+vi demo.txt
+vi analysis.cpp
+vi demo.txt
+clang++ analysis.cpp -g
+./a.out demo.txt
+vi demo.txt
+clang++ analysis.cpp -g
+./a.out demo.txt
+vi demo.txt
+vi analysis.cpp
+vi demo.txt
+./a.out demo.txt
+clear
+la
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+cp demo.txt error.txt
+vi error.txt
+vi analysis.cpp
+vi error.txt
+clang++ analysis.cpp -g
+./a.out error.txt
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out error.txt
+vi error.txt
+./a.out error.txt
+vi analysis.cpp
+vi analysis.cpp
+la
+rm -rf analysis_table.cpp
+rm -rf Compilers
+rm -rf main.cpp
+rm -rf recursive_analysis.cpp
+la
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out error.txt
+./a.out demo.txt
+vi analysis.cpp
+vi demo.txt
+./a.out demo.txt
+vi demo.txt
+vi analysis.cpp
+vi demo.txt
+./a.out demo.txt
+vi analysis.cpp
+vi analysis.cpp
+vi analysis.cpp
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+./a.out error.txt
+vi error.txt
+./a.out error.txt
+vi analysis.cpp
+vi analysis.cpp
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out error.txt
+./a.out demo.txt
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+clang++ analysis.cpp -g
+vi analysis.cpp
+vi analysis.cpp
+./a.out demo.txt
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+vi analysis.cpp
+vi main.cpp
+vi analysis.cpp
+vi analysis.cpp
+vi main.cpp
+vi analysis.cpp
+vi main.cpp
+vi analysis.cpp
+vi main.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out
+./a.out demo.txt
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out demo.txt
+vi analysis.cpp
+vi analysis.cpp
+clang++ analysis.cpp -g
+./a.out
+./a.out demo.txt
+vi error.txt
+./a.out error.txt
+vi error2.txt
+cp demo.txt error2.txt
+vi error2.txt
+./a.out error2.txt
+vi analysis.cpp
+rm -rf main.cpp
+vi main.cpp
+vi main.cpp
+vi analysis.cpp
+clang++ main.cpp
+./a.out test.txt
+la
+./a.out
+vi test.txt
+vi main.cpp
+clang++ main.cpp
+./a.out test.txt
+vi main.cpp
+clang++ main.cpp
+./a.out test.txt
+clang++ main.cpp -g
+gdb main.cpp
+la
+gdb main.cpp
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+vi fuck.cpp
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi fuck.cpp
+vi main.cpp
+vi fuck.cpp
+vi main.cpp
+vi fuck.cpp
+clang++ fuck.cpp
+./a.out test.txt
+vi fuck.cpp
+clang++ fuck.cpp
+./a.out test.txt
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+vi main.cpp
+vi fuck.cpp
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+clang++ main.cpp -g
+./a.out test.txt
+vi main.cpp
+rm -rf main.cpp
+vi main.cpp
+vi test.txt
+clang++ main.cpp -g
+./a.out test.txt
+./a.out
+vi main.cpp
+clang++ main.cpp -g
+./a.out
+vi main.cpp
+gdb main.cpp
+rm -rf main.cpp
+vi main.cpp
+vi main.cpp
+vi analysis.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+la
+cp main.cpp fuck.cpp
+vi fuck.cpp
+clang++ fuck.cpp
+./a.out
+vi fuck.cpp
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ main.cpp
+./a.out
+clear
+vi main.cpp
+vi main.cpp
+vi main.cpp
+vi main.cpp
+clang++ main.cpp
+./a.out
+vi main.cpp
+cla
+clang++ main.cpp
+./a.out
+shutdown now
+yay -Syu
+yay -Syu
+z src
+la
+tree
+cd bmphelp
+la
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+shutdown now
+yay -Syu
+z src
+cd bmphelp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+la
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi test.cpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi test.cpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi test.cpp
+shutdown now
+yay -Syu
+z src
+cd bmphelp
+la
+vi test.cpp
+vi bitmap.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi bitmap.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi test.cpp
+clang++ test.cpp
+./a.out
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+vi bitmap.hpp
+la
+cd ..
+la
+tree
+vi scences/model.hpp
+shutdown now
+yay -Syu
+reboot
+pacman -Ss lua
+pacman -Qs lua
+pacman -Ss valgrind
+clear
+reboot
+yay -Syu
+yay -Syu
+clear
+la
+shutdown now
+vi +StartupTime
+yay -Syu
+cd Downloads/aur
+rm -rf dotfiles
+git clone https://github.com/Anhelor/dotfiles.git
+cd
+cd -
+cd
+cd .config/
+rm -rf nvim
+cd
+cd Downloads/aur
+cp -r dotfiles/.config/nvim ~/.config
+cd 
+cd .config
+cd nvim
+la
+cp ~/Documents/clean_nvim.sh .
+la
+vi clean_nvim.sh
+./clean_nvim.sh
+chmod a+x clean_nvim.sh
+./clean_nvim.sh
+vi
+proxychains nvim init.lua
+la
+vi lua/plugins/treesitter.lua
+vi lua/plugins/statusline.lua
+vi lua/plugins/init.lua
+vi
+vi
+vi +StartupTime
+cd src
+z src
+cd scences
+vi model.hpp
+vi ../bmphelp
+vi model.hpp
+vi ../../compile_flags.txt
+vi model.hpp
+reboot
+z tiny
+la
+vi myown/obj/african_head/african_head.obj
+z src
+cd scences
+vi model.hpp
+cat model.hpp
+vi model.hpp
+ls
+vi
+vi
+vi
+vi ../maths/vector.hpp
+vi model.hpp
+vi ../maths/vector.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi ../maths/vector.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+reboot
+z tiny
+vi myown/obj/african_head/african_head.obj
+vi myown/obj/african_head/african_head.obj
+cd .config/clash
+pacman -Qs clash
+la
+wget https://sub.wsl.icu/link/vG70Pu80AJPCL1BI?clash=1 -O config.yaml
+vi config.yaml
+vi config.yaml
+systemctl --user status clash.service
+systemctl --user restart clash.service
+systemctl --user status clash.service
+vi config.yaml
+z tiny
+vi myown/obj/african_head/african_head.obj
+clear
+z src
+cd scences
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+vi model.hpp
+clear
+vi model.hpp
+vi model.hpp
+la
+cd ..
+la
+tree
+cd shaders
+la
+vi shader.h
+cd ..
+vi bmphelp/bitmap.hpp
+vi scences/model.hpp
+cd shaders
+vi shader.h
+vi shader.h
+vi shader.h
+vi shader.h
+vi shader.h
+lua
+la
+cd Code
+la
+mkdir lua
+cd lua
+la
+vi 1.1.lua
+lua 1.1.lua
+lua 1.1.lua
+vi 1.1.lua
+lua 1.1.lua
+lua 1.1.lua
+vi 1.1.lua
+vi learnlua.lua
+lua hello.lua
+lua learnlua.lua
+lua hello.lua
+vi learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+yay -Syu
+cd Downloads/aur
+git clone https://github.com/skywind3000/RenderHelp.git
+cd RenderHelp
+la
+clang++ sample_01_triangle.cpp Model.h
+la
+./a.out
+la
+display output.bmp
+display output.bmp
+clang++ sample_02_texture.cpp
+./a.out
+display output.bmp
+clang++ sample_03_box.cpp
+./a.out
+display output.bmp
+clang++ sample_04_gouraud.cpp
+./a.out
+display output.bmp
+clang++ sample_05_model.cpp
+./a.out
+display output.bmp
+clang++ sample_06_normal.cpp
+./a.out
+display output.bmp
+clang++ sample_07_specular.cpp
+./a.out
+display output.bmp
+z src
+cd shaders
+vi shader.h
+la
+mv shader.h shader.hpp
+vi shader.hpp
+clear
+yay -Syu
+shutdown now
+yay -Syu
+clear
+la
+cd Code/lua
+la
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+clang learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+lua learnlua.lua
+vi learnlua.lua
+shutdown now
+yay -Syu
+clear
+la
+z src
+cd shaders
+vi shader.hpp
+cd ..
+vi GRenderer.cpp
+vi ../compile_flags.txt
+vi GRenderer.cpp
+yay -Syu
+cd Documents/Blog
+hexo n "ÈÄÉØËßÉ¶ÊÉ™ÉµÂΩ±"
+yay -Syu
+xclip -sel clip < Documents/tocken.txt
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "project"
+git push origin source
+cd Downloads/aur
+la
+cd RenderHelp
+la
+display output.bmp
+./a.out
+z src
+la
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi ../compile_flags.txt
+vi GRenderer.cpp
+clang GRenderer.cpp
+clang++ GRenderer.cpp -O3 -I maths -std=c++17
+clang++ GRenderer.cpp -O3 -I maths bmphelp -std=c++17
+clang++ GRenderer.cpp -O3 -I maths/ bmphelp/ -std=c++17
+clang++ GRenderer.cpp -O3 -std=c++17
+la
+tree
+vi ../build_all.sh
+vi ../build_linux.sh
+vi ../build_linux.sh
+vi ../build_linux.sh
+cd ..
+la
+chmod a+x build_linux.sh
+cd src
+../build_linux.sh
+la
+vi ../build_linux.sh
+../build_linux.sh
+vi ../build_linux.sh
+../build_linux.sh
+vi GRenderer.cpp
+tree
+mv bmphelp/bitmap.hpp .
+la
+rm -rf bmphelp
+la
+tree
+rm -rf maths/_version0.1
+la
+tree
+mv scences/model.hpp .
+rm -rf scences
+tree
+mv shaders/shader.hpp .
+rm -rf shaders
+la
+clang++ GRenderer.cpp -O3 -std=c++17 maths
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+g++ GRenderer.cpp -O3 -std=c++17 -I maths
+vi maths/vector.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+la
+display output.bmp
+cd ..
+la
+cd src
+cp -r ~/Code/tinyRenderer/myown/obj/diablo3_pose .
+la
+tree
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+cd diablo3_pose
+la
+cd..
+la
+cd
+cd -
+z src
+la
+vi GRenderer.cpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+display output.bmp
+display output.bmp
+la
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+display output.bmp
+vi model.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+display output.bmp
+vi model.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+vi res/diablo3_pose.obj
+mv model.hpp ..
+vi model.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+display output.bmp
+rm -rf model.hpp
+mv ../model.hpp .
+vi model.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+vi model.hpp
+cp model.hpp ..
+vi model.hpp
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+vi model.hpp
+vi ../model.hpp
+vi model.hpp
+rm -rf model.hpp
+cp ../model.hpp .
+clang++ GRenderer.cpp -O3 -std=c++17 -I maths
+./a.out
+display output.bmp
+z src
+la
+rm -rf ../model.hpp
+la
+display output.bmp
+pacman -Ss glfw
+pacman -Ss bgfw
+pacman -Ss bgfx
+pacman -Ss bgfx
+pacman -Ss the-forge
+pacman -Ss glad
+cd code
+cd Code
+la
+mkdir OpenGL
+vi OpenGL
+la
+cd OpenGL
+la
+vi glfw.cpp
+clang++ glfw.cpp -lGLEW -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi
+clang++ glfw.cpp -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi
+clear
+vi glfw.cpp
+la
+vi glfw.cpp
+vi glad/include
+vi glad/include/glad/glad.h
+la
+mv glad/src/glad.c .
+la
+vi glad.c
+vi glad.c
+la
+tree
+vi glad.c
+la
+vi glad/khrplatform.h
+vi glad/glad.h
+vi glad.c
+cd ..
+la
+cd OpenGL
+la
+vi compile_flags.txt
+vi ../GRenderer/compile_flags.txt
+vi compile_flags.txt
+vi ../GRenderer/compile_flags.txt
+vi compile_flags.txt
+vi compile_flags.txt
+vi ../GRenderer/compile_flags.txt
+vi glad.c
+la
+vi glfw.cpp
+vi glfw.cpp
+pacman -Ss glxinfo
+sudo pacman -S mesa-demos
+glxinfo
+vi glfw.cpp
+la
+mv glfw.cpp main.cpp
+vi main.cpp
+clang++ main.cpp
+clang++ main.cpp glad.c
+clang++ main.cpp glad.c -I glad
+clang++ main.cpp glad.c -I .
+clang++ main.cpp glad.c -I ./
+clang++ main.cpp -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I glad
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/.
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/glad.h
+vi glad.c
+vi glad/glad.h
+vi main.cpp
+vi main.cpp
+vi compile_flags.txt
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -L ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -l ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/
+vi glad.c
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi main.cpp glad.c -I ./glad/ -I ./
+vi hello_window_clear.cpp
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi hello_window_clear.cpp glad.c -I ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi hello_window_clear.cpp glad.c -I ./glad/glad.h
+g++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi hello_window_clear.cpp glad.c -I ./glad/ -I ./
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi hello_window_clear.cpp glad.c -I ./glad/ -I ./
+vi glad.c
+clang++ -lGLEW -lglfw -lGL -lX11 -lpthread -lXrandr -lXi hello_window_clear.cpp glad.c -I ./glad/ -I ./ -std=c++11
+clang++ -std=c++11 ./hello_window_clear.cpp -lGLEW -lglfw -lGL -lX11 -lXxf86vm -lpthread -ldl -lXrandr -lXinerama -lXcursor 
+clang++ -std=c++11 ./hello_window_clear.cpp -lGLEW -lglfw -lGL -lX11 -lXxf86vm -lpthread -ldl -lXrandr -lXinerama -lXcursor -I ./glad/ -I ./
+sudo pacman -S nvidia-utils
+pacman -Ss opengl
+pacman -Ss opengl-man
+sudo pacman -S opengl-man-pages
+vi opengl.sh
+pacman -Ss glut
+pacman -Ss libgl
+pacman -S libgl
+sid ppacman -S libgl
+sudo pacman -S libgl
+vi test.cpp
+gcc -o test.cpp -lGL -lGLU -lglut && ./test
+gcc -o test.cpp -lGL -lGLU -lglut
+gcc test.cpp -lGL -lGLU -lglut
+la
+vi test.cpp
+vi test.cpp
+gcc test.cpp -lGL -lGLU -lglut
+./a.out
+vi test.cpp
+clang hello_window_clear.cpp
+clang hello_window_clear.cpp -I ./
+clang hello_window_clear.cpp -I ./ -lGL
+clang++ -std=c++11 ./hello_window_clear.cpp -lGLEW -lglfw -lGL -lX11 -lXxf86vm -lpthread -ldl -lXrandr -lXinerama -lXcursor -I ./glad/ -I ./
+clang -std=c++11 ./hello_window_clear.cpp -lGLEW -lglfw -lGL -lX11 -lXxf86vm -lpthread -ldl -lXrandr -lXinerama -lXcursor -I ./glad/ -I ./
+vi hello_window_clear.cpp
+vi hello_window_clear.cpp
+clang++ hello_window_clear.cpp -ldl -lglad -lglfw -lstd_image
+pacman -S glad
+pacman -Ss glad
+pacman -Ss glfw
+g++ -lglfw -lGL hello_window_clear.cpp
+pacman -Ss glew
+rm -rf test.cpp
+vi test.cpp
+vi test.cpp
+clang++ -lglfw -lGL test.cpp
+./a.out
+la
+vi main.cpp
+clang++ -lglfw -lGL main.cpp
+./a.out
+clang++ -lglfw -lGL main.cpp
+vi main.cpp
+la
+clang++ -lglfw -lGL hello_window_clear.cpp
+vi hello_window_clear.cpp
+vi main.cpp
+clang++ -lglfw -lGL hello_window_clear.cpp
+la
+clang++ -lglfw -lGL hello_window_clear.cpp -I ./
+shutdown now
+yay -Syu
+cd Code/OpenGL
+la
+mkdir include
+mv glad
+mv glad include
+cd include
+la
+cd glad
+la
+cd ..
+cd ..
+la
+clang++ -lglfw -lGL hello_window_clear.cpp -I ./
+clang++ -lglfw -lGL hello_window_clear.cpp -I ./include
+clang++ -lglfw -lGL test.cpp -I ./include
+./a.out
+la
+clang++ -lglfw -lGL main.cpp -I ./include
+./a.out
+vi test.cpp
+rm -rf test.cpp
+vi test.cpp
+vi compile_flags.txt
+vi test.cpp
+clang++ -lglfw -lGL test.cpp -I ./include
+vi test.cpp
+la
+yay -Syu
+cd Code/OpenGL
+la
+clang++ -lglfw -lGL test.cpp -I ./include
+clang++ -lglfw -lGL test.cpp glad.c  -I ./include
+clang++ -lglfw -lGL -ldl test.cpp glad.c  -I ./include
+./a.out
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp glad.c  -I ./include
+./a.out
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp glad.c -I ./include
+./a.out
+pacman -Qs yal
+pacman -Qs y
+pacman -Qs va
+pacman -Qs valgrind
+valgrind --leak-check=full ./a.out
+reboot
+z gl
+vi compile_flags.txt
+vi opengl.sh
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+z open
+cd
+z gl
+la
+vi compile_flags.txt
+clang glad.c -c -I ./include
+tree
+ar -rc libglad.a glad.o
+la
+mkdir lib
+mv libglad.a lib
+la
+rm -rf glad.o
+la
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include -L ./lib
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include -L ./lib -lglad
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include  -lglad
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include -L ./lib/libglad.a
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include -L ./lib/ -lglad
+vi opengl.sh
+vi opengl.sh
+vi opengl.sh
+chmod a+x opengl.sh
+./opengl.sh
+la
+rm -rf main.cpp test.cpp
+la
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+clang++ -lglfw -lGL -ldl hello_window_clear.cpp -I ./include -L ./lib/ -lglad
+clear
+yay -Ss glad
+yay -Syu
+z gl
+vi hello_window_clear.cpp
+vi hello_window_clear.cpp
+vi hello_window.cpp
+vi hello_window.cpp
+clang++ -lglfw -lGL -ldl hello_window.cpp -I ./include -L ./lib/ -lglad
+./a.out
+valgrind --leak-check=full ./a.out
+valgrind --leak-check=full --track-origins=yes ./a.out
+clang++ -lglfw -lGL -ldl hello_window.cpp -I ./include -L ./lib/ -lglad -g
+valgrind --leak-check=full --track-origins=yes ./a.out
+valgrind --leak-check=full --track-origins=yes ./a.out
+clear
+la
+mkdir src
+la
+mv hello_window.cpp src
+la
+vi compile_flags.txt
+la
+vi hello_window_clear.cpp
+la
+mv opengl.sh src
+la
+rm -rf a.out
+rm -rf hello_window_clear.cpp
+la
+cd src
+la
+vi hello_window.cpp
+./opengl.sh
+vi opengl.sh
+./opengl.sh
+la
+./a.out
+pacman -Ss bgfx
+la
+./a.out
+shutdown now
+yay -Syu
+z gl
+la
+cd src
+la
+cd ..
+rm -rf glad.c
+la
+cd src
+la
+vi hello_triangle.cpp
+vi hello_triangle.cpp
+vi opengl.sh
+./opengl.sh
+vi hello_triangle.cpp
+./opengl.sh
+./a.out
+vi hello_triangle.cpp
+vi hello_triangle.cpp
+vi hello_triangle.cpp\
+vi hello_triangle.cpp
+./opengl.sh
+./a.out
+vi get_max_vertex_attributes.cpp
+clang++ get_max_vertex_attributes.cpp
+clang++ get_max_vertex_attributes.cpp -L ../lib -lglad
+clang++ -lGL get_max_vertex_attributes.cpp -L ../lib -lglad
+clang++ -lGL -ldl -lglfw get_max_vertex_attributes.cpp -L ../lib -lglad
+vi opengl.sh
+clang++ -lglfw -lGL -ldl get_max_vertex_attributes.cpp -I ../include -L ../lib/ -lglad
+./a.out
+la
+vi get_max_vertex_attributes.cpp
+./a.out
+vi hello_window.cpp
+clang++ -lglfw -lGL -ldl hello_window.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi get_max_vertex_attributes.cpp
+vi hello_window.cpp
+vi get_max_vertex_attributes.cpp
+clang++ -lglfw -lGL -ldl get_max_vertex_attributes.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi hello_window.cpp
+vi get_max_vertex_attributes.cpp
+clang++ -lglfw -lGL -ldl get_max_vertex_attributes.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi get_max_vertex_attributes.cpp
+vi hello_window.cpp
+vi get_max_vertex_attributes.cpp
+clang++ -lglfw -lGL -ldl get_max_vertex_attributes.cpp -I ../include -L ../lib/ -lglad
+./a.out
+clear
+la
+pacman -Ss emcc
+pacman -Ss em
+pacman -Ss emc
+clear
+pacman -Ss emc
+sudo pacman -S emscripten
+clear
+la
+cp hello_triangle.cpp hello_shader.cpp
+vi hello_shader.cpp
+vi hello_shader.cpp
+clang++ -lglfw -lGL -ldl hello_shader.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi hello_shader.cpp
+clang++ -lglfw -lGL -ldl hello_shader.cpp -I ../include -L ../lib/ -lglad
+./a.out
+neofetch
+clear
+la
+z gl
+cd src
+la
+vi hello_shader_2.cpp
+cp hello_shader.cpp hello_shader_2.cpp
+vi hello_shader_2.cpp
+clang++ -lglfw -lGL -ldl hello_shader_2.cpp -I ../include -L ../lib/ -lglad
+./a.out
+la
+vi shader.h
+neofetch
+vi shader.h
+la
+vi hello_shader_3.cpp
+la
+vi hello_shader_3.cpp
+vi ../compile_flags.txt
+vi hello_shader_3.cpp
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi shader.h
+la
+vi hello_shader_3.cpp
+vi 3.3.shader.vs
+vi 3.3.shader.fs
+./a.out
+la
+vi 3.3.shader.vs
+./a.out
+vi 3.3.shader.vs
+vi hello_shader_3.cpp
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi hello_shader_3.cpp
+vi 3.3.shader.vs
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi hello_shader_3.cpp
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+./a.out
+vi 3.3.shader.vs
+vi 3.3.shader.fs
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+./a.out
+./a.out
+vi hello_shader_3.cpp
+vi 3.3.shader.fs
+./a.out
+vi 3.3.shader.fs
+la
+clear
+mkdir Getting_started
+la
+mv 3.3.shader.fs 3.3.shader.vs a.out get_max_vertex_attributes.cpp hello_shader_2.cpp hello_shader_3.cpp hello_shader.cpp hello_triangle.cpp hello_window.cpp opengl.sh shader.h  Getting_started
+la
+cd Getting_started
+la
+./a.out
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../include -L ../lib/ -lglad
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I .../include -L .../lib/ -lglad
+clang++ -lglfw -lGL -ldl hello_shader_3.cpp -I ../../include -L ../../lib/ -lglad
+mv opengl.sh compile.sh
+vi compile.sh
+./compile.sh
+vi compile.sh
+./compile.sh
+./compile.sh hello_shader_3.cpp
+vi compile.sh
+./compile.sh hello_shader_3.cpp
+vi compile.sh
+clang++ -lglfw -lGL -ldl -I ../../include -L ../../lib/ -lglad hello_shader_3.cpp
+clear
+vi compile.sh
+./compile.sh hello_shader_3.cpp
+vi compile.sh
+./compile.sh hello_shader_3.cpp
+./a.out
+vi compile.sh
+vi compile.sh
+./compile.sh hello_shader_3.cpp
+./a.out
+neofetch
+clear
+la
+vi texture.cpp
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+clear
+la
+yay -Syu
+vi +StartupTime
+z air
+z aur
+rm -rf dotfiles
+git clone https://github.com/Anhelor/dotfiles.git
+cd
+rm -rf .config/nvim
+cd -
+cd dotfiles
+cp -r .config/nvim ~/.config
+cd
+cd .config/nvim/
+la
+cd ..
+la
+cp /home/limbo/Downloads/Telegram Desktop/clean_nvim.sh nvim
+cd nvim
+cp ~/Downloads/Telegram\ Desktop/clean_nvim.sh .
+la
+chmod a+x clean_nvim.sh
+./clean_nvim.sh
+vi
+vi
+vi
+la
+cd lua/plugins
+la
+vi init.lua
+proxychains nvim init.lua
+proxychains nvim init.lua
+proxychains nvim init.lua
+proxychains nvim init.lua
+nvim init.lua
+nvim init.lua
+vi statusline.lua
+vi statusline.lua
+cd ..
+vi general.lua
+clear
+vi
+vi +StartupTime
+vi +StartupTime
+vi +StartupTime
+vi +StartupTime
+yay -Syu
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Syu
+clear
+yay -Syu
+yay -Syu
+cd Downloads
+la
+mkdir pixel_art
+mv *.mp4 pixel_art
+la
+mv FBqlno5VgAcCi48.png pixel_art
+la
+shutdown now
+yay -Syu
+vi
+vi +StartupTime
+r
+vi +StartupTime
+clear
+yay -Syu
+reboot
+yay -Syu
+cd Downloads/aur
+ls
+cd dotfiles
+ls
+git pull
+cd
+z nvim
+ls
+rm -rf init.lua lua 
+cp -r ~/Downloads/aur/dotfiles/.config/nvim/* ./
+ls
+./clean_nvim.sh
+vi
+proxychains nvim init.lua
+ls
+vi +StartupTime
+vi +StartupTime
+vi
+vi +StartupTime
+la ~/.cache/nvim
+vi lua/plugins/init.lua
+vi lua/plugins/statusline.lua
+vi
+vi
+vi +StartupTime
+clear
+vi
+yay -Syu
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+cd Code/Compiler
+la
+mkdir hw5
+cd hw5
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+rm -rf LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+vi LR.cpp
+reboot
+cd .local/share/gnome-shell/extensions/gnome-shell-screenshot@ttll.de/
+la
+vi metadata.json
+cd ..
+la
+cd openweather-extension@jenslody.de
+vi metadata.json
+yay -Syu
+neofetch
+clear
+cd Code/Compiler
+cd hw5
+la
+vi LR.cpp
+mv LR.cpp fuck.cpp
+cp fuck.cpp LR.cpp
+vi LR.cpp
+vi LR.cpp
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+clear
+vi LR.cpp
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Ss wireshark
+sudo pacman -S wireshark
+sudo pacman -S wireshark-cli
+sudo pacman -S wireshark-qt
+sudo pacman -Rns wireshark-qt
+reboot
+yay -Syu
+cd Code/Compiler/hw5
+la
+vi LR.cpp
+rm -rf fuck.cpp
+cp LR.cpp backup.cpp
+vi LR.cpp
+cd .config/fcitx5/conf
+vi pinyin.conf
+la
+cd ..
+la
+vi config
+vi conf/classicui.conf
+vi conf/classicui.conf
+vi conf/classicui.conf
+vi conf/classicui.conf
+vi conf/classicui.conf
+reboot
+vi .config/fcitx5/conf/classicui.conf
+vi .config/fcitx5/conf/classicui.conf
+vi .local/share/gnome-shell/extensions/gnome-shell-screenshot@ttll.de/metadata.json
+vi .local/share/gnome-shell/extensions/gnome-shell-screenshot@ttll.de/metadata.json
+vi .local/share/gnome-shell/extensions/gnome-shell-screenshot@ttll.de/metadata.json
+cd Code/Compiler/hw5
+la
+vi LR.cpp
+rm -rf LR.cpp
+vi LR.cpp
+vi LR.cpp
+vi LR.cpp
+vi LR.cpp
+cp LR.cpp backup.cpp
+vi backup.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+vi LR.cpp
+vi LR.cpp
+vi LR.cpp
+la
+cd ..
+la
+vi main.cpp
+vi hw4/analysis.cpp
+vi hw4/main.cpp
+vi hw4/test.txt
+vi hw4/fuck.cpp
+cd hw5
+vi LR.cpp
+vi LR.cpp
+vi demo.txt
+clang++ LR.cpp
+./a.out
+vi LR.cpp
+vi demo.txt
+./a.out
+vi LR.cpp
+vi demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+vi demo.txt
+./a.out
+vi demo.txt
+clear
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi error.txt
+./a.out error.txt
+vi LR.cpp
+./a.out error.txt
+vi error.txt
+./a.out error.txt
+clear
+vi LR.cpp
+clang++ LR.cpp
+./a.out error.txt
+vi error.txt
+./a.out error.txt
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out error.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out
+touch empty.txt
+./a.out empty.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out empty.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out empty.txt
+./a.out empty.txt
+vi empty.txt
+./a.out empty.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out empty.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out empty.txt
+./a.out error.txt
+ls
+la
+./a.out demo.txt
+vi LR.cpp
+vi demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi demo.txt
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+./a.out error.txt
+./a.out empty.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out empty.txt
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+vi LR.cpp
+vi demo.txt
+./a.out demo.txt
+vi demo.txt
+./a.out demo.txt
+vi demo.txt
+vi demo.txt
+./a.out demo.txt
+g++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+g++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+vi LR.cpp
+clang++ LR.cpp
+./a.out demo.txt
+./a.out empty.txt
+./a.out error.txt
+vi error.txt
+./a.out error.txt
+vi LR.cpp
+vi LR.cpp
+clear
+clang++ LR.cpp -O3
+./a.out demo.txt
+cd
+cd Code/Compiler/hw5
+vi LR.cpp
+clang++ -O3 LR.cpp -o LR.out
+./LR.out demo.txt
+clear
+clang++ -O3 LR.cpp -o LR.out
+./LR.out demo.txt
+yay -Syu
+cd Code/OpenGL/src
+la
+clear
+cd Getting_started
+la
+./a.out
+vi texture.cpp
+yay -Syu
+cd
+cd Code/lua
+la
+vi celeste.lua
+lua celeste.lua
+vi celeste.lua
+rm -rf celeste.lua
+cd
+cd Downloads/aur
+git clone --single-branch --branch=master --depth=1 https://github.com/ExOK/Celeste2.git
+git clone --single-branch --branch=main --depth=1 https://github.com/ExOK/Celeste2.git
+la
+cd Celeste2
+la
+lua main.lua
+cd ..
+rm -rf Celeste2
+shutdown now
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+clear
+yay -Syu
+yay -Syu
+clear
+la
+clear
+yay -Syu
+clear
+cd Downloads
+la
+git clone --single-branch --branch=master --depth=1 https://github.com/hnjia00/Compilers.git
+cd
+cd Code/Compiler/
+mkdir myproject
+cd myproject
+la
+vi Lexical_analysis.cpp
+touch in.txt
+clang++ -O3 Lexical_analysis.cpp
+./a.out in.txt
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+shutdown now
+yay -Syu
+cd Code/Compiler/
+cd myproject
+la
+vi Lexical_analysis.cpp
+vi main.cpp
+clang++ main.cpp
+./a.out
+la
+vi out.txt
+vi in.txt
+./a.out
+vi out.txt
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out
+./a.out in.txt
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out in.txt
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out a.txt
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out in.txt
+vi out.txt
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out in.txt
+vi Lexical_analysis.cpp
+clang++ Lexical_analysis.cpp
+./a.out in.txt
+vi Lexical_analysis.cpp
+yay -Syu
+clear
+yay -Syu
+clear
+neofetch
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+clear
+clear
+la
+rm -rf .fltk
+la
+clear
+reboot
+xclip -sel clip < Documents/tocken.txt
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-11-16"
+git push origin source
+cd Code/OpenGL
+la
+cd src
+la
+cd Getting_started
+la
+vi stb_image.h
+vi stb_image.h
+vi stb_image.h
+yay -Syu
+clear
+clear
+cd Code
+la
+vi gh-md-toc
+clear
+la
+clear
+la
+cd CPP_Primer
+la
+la
+clear
+cd
+la
+cd Code/CPP_Primer
+la
+vi ifs.cpp
+vi ifs.cpp
+clang++ ifs.cpp
+./a.out
+vi demo.txt
+./a.out
+clear
+yay -Syu
+yay -Syu
+clear
+neofetch
+clear
+clear
+neofetch
+yay -Syu
+shutdown now
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+clear
+shutdown now
+yay -Syu
+yay -Syu
+cd Code/OpenGL/src
+cd Getting_started
+la
+vi texture.cpp
+vi texture.cpp
+vi stb_image.h
+vi stb_image.h
+clear
+vi texture.cpp
+clear
+la
+vi texture.cpp
+vi texture.cpp
+vi texture.cpp
+vi shader.h
+vi shader.h
+vi texture.cpp
+vi shader_s.h
+pacman -Ss glm
+sudo pacman -S glm
+vi shader_s.h
+vi texture.cpp
+vi texture.cpp
+la
+la
+cd ..
+la
+cd ll
+cd ..
+la
+vi compile_flags.txt
+vi compile_flags.txt
+la
+tree
+vi compile_flags.txt
+la
+mkdir build
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+clear
+pacman -Ss boost
+pacman -Ss cppcheck
+cd ..
+la
+mkdir cmake_examples
+cd cmake_examples
+la
+mkdir 01-basic
+cd 01-basic
+la
+cd ..
+la
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+cd ..
+la
+la
+cd G
+cd GRenderer
+la
+cd Code
+la
+tree CPP_Primer
+rm -rf CPP_Primer
+la
+tree J2EE
+cd J2EE
+la
+cd ..
+rm -rf J2EE
+la
+cd GRenderer
+la
+vi src/GRenderer.cpp
+vi src/maths/gmath.h
+cd Code
+la
+cd GRenderer
+la
+cd build
+la
+cd ..
+la
+clear
+la
+vi build
+vi build_linux.sh
+./build_clean.sh
+./build_clean.sh
+vi build_linux.sh
+cd src
+../build_linux.sh
+cd ..
+la
+tree
+rm -rf build*
+la
+vi compile_flags.txt
+tree
+rm -rf doc/*
+la
+vi README.md
+la
+rm -rf doc
+la
+cd releases
+la
+cd ..
+rm -rf releases
+la
+rm -rf tests
+la
+vi src
+cd src
+la
+rm -rf a.out
+la
+display output.bmp
+rm -rf output.bmp
+la
+cd res
+la
+cd ..
+la
+mv res ..
+la
+vi shader.hpp
+vi model.hpp
+la
+vi GRenderer.cpp
+la
+vi bitmap.hpp
+vi shader.hpp
+la
+vi GRenderer.cpp
+cd ..
+la
+vi compile_flags.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+mkdir build
+cd build
+cmake ..
+la
+cd ..
+vi CMakeLists.txt
+cmake --version
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd build
+cmake ..
+cd ..
+vi CMakeLists.txt
+yay -Syu
+clear
+reboot
+cd Code/GRenderer
+la
+vi CMakeLists.txt
+cd build
+cmake ..
+la
+cd ..
+rm -rf build
+mkdir build
+vi CMakeLists.txt
+cd build
+cmake ..
+la
+cd ..
+rm -rf build
+mkdir build
+vi CMakeLists.txt
+cd build
+la
+cmake ..
+gcc -v
+clear
+cd ..
+cd build
+cmake ..
+cd ..
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+vi CMakeLists.txt
+cd build
+cmake ..
+vi ../CMakeLists.txt
+cmake ..
+vi ../CMakeLists.txt
+cmake ..
+vi ../CMakeLists.txt
+cd ..
+tree
+cd build
+cmake ..
+vi ../CMakeLists.txt
+cd ..
+vi unix_release.sh
+clear
+la
+./unix_release.sh
+chmod a+x unix_release.sh
+./unix_release.sh
+vi CMakeLists.txt
+./unix_release.sh
+vi CMakeLists.txt
+./unix_release.sh
+vi CMakeLists.txt
+clear
+la
+vi compile_flags.txt
+shutdown now
+shutdown now
+yay -Syu
+cd Code/GRenderer
+la
+vi CMakeLists.txt
+la
+vi CMakeLists.txt
+la
+vi unix_release.sh
+la
+la
+shutdown now
+yay -Syu
+htop
+kill 4372
+cd Code/GRenderer
+la
+vi CMakeLists.txt
+cd ..
+la
+cd OpenGL/
+la
+vi CMakeLists.txt
+rm -rf CMakeLists.txt
+cp ../GRenderer/CMakeLists.txt .
+la
+tree
+vi include/KHR/khrplatform.h
+la
+vi CMakeLists.txt
+la
+tree
+mv lib libs
+la
+mv libs lib
+vi CMakeLists.txt
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd include
+la
+la
+mkdir GLFW
+cd gl
+cd GLFW
+la
+pacman -Qs glfw
+clear
+vi glfw3.h
+vi glfw3.h
+htop
+cd Code/OpenGL/src
+la
+rm -rf hello_window.cpp
+mv ~/Downloads/Getting_started .
+z open
+ls
+l build
+la build
+ls
+ls build
+cd include
+ls
+cd GLFW
+ls
+vi glfw3.h
+vi glfw3.h
+ls
+cd ../..
+ls
+tree
+rm -rf include/GLFW
+la
+cd lib
+la
+mv ~/Downloads/glfw-3.3.5 .
+la
+cd glfw-3.3.5
+la
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+la
+tree
+la
+cd src
+la
+mv libglfw3.a ../../../
+cd ../../..
+la
+rm -rf glfw-3.3.5
+la
+cd ..
+cd include
+la
+cp -r ~/Downloads/glfw-3.3.5/include/GLFW .
+la
+cd GLFW
+la
+vi glfw3.h
+vi glfw3.h
+la
+cd ..
+clear
+la
+cd ..
+la
+cd include
+la
+cd ..
+vi CMakeLists.txt
+la
+la
+cd build
+la
+cmake ..
+make -j -l 13
+clear
+la
+cd publish
+la
+cd ../..
+la
+rm -rf build
+la
+mkdir build
+tree
+vi CMakeLists.txt
+la
+cd build
+cmake ..
+make -j -l 13
+cd ..
+rm -rf build/*
+la
+cd src
+la
+cd Getting_started
+la
+vi hello_window.cpp
+cd ..
+la
+mv Getting_started ~/Downloads
+la
+cp ~/Downloads/Getting_started/hello_window.cpp
+cp ~/Downloads/Getting_started/hello_window.cpp .
+la
+cd ..
+la
+cd build
+cmake ..
+make -j -l 13
+vi ../CMakeLists.txt
+cmake ..
+make -j -l 13
+vi ../CMakeLists.txt
+cmake ..
+make -j -l 13
+cd ..
+la
+cd src
+clang++ -lglfw -lGL -ldl -I ../../include -L ../../lib/ -lglad hello_window.cpp
+g++ -I ../include -L ../lib hello_window.cpp
+g++ -I ../include -L ../lib -lglfw3 hello_window.cpp 
+clear
+la
+la
+cd ../..
+la
+cd cmake_examples
+la
+cd 01-basic
+la
+la
+vi CMakeLists.txt
+la
+vi main.cpp
+la
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+la
+./hello_cmake
+cd ..
+la
+rm -rf build
+vi test.sh
+chmod a+x test.sh
+./test.sh
+la
+vi CMakeLists.txt
+./test.sh
+cd ..
+la
+cd 01-basic
+cd ..
+la
+mv ~/Downloads/aur/cmake-examples .
+la
+mv cmake-examples github
+la
+cd 01-basic
+la
+cp ../github/01-basic/B-hello-headers/include -r .
+la
+cp ../github/01-basic/B-hello-headers/ -r .
+la
+rm -rf B-hello-headers
+cp ../github/01-basic/B-hello-headers/* -r .
+la
+rm -rf README.adoc
+la
+rm -rf main.cpp
+la
+./test.sh
+./build/hello_headers
+la
+vi CMakeLists.txt
+shutdown now
+cd Downloads/aur
+git clone --single-branch --branch=master --depth=1 https://github.com/ttroy50/cmake-examples.git
+la
+cd cmake-examples
+la
+cd Code/GRenderer
+la
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+make -j -l 13
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+cd
+cd Code/cmake_examples
+la
+cd github
+la
+cd 01-basic/F-build-type
+la
+mkdir build
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+vi ../cmake
+vi ../CMakeLists.txt
+cmake ..
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+xclip -sel clip < Documents/tocken.txt
+cd Documents/Blog
+hexo g
+hexo d
+git add .
+git commit -m "2021-11-21"
+git push origin source
+cd Downloads/glfw-3.3.5/
+la
+cp include/GLFW/ -r ~/Code/OpenGL/include
+la
+mkdir build
+cd build
+cmake ..
+make -j -l 13
+la
+cd src
+la
+cd ../..
+la
+rm -rf build
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make -j -l 13
+la 
+tree
+cd src
+la
+ldd libglfw3.a
+ldd /usr/bin/ls
+cd ../tests
+ls
+cd ..
+la
+cd examples
+la
+cat ../../CMakeLists.txt
+cat ../../CMakeLists.txt | grep exe
+ls
+cd ../
+cd ../examples
+ls
+grep exe CMakeLists.txt
+cd ../build/examples
+ls
+ldd simple
+cd ../..
+cd build/src
+la
+mv libglfw3.a ~/Code/OpenGL/lib
+cd Code/cmake_examples
+la
+vi CMakeLists.txt
+vi CMakeLists.txt
+which clang
+which clang++
+la
+vi build_clang.sh
+vi build_clang.sh
+la
+vi CMakeLists.txt
+la
+vi CMakeLists.txt
+cd
+cd Documents/Blog
+hexo n "CMake Example"
+cd
+cd Code/cmake_examples
+vi CMakeLists.txt
+vi CMakeLists.txt
+cd ..
+la
+cd GRenderer
+la
+tree
+rm -rf build
+la
+mkdir build
+vi CMakeLists.txt
+la
+cd ..
+la
+cd OpenGL
+la
+vi CMakeLists.txt
+la
+clear
+la
+la
+la
+tree
+rm -rf build
+la
+tree
+la
+cd src
+la
+mv Getting_started 01_Getting_started
+la
+mkdir 02_Lighting
+la
+tree
+cd 01_Getting_started
+la
+vi compile.sh
+./compile.sh hello_shader_3.cpp
+la
+./a.out
+la
+cp compile.sh ../..
+cd ..
+cd ..
+la
+rm -rf CMakeLists.txt
+la
+la
+tree
+rm -rf include/GLFW
+rm -rf lib/libglfw3.a
+la
+tree
+cd src
+la
+cd 01_Getting_started
+la
+vi compile.sh
+rm -rf ./*
+la
+cd ..
+cd ..
+tree
+vi compile_flags.txt
+la
+vi CMakeLists.txt
+clear
+la
+vi CMakeLists.txt
+la
+vi CMakeLists.txt
+la
+tree
+pacman -Qs glfw
+la
+tree
+vi include/GLFW/glfw3.h
+la
+tree
+la
+mkdir res
+la
+shutdown now
+yay -Syu
+reboot
+cd Code/OpenGL
+la
+tree
+la
+tree -d2
+la
+vi CMakeLists.txt
+vi compile.sh
+la
+rm -rf CMakeLists.txt
+la
+la
+cd src/01_Getting_started
+la
+mkdir 01_Create_a_window
+cd 01_Create_a_window
+la
+cd ..
+mv 01_Create_a_window 01_Hello_Window
+cd 01_Hello_Window
+la
+vi hello_window.cpp
+vi hello_window.cpp
+vi hello_window.cpp
+la
+cp ../../../compile.sh .
+vi compile.sh
+mv compile.sh ..
+../compile.sh hello_window.cpp
+mv hello_window.cpp ..
+cd ..
+la
+./compile.sh hello_window.cpp
+la
+mv hello_window.cpp 01_Hello_Window
+./a.out
+la
+rm -rf a.out
+vi compile.sh
+la
+cd 01_Hello_Window
+../compile.sh hello_window.cpp
+la
+./a.out
+rm -rf a.out
+cd ..
+la
+shutdown now
+yay -Syu
+vi .cache/zsh/history
+shutdown now
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+clear
+la
+shutdown now
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+shutdown now
+yay -Syu
+shutdown now
+yay -Syu
+yay -Syu
+clear
+yay -Syu
+reboot
+shutdown now
+cd Code/Compiler
+cd hw6
+la
+vi S-SDD.cpp
+la
+vi S-SDD.cpp
+vi S-SDD.cpp
+clang++ S-SDD.cpp -std=c++17
+la
+./a.out
+./a.out demo.txt
+clear
+la
+rm -rf a.out
+la
+clear
+clang++ -std=c++17 S-SDD.cpp -o S-SDD.out
+./S-SDD.out demo.txt
+clear
+la
+clang++ -std=c++17 S-SDD.cpp -o S-SDD.out
+rm -rf S-SDD.out
+clear
+la
+clang++ -std=c++17 S-SDD.cpp -o S-SDD.out
+./S-SDD.out demo.txt
+cd Code/Compiler/hw6
+./S-SDD.out demo.txt
+clear
+./S-SDD.out demo.txt
+cd Code/Compiler/hw6
+./S-SDD.out demo.txt
+lablk
+lsblk
+reboot
+yay -Syu
+cd Code
+la
+mkdir RayTracing
+cd RayTracing
+la
+vi ppm.cpp
+la
+clang++ ppm.cpp
+./a.out
+./a.out < image.ppm
+./a.out > image.ppm
+display image.ppm
+display image.ppm
+vi image.ppm
+pacman -Ss mongodb
+yay -Ss mongodb
+yay -Ss mongodb-bin
+clear
+yay -Ss mongodb
+yay -S mongodb-bin
+yay -S mongodb-tools
+cd Code
+vi TestMongo.txt
+mv TestMongo.txt TestMongo.java
+vi TestMongo.java
+vi TestMongo.java
+cd Archives
+la
+cd MongoDBTest
+la
+vi src/main/java/com/itcast/mongodb/MongoUtils.java
+vi src/main/java/com/itcast/mongodb/TestMongo.java
+vi src/main/java/com/itcast/mongodb/TestMongo.java
+la
+clear
+la
+vi src/main/java/com/itcast/mongodb/MongoUtils.java
+la
+proxychains mvn clean package
+la
+tree
+la
+vi src/main/resources/mongodb.properties
+vi src/main/java/com/itcast/mongodb/TestMongo.java
+vi src/main/java/com/itcast/mongodb/TestMongo.java
+vi src/main/java/com/itcast/mongodb/TestMongo.java
+mvn clean
+mvn clean package
+cd Code/Archives
+cd MongoDBTest
+la
+vi README.md
+shutdown now
+yay -S mongodb-tools
+yay -Syu
+reboot
+shutdown now
+yay -Syu
+htop
+cd Downloads/aur
+git clone --single-branch --branch=master --depth=1 https://github.com/RayTracing/raytracing.github.io.git
+cd raytracing.github.io
+la
+cd src
+la
+cd common
+la
+cp rtweekend.h camera.h color.h ../InOneWeekend
+cd ../InOneWeekend
+la
+clang++ main.cc
+cp ../common/ray.h .
+cp ../common/vec3.h .
+clang++ main.cc
+la
+./a.out > image.ppm
+display image.ppm
+ssh root@192.168.0.131
+ssh root@121.36.102.203
+reboot
+yay -Syu
+cd Code
+la
+cd G
+cd GRenderer
+la
+vi CMakeLists.txt
+tree
+cd build
+la
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make -j -l 13
+la
+cd publish
+la
+./GRenderer
+la
+display output.bmp
+la
+clear
+cd Code
+la
+z aur
+la
+git clone --single-branch --branch=master --depth=1 https://github.com/zauonlok/renderer.git
+cd renderer
+la
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+make -j -l 13
+la
+./Viewer blinn nier2b
+./Viewer pbr helmet
+./Viewer pbr
+./Viewer blinn
+./Viewer blinn nier2b
+./Viewer pbr spheres
+./Viewer pbr sphere
+cd Code
+la
+mv GRenderer Archives
+la
+mv GRenderer GRenderer_0.2
+mv GRenderer_0.2 Archives
+la
+mkdir GRenderer
+cp Archives/GRenderer_0.2/CMakeLists.txt GRenderer
+la
+cd GRenderer
+la
+vi CMakeLists.txt
+vi CMakeLists.txt
+la
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+vi ../CMakeLists.txt
+cd ..
+la
+mkdir src
+la
+mkdir res
+la
+cd build
+la
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+cd ..
+cp ../Archives/GRenderer_0.2/src/maths -r src
+la
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+vi ../CMakeLists.txt
+la
+rm -rf CMakeFiles
+la
+rm -rf CMakeCache.txt
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+vi ../CMakeLists.txt
+la
+cd ..
+cd src
+la
+cp maths/gmath.h .
+la
+cd ..
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+cmake ..
+vi ../CMakeLists.txt
+la
+cd ..
+la
+cmake ..
+cmake .
+la
+rm -rf CMakeFiles
+rm -rf CMakeCache.txt
+la
+vi CMakeLists.txt
+cd build
+cmake ..
+vi ../CMakeLists.txt
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+cd ..
+la
+mv CMakeLists.txt ..
+cp ../Archives/GRenderer_0.2/CMakeLists.txt .
+la
+cd build
+cmake ..
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake ..
+cd ..
+rm -rf CMakeLists.txt
+mv ../CMakeLists.txt .
+la
+la
+rm -rf src
+cp -r ../Archives/GRenderer_0.2/src .
+la
+cd build
+cmake ..
+vi ../CMakeLists.txt
+vi ../CMakeLists.txt
+cmake ..
+cd ..
+cd build
+make -j -l 13
+display output.bmp
+la
+cd publish
+display output.bmp
+la
+./GRenderer
+la
+display output.bmp
+cd ..
+la
+cd ..
+rm -rf build
+la
+tree
+cd src
+la
+rm -rf bitmap.hpp maths model.hpp shader.hpp
+la
+cd ..
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+la
+cd ..
+la
+rm -rf build
+mkdir build
+cd src
+la
+vi GRenderer.cpp
+la
+rm -rf GRenderer.cpp
+cp -r ../../Archives/GRenderer_0.2/src/maths .
+la
+vi maths/gmath.h
+la
+cd ..
+la
+vi compile_flags.txt
+la
+cd src
+la
+vi maths/gmath.h
+vi ../compile_flags.txt
+vi ../compile_flags.txt
+vi maths/gmath.h
+vi maths/vector.hpp
+vi maths/matrix.hpp
+la
+clear
+cd Code/Archives/GRenderer_0.2
+la
+cd build
+la
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+vi ../CMakeLists.txt
+cd Code/GRenderer
+la
+cd src
+la
+vi GRenderer.cpp
+vi maths/gmath.h
+la
+tree
+vim test.c
+la
+z aur
+cd render
+cd renderer
+la
+cd build
+la
+./Viewer
+./Viewer a
+la
+cd Code/GRenderer
+la
+cd src
+la
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+vi GRenderer.cpp
+clang++ GRenderer.cpp
+clang++ GRenderer.cpp -I maths
+clang++ GRenderer.cpp -I maths -std=c++17
+la
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+clear
+clear
+la
+./a.out
+clang++ GRenderer.cpp -I maths -std=c++17
+./a.out
+./a.out
+vi GRenderer.cpp
+./a.out
+clear
+la
+vi GRenderer.cpp
+clang++ GRenderer.cpp -I maths -std=c++17
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+clear
+clear
+vi GRenderer.cpp
+yay -Syu
+yay -Syu
+reboot
+z aur
+cd renderer
+la
+cd renderer
+la
+cloc .
+z aur
+cd renderer
+la
+cd build
+la
+./Viewer
+./Viewer
+./Viewer
+./Viewer
+./Viewer
+la
+z aur
+cd renderer
+cd build
+la
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug ..
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Debug ..
+make -j -l 13
+./Viewer
+cd ..
+rm -rf build
+mkdir build
+cd build
+cmake -G "Unix Makefiles" -D CMAKE_BUILD_TYPE=Release ..
+make -j -l 13
+./Viewer
+cd Code/GRenderer
+cd src
+la
+vi GRenderer.cpp
+clang++ GRenderer.cpp -I maths -std=c++17
+./a.out
+./a.out
+vi GRenderer.cpp
+clang++ GRenderer.cpp -I maths -std=c++17
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+clear
+la
+vi GRenderer.cpp
+la
+mkdir platforms
+mkdir shaders
+la
+tree
+rm -rf a.out
+cd platforms
+la
+vi platform.h
+vi platform.h
+vi ../../compile_flags.txt
+vi platform.h
+vi platform.h
+vi ../graphics.h
+vi ../graphics.h
+vi platform.h
+la
+vi linux.c
+vi linux.c
+vi ../image.h
+vi linux.c
+vi ../image.h
+vi linux.c
+la
+vi linux.c
+vi linux.c
+vi platform.h
+la
+clear
+la
+vi linux.c
+vi linux.c
+vi linux.c
+la
+rm -rf linux
+rm -rf linux.c
+la
+vi platform.h
+vi platform.h
+rm -rf platform.h
+la
+cd ..
+la
+rm -rf graphics.h
+rm -rf image.h
+la
+tree
+vi maths/matrix.hpp
+shutdown now
+yay -Syu
+la
+clear
+la
+neofetch
+cd Code
+cd GRenderer
+la
+cd src
+la
+vi GRenderer.cpp
+cd Code
+la
+cd Archives
+la
+vi test.cpp
+vi demo.txt
+clang test.cpp
+clang++ test.cpp
+./a
+./a.out
+clear
+cd ..
+mkdir ThreadPool
+la
+cd ThreadPool
+la
+vi compile_flags.txt
+la
+vi ThreadPool.hpp
+vi ThreadPool.hpp
+vi ThreadPool.hpp
+vi ThreadPool.hpp
+vi ThreadPool.hpp
+shutdown now
+yay -Syu
+reboot
+la
+cd Code/GRenderer
+la
+tree
+cd src
+la
+tree
+vi maths/gmath.h
+vi maths/gmath.h
+vi maths/vector.hpp
+cp -r maths ../../Archives
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+vi maths/vector.hpp
+cd Code/Archives
+vi test.cpp
+vi test2.cpp
+vi test2.cpp
+vi test2.cpp
+clang++ test2.cpp
+./a.out
+yay -Syu
+cd Code/ThreadPool
+la
+vi example.cpp
+la
+vi example.cpp
+clang++ ThreadPool.hpp
+clang++ example.cpp
+clang++ example.cpp -std=c++17
+la
+vi example.cpp
+vi ThreadPool.hpp
+rm -rf ThreadPool.hpp
+vi ThreadPool.hpp
+la
+rm -rf ThreadPool.hpp.gch
+la
+clang++ example.cpp -std=c++17
+clang++ example.cpp -std=c++17 -pthread
+./a.out
+la
+cd..
+clear
+cd Code
+la
+mkdir GMaths
+cd GMaths
+la
+mkdir src
+la
+cd src
+la
+vi gmath.h
+vi vector.h
+vi gmath.h
+touch matrix.h
+la
+la
+touch math_utils.h
+la
+vi gmath.h
+vi gmath.h
+vi gmath.h
+la
+la
+mv math_utils.h MathUtils.h
+la
+mv matrix.h Matrix.h
+la
+mv vector.h Vector.h
+la
+la
+vi gmath.h
+vi MathUtils.h
+la
+cd ..
+mkdir samples
+cd samples
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+la
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+vi test_PI.cpp
+vi test_PI.cpp
+clang++ test_PI.cpp
+./a.out
+cd ..
+cd s
+cd src
+la
+vi gmath.h MathUtils.h
+vi MathUtils.h
+vi ../samples/test_PI.cpp
+vi MathUtils.h
+la
+vi Vector.h
+vi Vector.h
+vi test_construct.cpp
+vi test_construct.cpp
+vi gmath.h
+vi Vector.h
+vi MathUtils.h
+la
+vi gmath.h
+la
+cd ..
+la
+vi compile_flags.txt
+la
+cd src
+la
+vi Vector.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+mv Vector.h ..
+la
+vi gmath.h
+vi test_construct.cpp
+mv ../Vector.h .
+la
+vi gmath.h
+vi gmath.h
+vi Vector.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+la
+reboot
+cd Code/GRenderer
+la
+cd src/maths
+la
+vi gmath.h
+la
+touch math_util.h
+la
+clear
+la
+vi gmath.h
+la
+vi math_util.h
+rm -rf math_util.h
+la
+vi gmath.h
+vi vector.hpp
+vi gmath.h
+vi vector.hpp
+cd Code/GRenderer
+la
+cd src
+cd maths
+vi vector.hpp
+vi vector.hpp
+yay -Syu
+cd Code/GMaths
+la
+cd s
+cd src
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi gmath.h
+vi Vector.h
+vi gmath.h
+vi Vector.h
+la
+vi MathUtils.h
+vi MathUtils.h
+la
+vi Matrix.h
+vi Matrix.h
+vi test_construct.cpp
+la
+vi Vector.h
+vi test_construct.cpp
+clang++ test_construct.cpp
+vi test_construct.cpp
+clang++ test_construct.cpp
+g++ test_construct.cpp
+vi test_construct.cpp
+g++ test_construct.cpp
+vi test_construct.cpp
+vi Vector.h
+vi test_construct.cpp
+vi Vector.h
+vi Vector.h
+vi Vector.h
+vi Vector.h
+vi test_construct.cpp
+vi Vector.h
+clang++ test_construct.cpp
+vi Vector.h
+clang++ test_construct.cpp
+vi Vector.h
+vi Vector.h
+vi test_construct.cpp
+clang++ test_construct.cpp
+./a.out
+vi test_construct.cpp
+vi test_construct.cpp
+vi Vector.h
+vi Vector.h
+la
+cd ..
+la
+vi README.md
+la
+cd ..
+mv GMaths GMath
+la
+cd GMath
+la
+cd src
+la
+vi gmath.h
+la
+vi ../README.md
+yay -Syu
+z gmath
+la
+cd src
+la
+vi gmath.h
+vi MathUtils.h
+vi MathUtils.h
+vi Vector.h
+vi Vector.h
+la
+rm -rf a.out
+la
+vi Vector.h
+vi MathUtils.h
+vi ../README.md
+vi MathUtils.h
+la
+vi Vector.h
+la
+vi Vector.h
+vi Vector.h
+vi Vector.h
+vi test_construct.cpp
+vi Vector.h
+vi test_construct.cpp
+vi Vector.h
+vi test_construct.cpp
+clang++ test_construct.cpp
+./a.out
+vi test_construct.cpp
+la
+vi test_construct.cpp
+vi Vector.h
+vi test_construct.cpp
+vi Vector.h
+vi Vector.h
+z grender
+cd src/maths
+la
+vi vector.hpp
+vi vector.hpp
+vi matrix.hpp
+vi vector.hpp
+yay -Syu
+cd Code/GMaths
+cd Code/GMath
+la
+cd src
+la
+vi MathUtils.h
+vi gmath.h
+vi Vector.h
+vi Vector.h
+vi MathUtils.h
+vi Vector.h
+vi Utils3D.h
+vi Utils3D.h
+la
+vi GraphicsUtils.h
+vi Vector.h
+rm -rf GraphicsUtils.h
+vi MathUtils.h
+vi MathUtils.h
+vi MathUtils.h
+vi Matrix.h
+vi Vector.h
+vi MathUtils.h
+la
+vi Matrix.h
+vi Matrix.h
+vi Matrix.h
+pacman -Qs neovim
+z zur
+z aur
+la
+cd dotfiles
+la
+git pull
+cd
+cd -
+ls
+cp -r .config/nvim ~/.config
+z nvim
+ls
+./clean_nvim.sh
+vi
+proxychains nvim init.lua
+vi +StartupTime
+vi +StartupTime
+vi +StartupTime
+vi +StartupTime
+vi +StartupTime
+vi lua/plugins/init.lua
+vi lua/plugins/statusline.lua
+vi lua/plugins/statusline.lua
+vi lua/plugins/statusline.lua
+vi lua/plugins/statusline.lua
+vi lua/plugins/statusline.lua
+z gren
+cd src/maths
+vi gmath.h
+vi vector.hpp
+vi matrix.hpp
+vi gmath.h
+la
+vi matrix.hpp
+vi matrix.hpp
+vi +StartupTime
+vi +StartupTime
+clear
+la
+z gmath
+la
+cd src
+la
+vi Matrix.h
+vi ~/.config/nvim/lua/plugins/init.lua
+vi ~/.config/nvim/lua/plugins/init.lua
+vi ~/.config/nvim/lua/plugins/init.lua
+vi ~/.config/nvim/lua/plugins/init.lua
+vi matrix.hpp
+vi Matrix.h
+vi test_construct.cpp
+clang++ test_construct.cpp
+vi Vector.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi test_construct.cpp
+clang++ test_construct.cpp
+vi Matrix.h
+clang++ test_construct.cpp
+vi Matrix.h
+clang++ test_construct.cpp
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+vi Matrix.h
+clang++ test_construct.cpp
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+clang++ test_construct.cpp
+./a.out
+vi Matrix.h
+vi Matrix.h
+z gren
+cd src/maths
+vi vector.hpp
+z gren
+cd src/maths
+vi matrix.hpp
+z gmath
+la
+rm -rf samples
+cd src
+la
+vi Matrix.h
+rm -rf Matrix.h
+vi Matrix.h
+vi Matrix.h
+vi Matrix.h
+vi Matrix.h
+vi test.cpp
+vi Matrix.h
+vi test.cpp
+vi Vector.h
+vi test.cpp
+vi Matrix.h
+vi test.cpp
+vi Matrix.h
+vi Vector.h
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+reboot
+shutdown now
+yay -Syu
+reboot
+reboot
+z gmath
+vi src/Vector.h
+shutdown now
+yay -Syu
+clear
+yay -Syu
+clear
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+yay -Syu
+clear
+yay -Syu
+clear
+la
+yay -Syu
+cd Code
+la
+mkdir PAT
+cd PAT
+la
+vi time.cpp
+clang++ time.cpp
+vi time.cpp
+vi time.cpp
+clang++ time.cpp
+./a.out
+vi time.cpp
+clear
+./a.out
+./a.out
+vi time.cpp
+vi time.cpp
+vi Utils.h
+vi Utils.h
+vi Utils.h
+vi Utils.h
+vi Utils.h
+vi Utils.h
+vi Utils.h
+vi BL_1001.cc
+vi BL_1001.cc
+clang BL_1001.cc
+./a.out
+vi BL_1001.cc
+clang BL_1001.cc
+./a.out
+vi BL_1001.cc
+la
+gcc BL_1001.cc
+la
+mv BL_1001.cc BL_1001.c
+vi BL_1001.c
+clang BL_1001.c
+la
+./a.out
+la
+vi BL_1002.c
+clang BL_1002.c
+./a.out
+vi BL_1002.c
+rm -rf BL_1002.c
+vi BL_1002.cc
+vi BL_1002.cc
+vi BL_1002.cc
+clang++ BL_1002.cc
+./a.out
+vi BL_1002.cc
+./a.out
+vi BL_1002.cc
+clang++ BL_1002.cc
+./a.out
+la
+vi BL_1003.cc
+vi BL_1003.cc
+vi BL_1003.cc
+la
+reboot
+z pat
+la
+vi BL_1003.cc
+vi BL_1003.cc
+clang++ BL_1003.cc
+./a.out
+PT
+Whatever
+APAAATAA
+APT
+vi BL_1003.cc
+./a.out
+vi BL_1003.cc
+clang++ BL_1003.cc -g
+gdb a.out
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-d3sfq20a.zgm 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-goe2f2wd.odl 
+ /usr/bin/env /bin/sh /tmp/Microsoft-MIEngine-Cmd-11yxlr3k.udm 
+z pat
+clang++ BL_1003.cc -g
+./a.out
+vi BL_1003.cc
+clang++ BL_1003.cc -g
+./a.out
+vi BL_1003.cc
+clang++ BL_1003.cc -g
+./a.out
+vi BL_1003
+vi BL_1003.cc
+vi BL_1003.cc
+./a.out
+./a.out
+clear
+./a.out
+./a.out
+./a.out
+vi BL_1003.cc
+clang++ BL_1003.cc -g
+./a.out
+./a.out
+./a.out
+./a.out
+vi BL_1003.cc
+./a.out
+vi BL_1003.cc
+clang++ BL_1003.cc -g
+./a.out
+vi BL_1003.cc
+./a.out
+./a.out
+./a.out
+./a.out
+1
+./a.out
+./a.out
+./a.out
+./a.out
+vi BL_1003.cc
+vi BL_1003.cc
+vi BL_1003.cc
+clear
+la
+rm -rf BL_1003
+la
+yay -Syu
+yay -Syu
+clear
+z pat
+la
+vi BL_1004.cc
+vi BL_1004.cc
+clang++ BL_1004.cc
+./a.out
+vi BL_1004.cc
+clang++ BL_1004.cc
+./a.out
+vi BL_1004.cc
+clang++ BL_1004.cc
+./a.out
+vi BL_1004.cc
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1001.c
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+clang++ BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+vi BL_1005.cc
+vi BL_1005.cc
+clang++ -v
+gcc -v
+vi BL_1005.cc
+vi BL_1005.cc
+clang++ BL_1005.cc
+./a.out
+vi BL_1005.cc
+clear
+la
+shutdown now
+yay -Syu
+reboot
+shutdown now
+z pat
+la
+vi BL_1006.cc
+vi BL_1006.cc
+clang++ BL_1006.cc
+./a.out
+vi BL_1006.cc
+clang++ BL_1006.cc
+./a.out
+./a.out
+vi BL_1006.cc
+clang++ BL_1006.cc
+./a.out
+vi BL_1006.cc
+clang++ BL_1006.cc
+./a.out
+./a.out
+vi BL_1006.cc
+vi BL_1007.cc
+vi BL_1007.cc
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+./a.out
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+./a.out
+vi BL_1007.cc
+./a.out
+vi BL_1007.cc
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+vi BL_1007.cc
+./a.out
+vi BL_1007.cc
+vi BL_1007.cc
+clang++ BL_1007.cc
+./a.out
+vi BL_1007.cc
+vi BL_1008.cc
+vi BL_1008.cc
+clang++ BL_1008.cc
+./a.out
+vi BL_1008.cc
+./a.out
+vi BL_1008.cc
+clang++ BL_1008.cc
+./a.out
+vi BL_1008.cc
+clang++ BL_1008.cc
+./a.out
+vi BL_1008.cc
+vi BL_1009.cc
+vi BL_1009.cc
+clang++ BL_1009.cc
+./a.out
+vi BL_1009.cc
+clang++ BL_1009.cc
+./a.out
+vi BL_1009.cc
+vi BL_1009.cc
+cp BL_1009.cc test.cc
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+./a.out
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+vi test.cc
+rm -rf test.cc
+cp BL_1009.cc test.cc
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+vi BL_1009.cc
+clear
+la
+rm -rf test.cc
+la
+vi time.cpp
+yay -Syu
+yay -Rns mongodb-bin
+yay -Qs mongodb
+z pat
+vi BL_1010.cc
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+vi BL_1010.cc
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+rm -rf test.cc
+vi test.cc
+clang++ test.cc
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+./a.out
+vi BL_1010.cc
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+vi BL_1010.cc
+clang++ test.cc
+./a.out
+./a.out
+./a.out
+vi BL_1010.cc
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+./a.out
+clang++ test.cc
+./a.out
+./a.out
+./a.out
+clang++ BL_1010.cc
+./a.out
+./a.out
+./a.out
+vi BL_1010.cc
+vi BL_1010.cc
+vi BL_1010.cc
+vi BL_1010.cc
+clang++ BL_1010.cc
+./a.out
+./a.out
+./a.out
+./a.out
+clang++ test.cc
+./a.out
+./a.out
+./a.out
+vi BL_1010.cc
+vi BL_1010.cc
+vi BL_1010.cc
+clear
+la
+la
+vi BL_1011.cc
+vi BL_1011.cc
+clang++ BL_1011.cc
+./a.out
+vi BL_1011.cc
+clang++ BL_1011.cc
+./a.out
+./a.out
+vi BL_1011.cc
+vi BL_1012.cc
+vi BL_1012.cc
+vi BL_1012.cc
+clang++ BL_1012.cc
+./a.out
+./a.out
+vi BL_1012.cc
+clang++ BL_1012.cc
+./a.out
+vi BL_1012.cc
+clang++ BL_1012.cc
+./a.out
+vi BL_1012.cc
+clang++ BL_1012.cc
+./a.out
+vi BL_1012.cc
+la
+clear
+vi BL_1013.cc
+vi BL_1013.cc
+clang++ BL_1013.cc
+./a.out
+vi BL_1013.cc
+./a.out
+vi BL_1013.cc
+./a.out
+./a.out
+./a.out
+vi BL_1013.cc
+clang++ BL_1013.cc
+./a.out
+./a.out
+./a.out
+vi BL_1013.cc
+clang++ BL_1013.cc
+./a.out
+vi BL_1013.cc
+clang++ BL_1013.cc
+./a.out
+vi BL_1013.cc
+clang++ BL_1013.cc
+./a.out
+vi BL_1013.cc
+la
+vi LinearList.h
+vi LinearList.h
+la
+vi LinearList.h
+vi time.cpp
+la
+vi LinearList.h
+vi LinearList.h
+la
+mkdir DSA
+la
+mv LinearList.h Utils.h DSA
+la
+clang++ BL_1002.cc -g
+vi BL_1002.cc
+gdb a.out
+la
+rm -rf .vscode a.out test.cc time.cpp
+la
+cd DSA
+la
+vi Utils.h
+la
+vi LinearList.h
+la
+touch Vector.h
+vi LinearList.h
+touch List.h
+la
+vi LinearList.h
+vi Utils.h
+la
+la
+vi Utils.h
+vi Utils.h
+la
+vi LinearList.h
+la
+vi Vector.h
+vi Utils.h
+vi LinearList.h
+vi Vector.h
+la
+vi Vector.h
+vi Vector.h
+;a
+la
+vi Test_LinearList.cpp
+vi Test_LinearList.cpp
+shutdown now
+yay -Syu
+reboot
+z dsa
+la
+vi fuck_vector.cpp
+vi Vector.h
+vi fuck_vector.cpp
+vi fuck_linst.cpp
+mv fuck_linst.cpp fuck_list.cpp
+la
+vi fuck_list.cpp
+vi Vector.h
+clang++ -std=c++17 fuck_vector.cpp 
+./a.out
+vi fuck_vector.cpp
+clang++ -std=c++17 fuck_vector.cpp 
+./a.out
+vi fuck_vector.cpp
+clang++ -std=c++17 fuck_vector.cpp 
+./a.out
+vi fuck_vector.cpp
+clang++ -std=c++17 fuck_vector.cpp 
+./a.out
+vi fuck_vector.cpp
+vi Vector.h
+shutdown now
+yay -Syu
+z pat
+la
+vi BL_1014.cc
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+d&Hyscvnm
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+vi test.cc
+clang++ -std=c++17 test.cc
+./a.out
+rm -rf BL_1014.cc
+la
+rm -rf test.cc
+la
+vi BL_1014.cc
+vi BL_1014.cc
+clang++ -std=c++17 test.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+./a.out
+vi BL_1014.cc
+vi BL_1014.cc
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+vi BL_1014.cc
+vi BL_1014.cc
+clang++ -std=c++17 BL_1014.cc
+./a.out
+vi BL_1014.cc
+vi BL_1014.cc
+la
+neofetch
+z pat
+vi BL_1015.cc
+vi BL_1015.cc
+clang++ -std=c++17 BL_1015.cc
+./a.out
+vi BL_1015.cc
+clang++ -std=c++17 BL_1015.cc
+./a.out
+vi BL_1015.cc
+clang++ -std=c++17 BL_1015.cc
+./a.out
+vi BL_1015.cc
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+clang++ test.cc
+./a.out
+vi test.cc
+yay -Syu
+z aur
+cd dotfiles
+la
+git pull
+git pull --recurse-submodules
+la
+cd .config
+cd ..
+cp -r .config/nvim ~/.config
+cd
+cd .config/nvim
+la
+nvim
+nvim
+./clean_nvim.sh
+nvim
+nvim
+nvim init.lua
+proxychains nvim init.lua
+proxychains nvim init.lua
+nvim
+vi 
+la
+vi lua/plugins/init.lua
+vi lua/plugins/statusline.lua
+vi
+vi
+z dsa
+la
+vi Vector.h
+vi Vector.h
+vi Vector.h
+clear
+la
+vi Vector.h
+vi Vector.h
+vi Vector.h
+vi Test_LinearList.cpp
+clang++ Test_LinearList.cpp
+vi Vector.h
+clang++ Test_LinearList.cpp
+vi Vector.h
+clang++ Test_LinearList.cpp
+vi Vector.h
+clang++ Test_LinearList.cpp
+./a.out
+vi Vector.h
+clang++ Test_LinearList.cpp
+./a.out
+la
+z dsa
+cd ..
+cd dsa
+cd DSA
+cd
+z dsa
+la
+clear
+la
+la
+vi Test_LinearList.cpp
+la
+shutdown now
+yay -Syu
+reboot
+z aur
+git clone --single-branch --branch=master --depth=1 https://github.com/NAOSI-DLUT/DLUT_SE_Courses.git
+yay -Syu
+yay -Syu
+yay -Syu
+z dsa
+la
+vi Vector.h
+yay -Syu
+yay -Syu
+pacman -Ss virtual-box
+la
+pacman -Ss virtual
+pacman -Ss virtualbo
+pacman -Ss virtualbox
+clear
+pacman -Ss virtualbox
+pacman -S virtualbox
+sudo pacman -S virtualbox
+la
+la
+modprobe vboxdrv
+sudo modprobe vboxdrv
+sudo modprobe vboxnetadp
+sudo modprobe vboxnetflt
+ssh root@192.168.22.90
+ssh root@192.168.22.90
+reboot
+ssh root@192.168.22.90
+ssh root@192.168.22.90
+ssh root@192.168.22.90
+la
+sudo modprobe vboxdrv vboxnetadp vboxnetflt\
+
+sudo modprobe vboxpci
+sudo pacman -S virtualbox-guest-iso
+sudo pacman -Rns virtualbox-guest-iso
+la
+cd VirtualBox\ VMs
+la
+ssh root@192.168.22.90
+ssh root@192.168.22.108
+ssh root@192.168.22.88
+ssh root@192.168.22.103
+wget https://repo.mongodb.org/yum/redhat/7/mongodb-org/5.0/x86_64/RPMS/mongodb-org-server-5.0.5-1.el7.x86_64.rpm
+la
+rm -rf mongodb-org-server-5.0.5-1.el7.x86_64.rpm
+ssh root@192.168.22.103
+ssh root@192.168.22.103
+ssh user_mongo@192.168.22.103
+ssh root@192.168.22.103
+ssh root@192.168.22.173
+ssh root@192.168.22.103
+cd Downloads
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103: /opt/software
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103: /opt/software
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103: /opt/software
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103: /opt/software
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.103: /opt/software/
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz root@192.168.22.103: /opt/software/
+scp -r mongodb-linux-x86_64-rhel70-4.2.2.tgz root@192.168.22.103:/opt/software/
+vi tmp.txt
+ls
+la
+ls
+ssh root@192.168.22.103
+ssh root@192.168.22.103
+ssh user_mongo@192.168.22.103
+vi tmp.txt
+ssh horel@192.168.122.1
+ssh horel@10.0.2.15
+ssh horel@192.168.22.89
+ssh horel@192.168.22.89
+ssh horel@192.168.22.89
+scp -r Downloads/mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.96:/opt/software/
+scp -r Downloads/mongodb-linux-x86_64-rhel70-4.2.2.tgz user_mongo@192.168.22.96:/opt/software/
+scp -r Downloads/mongodb-linux-x86_64-rhel70-4.2.2.tgz root@192.168.22.96:/opt/software/
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+ssh horel@192.168.22.80
+ssh horel@192.168.22.80
+ssh user_mongo@192.168.22.80
+sudo firewall-cmd --state
+ssh user_mongo@192.168.22.80
+ssh horel@192.168.22.93
+ssh horel@192.168.22.93
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.93
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+ssh horel@192.168.22.96
+ssh horel@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh root@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+reboot
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.96
+reboot
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.80
+ssh user_mongo@192.168.22.80
+ssh user_mongo@192.168.22.80
+mongo1..
+ssh user_mongo@192.168.22.80
+ssh user_mongo@192.168.22.80
+vi tmp.txt
+vi tmp.txt
+vi tmp.txt
+cd code
+cd Code
+vi tmp.java
+vi tmp.java
+vi tmp.java
+vi tmp.java
+cd Code
+mv tmp.java Redis.java
+shutdown now
+yay -Syu
+reboot
+yay -Syu
+yay -Syu
+clear
+yay -Syu
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+yay -Syu
+vi tmp.jsp
+vi tmp.jsp
+vi tmp.jsp
+yay -Syu
+cd code
+cd Code
+ls
+cd DSA
+ls
+la
+ls
+la
+vi README.md
+vi README.md
+ls
+ll
+la
+vi Utils.h
+rm -rf LinearList.h
+la
+vi Utils.h
+la
+vi Vector.h
+vi List.h
+la
+vi Vector.h
+la
+yay -Syu
+reboot
+z zur
+z aur
+ls
+cd aur
+z aur
+scp -r hadoop-2.7.4.tar.gz user_mongo@192.168.22.96:/opt/software/
+z aur
+scp -r zookeeper-3.4.10.tar.gz user_mongo@192.168.22.96:/opt/software/
+z aur
+wget https://archive.apache.org/dist/hbase/1.2.1/hbase-1.2.1-bin.tar.gz
+wget https://archive.apache.org/dist/zookeeper/zookeeper-3.4.10/zookeeper-3.4.10.tar.gz
+wget https://archive.apache.org/dist/hadoop/common/hadoop-2.7.4/hadoop-2.7.4.tar.gz
+ssh user_mongo@192.168.22.96
+scp -r hbase-1.2.1-bin.tar.gz root@192.168.22.96:/opt/software/
+ssh user_mongo@192.168.22.96
+scp -r hbase-1.2.1-bin.tar.gz user_mongo@192.168.22.96:/opt/software/
+ssh user_mongo@192.168.22.96
+scp -r hbase-1.2.1-bin.tar.gz user_mongo@192.168.22.96:/opt/software/
+ssh user_mongo@192.168.22.96
+scp -r hbase-1.2.1-bin.tar.gz user_mongo@192.168.22.96:/opt/software/
+ssh user_mongo@192.168.22.96
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.80
+yay -Syu
+pacman -Fl jdk
+scp -r Downloads/jdk-8u311-linux-x64.tar.gz user_mongo@192.168.22.96 /opt/software/
+scp -r Downloads/jdk-8u311-linux-x64.tar.gz user_mongo@192.168.22.96:/opt/software/
+ssh user_mongo@192.168.22.93
+ssh user_mongo@192.168.22.96
+yay -Syu
+cd .config/clash
+ls
+ls
+la
+wget https://sub.wsl.icu/link/JCiy4Angm8USycMs?clash=2 -o config.yaml
+la
+la
+rm -rf JCiy4Angm8USycMs\?clash=2
+wget https://sub.wsl.icu/link/JCiy4Angm8USycMs?clash=2 -O config.yaml
+vi config.yaml
+clear
+la
+rm -rf .viminfo
+rm -rf .vnc
+la
+clear
+xclip -sel clip < Documents/tocken.txt
+cd Documents/Blog
+ls
+la
+hexo n "ÁÉ¥µÈÉ¥Ø‰∫∫"
+hexo g
+hexo s
+hexo g
+hexo s
+hexo g
+hexo s
+hexo g
+hexo s
+hexo d
+git add .
+git push origin source
+git commit -m "2021-12-17"
+git push origin source
+yay -Syu
+reboot
+yay -Syu
+xclip -sel clip < Documents/tocken.txt
